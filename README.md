@@ -203,7 +203,6 @@ it to PDF without re-running the model.
 ```
 CropDiseasesPrediction/
 ├── README.md
-├── .env.example              # template — copy to .env
 ├── .gitignore
 ├── start.bat · start.ps1     # one-command local launchers
 │
@@ -283,11 +282,10 @@ backend/models/
 
 ### 5. Configure
 
-```bash
-cp .env.example .env        # Windows: copy .env.example .env
-```
+Create a `.env` file in the project root with your own credentials.
 
-Nothing is mandatory — it boots with defaults and stores data in local SQLite.
+Nothing is mandatory — the app boots with sensible defaults and stores data in a
+local SQLite file, so you can skip this entirely for a first run.
 
 ### 6. Run
 
@@ -311,19 +309,25 @@ Open **<http://localhost:5000>**.
 
 ## 🔑 Configuration
 
-All settings are supplied through environment variables. The complete list —
-with descriptions, defaults and safe placeholder values — lives in
-**[`.env.example`](.env.example)**.
+All settings are read from environment variables at startup, loaded from a
+`.env` file in the project root. Every setting is optional — the app runs with
+sensible defaults and a local SQLite database if you provide nothing.
 
-```bash
-cp .env.example .env      # Windows: copy .env.example .env
-```
+Configurable areas:
 
-Fill in your own credentials there. `.env` is git-ignored and must never be
-committed.
+| Area | What it controls |
+|---|---|
+| Server | Port and debug mode |
+| Database | Postgres connection, or the local SQLite fallback |
+| Google Sign-In | Optional OAuth client for accounts and saved history |
+| Prediction | Which model answers, and the cascade handover threshold |
+| Gemini | Optional identification for crops outside the built-in list |
+| Quotas | Daily scan limits for signed-in and guest users |
 
-> 🔐 Never paste real credentials into the README, an issue, or a commit.
-> If a key is ever exposed, rotate it immediately in the provider's console.
+`backend/config.py` documents each variable inline, including its default.
+
+> 🔐 `.env` is git-ignored and must never be committed. If a credential is ever
+> exposed, rotate it immediately in the provider's console.
 
 ## 📡 API reference
 
