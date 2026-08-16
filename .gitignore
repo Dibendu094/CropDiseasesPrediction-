@@ -1,0 +1,100 @@
+# ══════════════════════════════════════════════════════════════
+#  SECRETS — never commit these
+# ══════════════════════════════════════════════════════════════
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*service-account*.json
+secrets.json
+
+
+# ══════════════════════════════════════════════════════════════
+#  TRAINED MODELS  (~1.1 GB — exceeds GitHub's 100 MB file limit)
+#  Distribute via Releases, Git LFS, or a cloud bucket instead.
+# ══════════════════════════════════════════════════════════════
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+*.pkl
+backend/models/*
+!backend/models/README.md
+
+
+# ══════════════════════════════════════════════════════════════
+#  USER DATA
+# ══════════════════════════════════════════════════════════════
+uploads/*
+!uploads/.gitkeep
+agricare_local.db
+agricare_local.db-wal
+agricare_local.db-shm
+*.sqlite
+*.sqlite3
+
+
+# ══════════════════════════════════════════════════════════════
+#  PYTHON
+# ══════════════════════════════════════════════════════════════
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+
+# ══════════════════════════════════════════════════════════════
+#  NODE / FRONTEND BUILD
+# ══════════════════════════════════════════════════════════════
+node_modules/
+.next/
+.vercel
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+
+# ══════════════════════════════════════════════════════════════
+#  LOGS & TEMP
+# ══════════════════════════════════════════════════════════════
+*.log
+logs/
+.tmpwork/
+tmp/
+temp/
+
+
+# ══════════════════════════════════════════════════════════════
+#  EDITORS & OS
+# ══════════════════════════════════════════════════════════════
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# ══════════════════════════════════════════════════════════════
+#  PROJECT-SPECIFIC
+# ══════════════════════════════════════════════════════════════
+# Standalone experiments not part of the deployed app
+crop_disease_system/outputs/
+crop_disease_system/logs/
+crop_disease_system/__pycache__/
+yeild_model/

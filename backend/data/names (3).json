@@ -1,0 +1,912 @@
+{
+    "0": {
+        "class_id": 0,
+        "class_name": "Apple__black_rot",
+        "crop": "Apple",
+        "disease": "black_rot",
+        "display_name": "Black Rot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "1": {
+        "class_id": 1,
+        "class_name": "Apple__healthy",
+        "crop": "Apple",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "2": {
+        "class_id": 2,
+        "class_name": "Apple__rust",
+        "crop": "Apple",
+        "disease": "rust",
+        "display_name": "Rust",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "3": {
+        "class_id": 3,
+        "class_name": "Apple__scab",
+        "crop": "Apple",
+        "disease": "scab",
+        "display_name": "Scab",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "4": {
+        "class_id": 4,
+        "class_name": "Cassava__bacterial_blight",
+        "crop": "Cassava",
+        "disease": "bacterial_blight",
+        "display_name": "Bacterial Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "5": {
+        "class_id": 5,
+        "class_name": "Cassava__brown_streak_disease",
+        "crop": "Cassava",
+        "disease": "brown_streak_disease",
+        "display_name": "Brown Streak Disease",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "6": {
+        "class_id": 6,
+        "class_name": "Cassava__green_mottle",
+        "crop": "Cassava",
+        "disease": "green_mottle",
+        "display_name": "Green Mottle",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "7": {
+        "class_id": 7,
+        "class_name": "Cassava__healthy",
+        "crop": "Cassava",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "8": {
+        "class_id": 8,
+        "class_name": "Cassava__mosaic_disease",
+        "crop": "Cassava",
+        "disease": "mosaic_disease",
+        "display_name": "Mosaic Disease",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "9": {
+        "class_id": 9,
+        "class_name": "Cherry__healthy",
+        "crop": "Cherry",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "10": {
+        "class_id": 10,
+        "class_name": "Cherry__powdery_mildew",
+        "crop": "Cherry",
+        "disease": "powdery_mildew",
+        "display_name": "Powdery Mildew",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "11": {
+        "class_id": 11,
+        "class_name": "Chili__healthy",
+        "crop": "Chili",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "12": {
+        "class_id": 12,
+        "class_name": "Chili__leaf curl",
+        "crop": "Chili",
+        "disease": "leaf curl",
+        "display_name": "Leaf Curl",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "13": {
+        "class_id": 13,
+        "class_name": "Chili__leaf spot",
+        "crop": "Chili",
+        "disease": "leaf spot",
+        "display_name": "Leaf Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "14": {
+        "class_id": 14,
+        "class_name": "Chili__whitefly",
+        "crop": "Chili",
+        "disease": "whitefly",
+        "display_name": "Whitefly",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "15": {
+        "class_id": 15,
+        "class_name": "Chili__yellowish",
+        "crop": "Chili",
+        "disease": "yellowish",
+        "display_name": "Yellowish",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "16": {
+        "class_id": 16,
+        "class_name": "Coffee__cercospora_leaf_spot",
+        "crop": "Coffee",
+        "disease": "cercospora_leaf_spot",
+        "display_name": "Cercospora Leaf Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "17": {
+        "class_id": 17,
+        "class_name": "Coffee__healthy",
+        "crop": "Coffee",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "18": {
+        "class_id": 18,
+        "class_name": "Coffee__red_spider_mite",
+        "crop": "Coffee",
+        "disease": "red_spider_mite",
+        "display_name": "Red Spider Mite",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "19": {
+        "class_id": 19,
+        "class_name": "Coffee__rust",
+        "crop": "Coffee",
+        "disease": "rust",
+        "display_name": "Rust",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "20": {
+        "class_id": 20,
+        "class_name": "Corn__common_rust",
+        "crop": "Corn",
+        "disease": "common_rust",
+        "display_name": "Common Rust",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "21": {
+        "class_id": 21,
+        "class_name": "Corn__gray_leaf_spot",
+        "crop": "Corn",
+        "disease": "gray_leaf_spot",
+        "display_name": "Gray Leaf Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "22": {
+        "class_id": 22,
+        "class_name": "Corn__healthy",
+        "crop": "Corn",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "23": {
+        "class_id": 23,
+        "class_name": "Corn__northern_leaf_blight",
+        "crop": "Corn",
+        "disease": "northern_leaf_blight",
+        "display_name": "Northern Leaf Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "24": {
+        "class_id": 24,
+        "class_name": "Cucumber__diseased",
+        "crop": "Cucumber",
+        "disease": "diseased",
+        "display_name": "Diseased",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "25": {
+        "class_id": 25,
+        "class_name": "Cucumber__healthy",
+        "crop": "Cucumber",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "26": {
+        "class_id": 26,
+        "class_name": "Gauva__diseased",
+        "crop": "Gauva",
+        "disease": "diseased",
+        "display_name": "Diseased",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "27": {
+        "class_id": 27,
+        "class_name": "Gauva__healthy",
+        "crop": "Gauva",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "28": {
+        "class_id": 28,
+        "class_name": "Grape__black_measles",
+        "crop": "Grape",
+        "disease": "black_measles",
+        "display_name": "Black Measles",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "29": {
+        "class_id": 29,
+        "class_name": "Grape__black_rot",
+        "crop": "Grape",
+        "disease": "black_rot",
+        "display_name": "Black Rot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "30": {
+        "class_id": 30,
+        "class_name": "Grape__healthy",
+        "crop": "Grape",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "31": {
+        "class_id": 31,
+        "class_name": "Grape__leaf_blight_(isariopsis_leaf_spot)",
+        "crop": "Grape",
+        "disease": "leaf_blight_(isariopsis_leaf_spot)",
+        "display_name": "Leaf Blight Isariopsis Leaf Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "32": {
+        "class_id": 32,
+        "class_name": "Jamun__diseased",
+        "crop": "Jamun",
+        "disease": "diseased",
+        "display_name": "Diseased",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "33": {
+        "class_id": 33,
+        "class_name": "Jamun__healthy",
+        "crop": "Jamun",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "34": {
+        "class_id": 34,
+        "class_name": "Lemon__diseased",
+        "crop": "Lemon",
+        "disease": "diseased",
+        "display_name": "Diseased",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "35": {
+        "class_id": 35,
+        "class_name": "Lemon__healthy",
+        "crop": "Lemon",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "36": {
+        "class_id": 36,
+        "class_name": "Mango__diseased",
+        "crop": "Mango",
+        "disease": "diseased",
+        "display_name": "Diseased",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "37": {
+        "class_id": 37,
+        "class_name": "Mango__healthy",
+        "crop": "Mango",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "38": {
+        "class_id": 38,
+        "class_name": "Mulberry Healthy leaves",
+        "crop": "Mulberry",
+        "disease": "Healthy leaves",
+        "display_name": "Healthy Leaves",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "39": {
+        "class_id": 39,
+        "class_name": "Mulberry Leaf Rust",
+        "crop": "Mulberry",
+        "disease": "Leaf Rust",
+        "display_name": "Leaf Rust",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "40": {
+        "class_id": 40,
+        "class_name": "Mulberry Leaf spot",
+        "crop": "Mulberry",
+        "disease": "Leaf spot",
+        "display_name": "Leaf Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "41": {
+        "class_id": 41,
+        "class_name": "Peach__bacterial_spot",
+        "crop": "Peach",
+        "disease": "bacterial_spot",
+        "display_name": "Bacterial Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "42": {
+        "class_id": 42,
+        "class_name": "Peach__healthy",
+        "crop": "Peach",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "43": {
+        "class_id": 43,
+        "class_name": "Pepper_bell__bacterial_spot",
+        "crop": "Pepper_bell",
+        "disease": "bacterial_spot",
+        "display_name": "Bacterial Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "44": {
+        "class_id": 44,
+        "class_name": "Pepper_bell__healthy",
+        "crop": "Pepper_bell",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "45": {
+        "class_id": 45,
+        "class_name": "Pomegranate__diseased",
+        "crop": "Pomegranate",
+        "disease": "diseased",
+        "display_name": "Diseased",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "46": {
+        "class_id": 46,
+        "class_name": "Pomegranate__healthy",
+        "crop": "Pomegranate",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "47": {
+        "class_id": 47,
+        "class_name": "Potato__early_blight",
+        "crop": "Potato",
+        "disease": "early_blight",
+        "display_name": "Early Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "48": {
+        "class_id": 48,
+        "class_name": "Potato__healthy",
+        "crop": "Potato",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "49": {
+        "class_id": 49,
+        "class_name": "Potato__late_blight",
+        "crop": "Potato",
+        "disease": "late_blight",
+        "display_name": "Late Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "50": {
+        "class_id": 50,
+        "class_name": "Rice__brown_spot",
+        "crop": "Rice",
+        "disease": "brown_spot",
+        "display_name": "Brown Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "51": {
+        "class_id": 51,
+        "class_name": "Rice__healthy",
+        "crop": "Rice",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "52": {
+        "class_id": 52,
+        "class_name": "Rice__hispa",
+        "crop": "Rice",
+        "disease": "hispa",
+        "display_name": "Hispa",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "53": {
+        "class_id": 53,
+        "class_name": "Rice__leaf_blast",
+        "crop": "Rice",
+        "disease": "leaf_blast",
+        "display_name": "Leaf Blast",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "54": {
+        "class_id": 54,
+        "class_name": "Rice__neck_blast",
+        "crop": "Rice",
+        "disease": "neck_blast",
+        "display_name": "Neck Blast",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "55": {
+        "class_id": 55,
+        "class_name": "Soybean__bacterial_blight",
+        "crop": "Soybean",
+        "disease": "bacterial_blight",
+        "display_name": "Bacterial Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "56": {
+        "class_id": 56,
+        "class_name": "Soybean__caterpillar",
+        "crop": "Soybean",
+        "disease": "caterpillar",
+        "display_name": "Caterpillar",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "57": {
+        "class_id": 57,
+        "class_name": "Soybean__diabrotica_speciosa",
+        "crop": "Soybean",
+        "disease": "diabrotica_speciosa",
+        "display_name": "Diabrotica Speciosa",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "58": {
+        "class_id": 58,
+        "class_name": "Soybean__downy_mildew",
+        "crop": "Soybean",
+        "disease": "downy_mildew",
+        "display_name": "Downy Mildew",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "59": {
+        "class_id": 59,
+        "class_name": "Soybean__healthy",
+        "crop": "Soybean",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "60": {
+        "class_id": 60,
+        "class_name": "Soybean__mosaic_virus",
+        "crop": "Soybean",
+        "disease": "mosaic_virus",
+        "display_name": "Mosaic Virus",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "61": {
+        "class_id": 61,
+        "class_name": "Soybean__powdery_mildew",
+        "crop": "Soybean",
+        "disease": "powdery_mildew",
+        "display_name": "Powdery Mildew",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "62": {
+        "class_id": 62,
+        "class_name": "Soybean__rust",
+        "crop": "Soybean",
+        "disease": "rust",
+        "display_name": "Rust",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "63": {
+        "class_id": 63,
+        "class_name": "Soybean__southern_blight",
+        "crop": "Soybean",
+        "disease": "southern_blight",
+        "display_name": "Southern Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "64": {
+        "class_id": 64,
+        "class_name": "Strawberry___leaf_scorch",
+        "crop": "Strawberry",
+        "disease": "_leaf_scorch",
+        "display_name": "Leaf Scorch",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "65": {
+        "class_id": 65,
+        "class_name": "Strawberry__healthy",
+        "crop": "Strawberry",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "66": {
+        "class_id": 66,
+        "class_name": "Sugarcane__bacterial_blight",
+        "crop": "Sugarcane",
+        "disease": "bacterial_blight",
+        "display_name": "Bacterial Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "67": {
+        "class_id": 67,
+        "class_name": "Sugarcane__healthy",
+        "crop": "Sugarcane",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "68": {
+        "class_id": 68,
+        "class_name": "Sugarcane__red_rot",
+        "crop": "Sugarcane",
+        "disease": "red_rot",
+        "display_name": "Red Rot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "69": {
+        "class_id": 69,
+        "class_name": "Sugarcane__red_stripe",
+        "crop": "Sugarcane",
+        "disease": "red_stripe",
+        "display_name": "Red Stripe",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "70": {
+        "class_id": 70,
+        "class_name": "Sugarcane__rust",
+        "crop": "Sugarcane",
+        "disease": "rust",
+        "display_name": "Rust",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "71": {
+        "class_id": 71,
+        "class_name": "Tea__algal_leaf",
+        "crop": "Tea",
+        "disease": "algal_leaf",
+        "display_name": "Algal Leaf",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "72": {
+        "class_id": 72,
+        "class_name": "Tea__anthracnose",
+        "crop": "Tea",
+        "disease": "anthracnose",
+        "display_name": "Anthracnose",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "73": {
+        "class_id": 73,
+        "class_name": "Tea__bird_eye_spot",
+        "crop": "Tea",
+        "disease": "bird_eye_spot",
+        "display_name": "Bird Eye Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "74": {
+        "class_id": 74,
+        "class_name": "Tea__brown_blight",
+        "crop": "Tea",
+        "disease": "brown_blight",
+        "display_name": "Brown Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "75": {
+        "class_id": 75,
+        "class_name": "Tea__healthy",
+        "crop": "Tea",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "76": {
+        "class_id": 76,
+        "class_name": "Tea__red_leaf_spot",
+        "crop": "Tea",
+        "disease": "red_leaf_spot",
+        "display_name": "Red Leaf Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "77": {
+        "class_id": 77,
+        "class_name": "Tomato__bacterial_spot",
+        "crop": "Tomato",
+        "disease": "bacterial_spot",
+        "display_name": "Bacterial Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "78": {
+        "class_id": 78,
+        "class_name": "Tomato__early_blight",
+        "crop": "Tomato",
+        "disease": "early_blight",
+        "display_name": "Early Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "79": {
+        "class_id": 79,
+        "class_name": "Tomato__healthy",
+        "crop": "Tomato",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "80": {
+        "class_id": 80,
+        "class_name": "Tomato__late_blight",
+        "crop": "Tomato",
+        "disease": "late_blight",
+        "display_name": "Late Blight",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "81": {
+        "class_id": 81,
+        "class_name": "Tomato__leaf_mold",
+        "crop": "Tomato",
+        "disease": "leaf_mold",
+        "display_name": "Leaf Mold",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "82": {
+        "class_id": 82,
+        "class_name": "Tomato__mosaic_virus",
+        "crop": "Tomato",
+        "disease": "mosaic_virus",
+        "display_name": "Mosaic Virus",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "83": {
+        "class_id": 83,
+        "class_name": "Tomato__septoria_leaf_spot",
+        "crop": "Tomato",
+        "disease": "septoria_leaf_spot",
+        "display_name": "Septoria Leaf Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "84": {
+        "class_id": 84,
+        "class_name": "Tomato__spider_mites_(two_spotted_spider_mite)",
+        "crop": "Tomato",
+        "disease": "spider_mites_(two_spotted_spider_mite)",
+        "display_name": "Spider Mites Two Spotted Spider Mite",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "85": {
+        "class_id": 85,
+        "class_name": "Tomato__target_spot",
+        "crop": "Tomato",
+        "disease": "target_spot",
+        "display_name": "Target Spot",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "86": {
+        "class_id": 86,
+        "class_name": "Tomato__yellow_leaf_curl_virus",
+        "crop": "Tomato",
+        "disease": "yellow_leaf_curl_virus",
+        "display_name": "Yellow Leaf Curl Virus",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "87": {
+        "class_id": 87,
+        "class_name": "Wheat__brown_rust",
+        "crop": "Wheat",
+        "disease": "brown_rust",
+        "display_name": "Brown Rust",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "88": {
+        "class_id": 88,
+        "class_name": "Wheat__healthy",
+        "crop": "Wheat",
+        "disease": "healthy",
+        "display_name": "Healthy",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "89": {
+        "class_id": 89,
+        "class_name": "Wheat__septoria",
+        "crop": "Wheat",
+        "disease": "septoria",
+        "display_name": "Septoria",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    },
+    "90": {
+        "class_id": 90,
+        "class_name": "Wheat__yellow_rust",
+        "crop": "Wheat",
+        "disease": "yellow_rust",
+        "display_name": "Yellow Rust",
+        "description": "",
+        "treatment": "",
+        "prevention": ""
+    }
+}

@@ -1,0 +1,22 @@
+# ── Web ──
+flask
+werkzeug
+python-dotenv
+
+# ── Model inference ──
+torch
+torchvision
+timm
+Pillow
+
+# ── Storage ──
+# Postgres driver. The app falls back to bundled SQLite if unreachable,
+# so this is only needed for the cloud/Supabase backend.
+psycopg2-binary
+
+# ── Optional integrations ──
+# Unlisted-crop identification (Gemini Vision)
+google-genai
+# Google Sign-In token verification (pulled in by google-genai, pinned here
+# because auth depends on it directly)
+google-auth

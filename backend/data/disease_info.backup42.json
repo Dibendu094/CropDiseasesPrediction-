@@ -1,0 +1,3280 @@
+{
+  "Apple___Apple_scab": {
+    "disease": "Apple Scab",
+    "is_healthy": false,
+    "description": "Fungal disease causing dark spots on leaves and deformed fruits.",
+    "symptoms": [
+      "Dark spots on leaves",
+      "Curled leaves",
+      "Rough spots on fruits",
+      "Early leaf drop",
+      "Cracked fruits"
+    ],
+    "cause": "Fungus spread by wind during wet weather.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits",
+      "Twigs"
+    ],
+    "treatment": [
+      {
+        "name": "Captan 50% WP (Wettable Powder)",
+        "purpose": "Contact fungicide for protective control",
+        "application": "Foliar spray at petal fall",
+        "dosage": "2.0g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Wear protective gear"
+      },
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Prevents spore germination",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Observe pre-harvest interval"
+      },
+      {
+        "name": "Myclobutanil 10% WP (Wettable Powder)",
+        "purpose": "Systemic fungicide for curative/preventive action",
+        "application": "Foliar spray during early infection",
+        "dosage": "1.0g per liter",
+        "interval": "Every 14 days",
+        "safety": "Low toxicity to beneficials"
+      }
+    ],
+    "prevention": [
+      "Burn fallen leaves",
+      "Prune for airflow",
+      "Plant resistant trees",
+      "Spray before rain"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 400–500 g per tree in early spring; strengthens cell walls, firms the fruit and improves natural disease resistance."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 5 g per litre of water at fruit-set and again after 15 days; toughens the fruit skin and stops cracking and bitter pit."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Mix 20–25 kg per tree in the basin before flowering; feeds the soil and keeps roots healthy all season."
+      }
+    ],
+    "farmer_tips": [
+      "• Check leaves in spring",
+      "• Burn old leaves",
+      "• Spray early"
+    ],
+    "crop": "Apple",
+    "crop_hindi": "सेब",
+    "preventive_measures": [
+      "Burn fallen leaves",
+      "Prune for airflow",
+      "Plant resistant trees",
+      "Spray before rain"
+    ],
+    "organic_remedy": [
+      "Collect and burn all fallen infected leaves outside the farm so the fungus cannot survive winter.",
+      "Spray Neem oil (5 ml per litre of water) mixed with a pinch of soap every 7 days.",
+      "Spray a diluted cow-milk solution (1 part milk to 9 parts water) on a sunny morning to slow the fungus."
+    ],
+    "chemical_spray": [
+      "Captan 50% WP (Wettable Powder) — 2.0g per liter. Foliar spray at petal fall, repeat every 7-10 days.",
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 10-14 days.",
+      "Myclobutanil 10% WP (Wettable Powder) — 1.0g per liter. Foliar spray during early infection, repeat every 14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check the underside of the leaves (patti ke neeche) once a week — spots and insects are easy to stop when small.",
+      "Prune the tree so the centre stays open; sunlight and airflow keep the canopy dry and fungus-free.",
+      "Collect and burn fallen leaves and fruit in autumn so disease cannot survive the winter.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Apple___Black_rot": {
+    "disease": "Black Rot",
+    "is_healthy": false,
+    "description": "Fungal disease causing leaf spots, rotted fruit, and branch cankers.",
+    "symptoms": [
+      "Brown leaf spots",
+      "Black, shriveled fruits",
+      "Red-brown branch cankers",
+      "Early fruit drop"
+    ],
+    "cause": "Fungus surviving in dead bark and old fruits.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits",
+      "Branches"
+    ],
+    "treatment": [
+      {
+        "name": "Captan 50% WP (Wettable Powder)",
+        "purpose": "Contact fungicide",
+        "application": "Foliar spray",
+        "dosage": "2.0g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Wear protective gear"
+      },
+      {
+        "name": "Thiophanate-methyl 70% WP (Wettable Powder)",
+        "purpose": "Systemic treatment for cankers",
+        "application": "Apply to pruning wounds",
+        "dosage": "1.5g per liter",
+        "interval": "During dormant season",
+        "safety": "Store away from food"
+      }
+    ],
+    "prevention": [
+      "Remove old fruits",
+      "Prune dead branches",
+      "Keep orchard clean",
+      "Avoid wounding trees"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 400–500 g per tree in early spring; strengthens cell walls, firms the fruit and improves natural disease resistance."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 5 g per litre of water at fruit-set and again after 15 days; toughens the fruit skin and stops cracking and bitter pit."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Mix 20–25 kg per tree in the basin before flowering; feeds the soil and keeps roots healthy all season."
+      }
+    ],
+    "farmer_tips": [
+      "• Remove all rotten fruits",
+      "• Clean pruning tools",
+      "• Keep orchard floor clean"
+    ],
+    "crop": "Apple",
+    "crop_hindi": "सेब",
+    "preventive_measures": [
+      "Remove old fruits",
+      "Prune dead branches",
+      "Keep orchard clean",
+      "Avoid wounding trees"
+    ],
+    "organic_remedy": [
+      "Prune and burn dead, cankered branches and remove every dried (mummified) fruit from the tree.",
+      "Spray Neem oil (5 ml/L) with a little soap every 7–10 days during wet weather.",
+      "Seal pruning cuts with Bordeaux paste so the fungus cannot enter the wound."
+    ],
+    "chemical_spray": [
+      "Captan 50% WP (Wettable Powder) — 2.0g per liter. Foliar spray, repeat every 10-14 days.",
+      "Thiophanate-methyl 70% WP (Wettable Powder) — 1.5g per liter. Apply to pruning wounds, repeat during dormant season."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check the underside of the leaves (patti ke neeche) once a week — spots and insects are easy to stop when small.",
+      "Prune the tree so the centre stays open; sunlight and airflow keep the canopy dry and fungus-free.",
+      "Collect and burn fallen leaves and fruit in autumn so disease cannot survive the winter.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Apple___Cedar_apple_rust": {
+    "disease": "Cedar Apple Rust",
+    "is_healthy": false,
+    "description": "Fungal disease causing bright orange spots on leaves, requiring cedar trees to spread.",
+    "symptoms": [
+      "Orange-yellow spots on leaves",
+      "Raised tubes under leaves",
+      "Early leaf drop",
+      "Small deformed fruits"
+    ],
+    "cause": "Fungus that needs both apple and cedar trees.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits",
+      "Twigs"
+    ],
+    "treatment": [
+      {
+        "name": "Myclobutanil 10% WP (Wettable Powder)",
+        "purpose": "Systemic fungicide effective against rust",
+        "application": "Foliar spray at pink bud stage",
+        "dosage": "1.0g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Wear basic protective equipment"
+      },
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Protective fungicide",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 7-14 days",
+        "safety": "Do not apply near water sources"
+      }
+    ],
+    "prevention": [
+      "Remove nearby cedar trees",
+      "Plant resistant apples",
+      "Spray before wet weather"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 400–500 g per tree in early spring; strengthens cell walls, firms the fruit and improves natural disease resistance."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 5 g per litre of water at fruit-set and again after 15 days; toughens the fruit skin and stops cracking and bitter pit."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Mix 20–25 kg per tree in the basin before flowering; feeds the soil and keeps roots healthy all season."
+      }
+    ],
+    "farmer_tips": [
+      "• Look for orange galls on cedars",
+      "• Needs cedar to spread",
+      "• Spray before symptoms show"
+    ],
+    "crop": "Apple",
+    "crop_hindi": "सेब",
+    "preventive_measures": [
+      "Remove nearby cedar trees",
+      "Plant resistant apples",
+      "Spray before wet weather"
+    ],
+    "organic_remedy": [
+      "Remove nearby juniper/cedar trees (the alternate host) within 200–300 metres where possible.",
+      "Spray Neem oil (5 ml/L) at the pink-bud stage and repeat every 7–10 days.",
+      "Dust or spray wettable sulphur on the leaves in early spring."
+    ],
+    "chemical_spray": [
+      "Myclobutanil 10% WP (Wettable Powder) — 1.0g per liter. Foliar spray at pink bud stage, repeat every 7-10 days.",
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 7-14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check the underside of the leaves (patti ke neeche) once a week — spots and insects are easy to stop when small.",
+      "Prune the tree so the centre stays open; sunlight and airflow keep the canopy dry and fungus-free.",
+      "Collect and burn fallen leaves and fruit in autumn so disease cannot survive the winter.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Apple___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Tree appears healthy with no visible signs of disease.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Keep regular spray schedule",
+      "Prune for airflow",
+      "Keep orchard clean"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 400–500 g per tree in early spring; strengthens cell walls, firms the fruit and improves natural disease resistance."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 5 g per litre of water at fruit-set and again after 15 days; toughens the fruit skin and stops cracking and bitter pit."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Mix 20–25 kg per tree in the basin before flowering; feeds the soil and keeps roots healthy all season."
+      }
+    ],
+    "farmer_tips": [
+      "• Tree looks great",
+      "• Keep monitoring weekly"
+    ],
+    "crop": "Apple",
+    "crop_hindi": "सेब",
+    "preventive_measures": [
+      "Keep regular spray schedule",
+      "Prune for airflow",
+      "Keep orchard clean"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Check the underside of the leaves (patti ke neeche) once a week — spots and insects are easy to stop when small.",
+      "Prune the tree so the centre stays open; sunlight and airflow keep the canopy dry and fungus-free.",
+      "Collect and burn fallen leaves and fruit in autumn so disease cannot survive the winter."
+    ]
+  },
+  "Blueberry___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Plant is healthy with no signs of disease.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Keep soil acidic",
+      "Add mulch",
+      "Prune old wood"
+    ],
+    "fertilizers": [
+      {
+        "name": "Ammonium Sulfate",
+        "purpose": "Apply 20–30 g per bush in split doses in spring; keeps the soil acidic (pH 4.5–5.5), which blueberry needs to stay healthy."
+      },
+      {
+        "name": "Elemental Sulphur",
+        "purpose": "Mix into the soil before planting to lower the pH; prevents leaf yellowing (iron chlorosis)."
+      },
+      {
+        "name": "Pine-bark Compost (Mulch)",
+        "purpose": "Spread 5–8 cm thick around the bush; holds moisture and slowly feeds the shallow roots."
+      }
+    ],
+    "farmer_tips": [
+      "• Check soil pH yearly",
+      "• Water consistently"
+    ],
+    "crop": "Blueberry",
+    "crop_hindi": "ब्लूबेरी",
+    "preventive_measures": [
+      "Keep soil acidic",
+      "Add mulch",
+      "Prune old wood"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Test the soil pH twice a year — blueberry only stays healthy in acidic soil (pH 4.5–5.5).",
+      "Keep a thick bark mulch around the bush to hold moisture and stop weeds.",
+      "Prune out old, weak canes each winter so new healthy shoots can grow."
+    ]
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "disease": "Powdery Mildew",
+    "is_healthy": false,
+    "description": "White powdery coating on leaves and shoots, stunting growth.",
+    "symptoms": [
+      "White powder on leaves",
+      "Curled new leaves",
+      "Stunted shoots",
+      "Small fruits"
+    ],
+    "cause": "Fungus spreading in warm, dry days and cool nights.",
+    "affected_parts": [
+      "Leaves",
+      "Shoots",
+      "Fruits"
+    ],
+    "treatment": [
+      {
+        "name": "Wettable Sulfur 80% WP (Wettable Powder)",
+        "purpose": "Contact fungicide",
+        "application": "Foliar spray on affected areas",
+        "dosage": "3.0g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Do not apply above 30°C to avoid leaf burn"
+      },
+      {
+        "name": "Myclobutanil 10% WP (Wettable Powder)",
+        "purpose": "Systemic fungicide",
+        "application": "Foliar spray",
+        "dosage": "1.0g per liter",
+        "interval": "Every 14 days",
+        "safety": "Low toxicity"
+      },
+      {
+        "name": "Potassium Bicarbonate (Organic Fungicide)",
+        "purpose": "Organic fungicide",
+        "application": "Foliar spray",
+        "dosage": "5.0g per liter",
+        "interval": "Every 7 days",
+        "safety": "Safe for humans and environment"
+      }
+    ],
+    "prevention": [
+      "Prune for airflow",
+      "Avoid too much nitrogen",
+      "Water at base"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 300–400 g per tree just after flowering; improves fruit size, colour and sugar."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 4–5 g per litre 2–3 weeks before harvest; reduces fruit cracking and rot."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 15–20 kg per tree in winter; rebuilds soil health for the next season."
+      }
+    ],
+    "farmer_tips": [
+      "• Act quickly on white powder",
+      "• Don't over-fertilize",
+      "• Morning sun helps dry dew"
+    ],
+    "crop": "Cherry",
+    "crop_hindi": "चेरी",
+    "preventive_measures": [
+      "Prune for airflow",
+      "Avoid too much nitrogen",
+      "Water at base"
+    ],
+    "organic_remedy": [
+      "Spray a baking-soda mix (5 g baking soda + 2 ml oil in 1 litre of water) once a week.",
+      "Spray diluted milk solution (1 part milk : 9 parts water) on sunny mornings.",
+      "Prune crowded shoots so air and sunlight reach the inner leaves."
+    ],
+    "chemical_spray": [
+      "Wettable Sulfur 80% WP (Wettable Powder) — 3.0g per liter. Foliar spray on affected areas, repeat every 7-10 days.",
+      "Myclobutanil 10% WP (Wettable Powder) — 1.0g per liter. Foliar spray, repeat every 14 days.",
+      "Potassium Bicarbonate (Organic Fungicide) — 5.0g per liter. Foliar spray, repeat every 7 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check leaves and fruit weekly for spots or shrivelling, especially in humid weather.",
+      "Keep the tree canopy open by pruning so it dries quickly after rain or dew.",
+      "Pick up and destroy fallen, rotten fruit so disease does not carry to next year.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Cherry_(including_sour)___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy cherry tree with no signs of disease.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Prune regularly",
+      "Keep floor clean",
+      "Protect from birds"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 300–400 g per tree just after flowering; improves fruit size, colour and sugar."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 4–5 g per litre 2–3 weeks before harvest; reduces fruit cracking and rot."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 15–20 kg per tree in winter; rebuilds soil health for the next season."
+      }
+    ],
+    "farmer_tips": [
+      "• Tree is healthy",
+      "• Prune after harvest"
+    ],
+    "crop": "Cherry",
+    "crop_hindi": "चेरी",
+    "preventive_measures": [
+      "Prune regularly",
+      "Keep floor clean",
+      "Protect from birds"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Check leaves and fruit weekly for spots or shrivelling, especially in humid weather.",
+      "Keep the tree canopy open by pruning so it dries quickly after rain or dew.",
+      "Pick up and destroy fallen, rotten fruit so disease does not carry to next year."
+    ]
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "disease": "Gray Leaf Spot",
+    "is_healthy": false,
+    "description": "Fungal disease causing gray rectangular spots on leaves.",
+    "symptoms": [
+      "Gray to tan rectangular spots",
+      "Spots merge and kill leaves",
+      "Starts on lower leaves"
+    ],
+    "cause": "Fungus from old crop debris in warm, humid weather.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Azoxystrobin 23% SC (Suspension Concentrate)",
+        "purpose": "Systemic strobilurin",
+        "application": "Foliar spray at tasseling",
+        "dosage": "1.0ml per liter",
+        "interval": "Single application, repeat if needed",
+        "safety": "Avoid spray drift"
+      },
+      {
+        "name": "Propiconazole 25% EC (Emulsifiable Concentrate)",
+        "purpose": "Systemic triazole",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "Every 14-21 days",
+        "safety": "Wear protective clothing"
+      }
+    ],
+    "prevention": [
+      "Plant resistant corn",
+      "Rotate crops",
+      "Plow under old debris"
+    ],
+    "fertilizers": [
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply at 30–35 days after planting to speed up stem growth and cob formation."
+      },
+      {
+        "name": "Zinc Sulfate 21%",
+        "purpose": "Apply 10 kg per acre to prevent leaf whitening (White Bud disease) and improve grain filling."
+      },
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 40–50 kg per acre at sowing to build strong early roots."
+      }
+    ],
+    "farmer_tips": [
+      "• Check lower leaves first",
+      "• Rectangular spots are key",
+      "• Spray at tasseling"
+    ],
+    "crop": "Corn (Maize)",
+    "crop_hindi": "मक्का",
+    "preventive_measures": [
+      "Plant resistant corn",
+      "Rotate crops",
+      "Plow under old debris"
+    ],
+    "organic_remedy": [
+      "Remove and compost the lower infected leaves; rotate maize with a legume crop next season.",
+      "Spray Neem oil (5 ml/L) or a Trichoderma bio-fungicide at the first sign of spots.",
+      "Avoid dense planting so the canopy dries quickly after rain."
+    ],
+    "chemical_spray": [
+      "Azoxystrobin 23% SC (Suspension Concentrate) — 1.0ml per liter. Foliar spray at tasseling, repeat single application, repeat if needed.",
+      "Propiconazole 25% EC (Emulsifiable Concentrate) — 1.0ml per liter. Foliar spray, repeat every 14-21 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check the central leaf whorl (paudhe ke beech ka hissa) once a week for early signs of Fall Armyworm.",
+      "Remove all weeds during the first 45 days so your crop gets full nourishment.",
+      "Rotate maize with a legume (beans or soybean) next season to break the disease cycle.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "disease": "Common Rust",
+    "is_healthy": false,
+    "description": "Fungal disease causing reddish-brown rust spots on leaves.",
+    "symptoms": [
+      "Red-brown powdery spots",
+      "Spots on both leaf sides",
+      "Yellowing around spots"
+    ],
+    "cause": "Fungus spread by wind in cool, humid weather.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Protective fungicide",
+        "application": "Foliar spray at first pustule appearance",
+        "dosage": "2.5g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Do not apply near harvest"
+      },
+      {
+        "name": "Tebuconazole 25.9% EC (Emulsifiable Concentrate)",
+        "purpose": "Broad-spectrum systemic control",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "Every 14-21 days",
+        "safety": "Low toxicity to non-targets"
+      }
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Plant early",
+      "Rotate crops"
+    ],
+    "fertilizers": [
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply at 30–35 days after planting to speed up stem growth and cob formation."
+      },
+      {
+        "name": "Zinc Sulfate 21%",
+        "purpose": "Apply 10 kg per acre to prevent leaf whitening (White Bud disease) and improve grain filling."
+      },
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 40–50 kg per acre at sowing to build strong early roots."
+      }
+    ],
+    "farmer_tips": [
+      "• Check both leaf sides",
+      "• Rust powder rubs off",
+      "• Early planting helps escape it"
+    ],
+    "crop": "Corn (Maize)",
+    "crop_hindi": "मक्का",
+    "preventive_measures": [
+      "Plant resistant varieties",
+      "Plant early",
+      "Rotate crops"
+    ],
+    "organic_remedy": [
+      "Grow rust-tolerant hybrids and pull out volunteer maize plants around the field.",
+      "Spray wettable sulphur (2 g/L) or Neem oil (5 ml/L) when small rust pustules first appear."
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray at first pustule appearance, repeat every 10-14 days.",
+      "Tebuconazole 25.9% EC (Emulsifiable Concentrate) — 1.0ml per liter. Foliar spray, repeat every 14-21 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check the central leaf whorl (paudhe ke beech ka hissa) once a week for early signs of Fall Armyworm.",
+      "Remove all weeds during the first 45 days so your crop gets full nourishment.",
+      "Rotate maize with a legume (beans or soybean) next season to break the disease cycle.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "disease": "Northern Leaf Blight",
+    "is_healthy": false,
+    "description": "Fungal disease causing large cigar-shaped spots on leaves.",
+    "symptoms": [
+      "Large cigar-shaped spots",
+      "Starts on lower leaves",
+      "Dark spores on spots"
+    ],
+    "cause": "Fungus from old crop debris in moderate, wet weather.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Protective fungicide",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Standard precautions"
+      },
+      {
+        "name": "Azoxystrobin + Propiconazole (Combined Systemic Fungicide)",
+        "purpose": "Combined systemic control",
+        "application": "Foliar spray at V12-VT stage",
+        "dosage": "1.0ml per liter",
+        "interval": "Single application",
+        "safety": "Observe pre-harvest interval"
+      }
+    ],
+    "prevention": [
+      "Plant resistant corn",
+      "Rotate crops",
+      "Plow under old debris"
+    ],
+    "fertilizers": [
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply at 30–35 days after planting to speed up stem growth and cob formation."
+      },
+      {
+        "name": "Zinc Sulfate 21%",
+        "purpose": "Apply 10 kg per acre to prevent leaf whitening (White Bud disease) and improve grain filling."
+      },
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 40–50 kg per acre at sowing to build strong early roots."
+      }
+    ],
+    "farmer_tips": [
+      "• Look for cigar-shaped spots",
+      "• Check lower canopy",
+      "• Rotate crops"
+    ],
+    "crop": "Corn (Maize)",
+    "crop_hindi": "मक्का",
+    "preventive_measures": [
+      "Plant resistant corn",
+      "Rotate crops",
+      "Plow under old debris"
+    ],
+    "organic_remedy": [
+      "Plough crop residue back into the soil after harvest and rotate with a non-host crop.",
+      "Spray Neem oil (5 ml/L) or a Trichoderma solution at the early lesion stage."
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 10-14 days.",
+      "Azoxystrobin + Propiconazole (Combined Systemic Fungicide) — 1.0ml per liter. Foliar spray at V12-VT stage, repeat single application."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check the central leaf whorl (paudhe ke beech ka hissa) once a week for early signs of Fall Armyworm.",
+      "Remove all weeds during the first 45 days so your crop gets full nourishment.",
+      "Rotate maize with a legume (beans or soybean) next season to break the disease cycle.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Corn_(maize)___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy corn plant with no signs of disease.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Rotate crops",
+      "Control weeds",
+      "Monitor fields"
+    ],
+    "fertilizers": [
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply at 30–35 days after planting to speed up stem growth and cob formation."
+      },
+      {
+        "name": "Zinc Sulfate 21%",
+        "purpose": "Apply 10 kg per acre to prevent leaf whitening (White Bud disease) and improve grain filling."
+      },
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 40–50 kg per acre at sowing to build strong early roots."
+      }
+    ],
+    "farmer_tips": [
+      "• Crop looks good",
+      "• Check for pests weekly"
+    ],
+    "crop": "Corn (Maize)",
+    "crop_hindi": "मक्का",
+    "preventive_measures": [
+      "Rotate crops",
+      "Control weeds",
+      "Monitor fields"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Check the central leaf whorl (paudhe ke beech ka hissa) once a week for early signs of Fall Armyworm.",
+      "Remove all weeds during the first 45 days so your crop gets full nourishment.",
+      "Rotate maize with a legume (beans or soybean) next season to break the disease cycle."
+    ]
+  },
+  "Grape___Black_rot": {
+    "disease": "Black Rot",
+    "is_healthy": false,
+    "description": "Destructive fungal disease causing brown leaf spots and black, hard berries.",
+    "symptoms": [
+      "Brown leaf spots with dark borders",
+      "Rotting berries turn into hard black mummies",
+      "Dark spots on shoots"
+    ],
+    "cause": "Fungus surviving in old mummified berries.",
+    "affected_parts": [
+      "Leaves",
+      "Berries",
+      "Shoots"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Protective pre-bloom application",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Do not apply after veraison"
+      },
+      {
+        "name": "Myclobutanil 10% WP (Wettable Powder)",
+        "purpose": "Systemic curative/protective",
+        "application": "Foliar spray bloom and post-bloom",
+        "dosage": "1.0g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Low mammalian toxicity"
+      }
+    ],
+    "prevention": [
+      "Remove and burn mummified berries",
+      "Prune for airflow",
+      "Keep vineyard clean"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 250–300 g per vine after fruit-set; improves berry sugar, colour and skin strength."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 4 g per litre during berry growth; firms the skin and lowers rot and cracking."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 10–15 kg per vine before pruning; keeps the soil rich and the roots active."
+      }
+    ],
+    "farmer_tips": [
+      "• Remove all black mummified berries",
+      "• Spray from bloom to 4 weeks after",
+      "• Good pruning prevents rot"
+    ],
+    "crop": "Grape",
+    "crop_hindi": "अंगूर",
+    "preventive_measures": [
+      "Remove and burn mummified berries",
+      "Prune for airflow",
+      "Keep vineyard clean"
+    ],
+    "organic_remedy": [
+      "Remove mummified berries and infected tendrils and burn them away from the vineyard.",
+      "Spray 1% Bordeaux mixture or Neem oil (5 ml/L) from bud-break, repeating every 10 days."
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 7-10 days.",
+      "Myclobutanil 10% WP (Wettable Powder) — 1.0g per liter. Foliar spray bloom and post-bloom, repeat every 10-14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Walk the vineyard weekly and check both leaf sides and the bunches for early spots.",
+      "Thin the shoots and leaves around the bunches so air moves freely and berries dry fast.",
+      "Disinfect pruning tools between vines (wipe with dettol/bleach) so you don't spread disease.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "disease": "Esca (Black Measles)",
+    "is_healthy": false,
+    "description": "Trunk disease causing tiger-stripe leaves and dark spots on berries.",
+    "symptoms": [
+      "Tiger-stripe pattern on leaves",
+      "Dark purple spots on berries",
+      "Sudden wilting",
+      "Brown wood inside trunk"
+    ],
+    "cause": "Fungi entering through pruning wounds.",
+    "affected_parts": [
+      "Leaves",
+      "Berries",
+      "Trunk"
+    ],
+    "treatment": [
+      {
+        "name": "Fosetyl-Al 80% WP (Wettable Powder)",
+        "purpose": "Systemic fungicide for trunk diseases",
+        "application": "Foliar spray during growing season",
+        "dosage": "2.5g per liter",
+        "interval": "Every 14-21 days",
+        "safety": "Low toxicity"
+      },
+      {
+        "name": "Trichoderma harzianum (Bio-Fungicide)",
+        "purpose": "Biological wound protectant",
+        "application": "Paste or spray on pruning cuts",
+        "dosage": "As per label",
+        "interval": "Immediately after pruning",
+        "safety": "Organic approved"
+      }
+    ],
+    "prevention": [
+      "Clean pruning tools",
+      "Protect wounds right away",
+      "Remove dead vines"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 250–300 g per vine after fruit-set; improves berry sugar, colour and skin strength."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 4 g per litre during berry growth; firms the skin and lowers rot and cracking."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 10–15 kg per vine before pruning; keeps the soil rich and the roots active."
+      }
+    ],
+    "farmer_tips": [
+      "• Tiger stripes mean Esca",
+      "• Protect pruning cuts immediately",
+      "• Mark infected vines"
+    ],
+    "crop": "Grape",
+    "crop_hindi": "अंगूर",
+    "preventive_measures": [
+      "Clean pruning tools",
+      "Protect wounds right away",
+      "Remove dead vines"
+    ],
+    "organic_remedy": [
+      "Prune out and burn affected arms/cordons and disinfect pruning tools between every vine.",
+      "Protect large pruning wounds with Trichoderma paste or Bordeaux paste.",
+      "Never prune in wet weather — the fungus enters through fresh damp cuts."
+    ],
+    "chemical_spray": [
+      "Fosetyl-Al 80% WP (Wettable Powder) — 2.5g per liter. Foliar spray during growing season, repeat every 14-21 days.",
+      "Trichoderma harzianum (Bio-Fungicide) — As per label. Paste or spray on pruning cuts, repeat immediately after pruning."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Walk the vineyard weekly and check both leaf sides and the bunches for early spots.",
+      "Thin the shoots and leaves around the bunches so air moves freely and berries dry fast.",
+      "Disinfect pruning tools between vines (wipe with dettol/bleach) so you don't spread disease.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "disease": "Leaf Blight",
+    "is_healthy": false,
+    "description": "Fungal disease causing dark brown spots and early leaf drop.",
+    "symptoms": [
+      "Dark brown angular spots",
+      "Yellow halos around spots",
+      "Early leaf drop"
+    ],
+    "cause": "Fungus spreading in warm, wet conditions.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Broad-spectrum protection",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Standard protective equipment"
+      },
+      {
+        "name": "Copper Oxychloride 50% WP (Wettable Powder)",
+        "purpose": "Contact fungicide",
+        "application": "Preventive foliar spray",
+        "dosage": "3.0g per liter",
+        "interval": "Every 14 days",
+        "safety": "Avoid soil buildup"
+      }
+    ],
+    "prevention": [
+      "Remove fallen leaves",
+      "Prune for airflow",
+      "Avoid overhead watering"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 250–300 g per vine after fruit-set; improves berry sugar, colour and skin strength."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 4 g per litre during berry growth; firms the skin and lowers rot and cracking."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 10–15 kg per vine before pruning; keeps the soil rich and the roots active."
+      }
+    ],
+    "farmer_tips": [
+      "• Angular spots with yellow halos",
+      "• Clean leaves in autumn",
+      "• Good pruning stops it"
+    ],
+    "crop": "Grape",
+    "crop_hindi": "अंगूर",
+    "preventive_measures": [
+      "Remove fallen leaves",
+      "Prune for airflow",
+      "Avoid overhead watering"
+    ],
+    "organic_remedy": [
+      "Remove infected leaves and thin the shoots to improve airflow through the canopy.",
+      "Spray 1% Bordeaux mixture or Neem oil (5 ml/L) every 10–12 days during the monsoon."
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 10-14 days.",
+      "Copper Oxychloride 50% WP (Wettable Powder) — 3.0g per liter. Preventive foliar spray, repeat every 14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Walk the vineyard weekly and check both leaf sides and the bunches for early spots.",
+      "Thin the shoots and leaves around the bunches so air moves freely and berries dry fast.",
+      "Disinfect pruning tools between vines (wipe with dettol/bleach) so you don't spread disease.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Grape___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy grapevine with no signs of disease.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Keep regular spray schedule",
+      "Prune well",
+      "Keep ground clean"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 250–300 g per vine after fruit-set; improves berry sugar, colour and skin strength."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 4 g per litre during berry growth; firms the skin and lowers rot and cracking."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 10–15 kg per vine before pruning; keeps the soil rich and the roots active."
+      }
+    ],
+    "farmer_tips": [
+      "• Vines look healthy",
+      "• Keep pruning properly"
+    ],
+    "crop": "Grape",
+    "crop_hindi": "अंगूर",
+    "preventive_measures": [
+      "Keep regular spray schedule",
+      "Prune well",
+      "Keep ground clean"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Walk the vineyard weekly and check both leaf sides and the bunches for early spots.",
+      "Thin the shoots and leaves around the bunches so air moves freely and berries dry fast.",
+      "Disinfect pruning tools between vines (wipe with dettol/bleach) so you don't spread disease."
+    ]
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "disease": "Citrus Greening",
+    "is_healthy": false,
+    "description": "Fatal bacterial disease spread by insects, causing bitter, lopsided fruits.",
+    "symptoms": [
+      "Yellow blotches on leaves",
+      "Small, lopsided, bitter fruits",
+      "Early fruit drop",
+      "Branch dieback"
+    ],
+    "cause": "Bacteria spread by Asian citrus psyllid insects.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits",
+      "Branches"
+    ],
+    "treatment": [
+      {
+        "name": "Imidacloprid 17.8% SL (Soluble Liquid)",
+        "purpose": "Systemic vector control (Psyllid)",
+        "application": "Soil drench or foliar",
+        "dosage": "5.0ml per tree (soil) or 0.5ml/L (foliar)",
+        "interval": "Every 30-45 days",
+        "safety": "Highly toxic to bees, apply carefully"
+      },
+      {
+        "name": "Chelated Micronutrients (Zinc, Manganese, Iron)",
+        "purpose": "Nutritional therapy",
+        "application": "Foliar spray",
+        "dosage": "2.0g per liter",
+        "interval": "Monthly",
+        "safety": "Very safe, helps tree survive"
+      }
+    ],
+    "prevention": [
+      "Control psyllid insects",
+      "Plant healthy trees",
+      "Remove infected trees"
+    ],
+    "fertilizers": [
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply in 3 split doses (Feb, June, Sept); keeps leaves dark green and pushes healthy new shoots."
+      },
+      {
+        "name": "Zinc + Manganese Sulphate",
+        "purpose": "Spray 5 g of each per litre during the new flush; corrects leaf mottling and improves fruit-set."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 20–25 kg per tree every year; strengthens roots and lifts fruit quality."
+      }
+    ],
+    "farmer_tips": [
+      "• No cure, only management",
+      "• Kill the psyllid insects",
+      "• Remove sick trees to protect others"
+    ],
+    "crop": "Orange",
+    "crop_hindi": "संतरा",
+    "preventive_measures": [
+      "Control psyllid insects",
+      "Plant healthy trees",
+      "Remove infected trees"
+    ],
+    "organic_remedy": [
+      "Remove and destroy infected trees quickly — the disease is incurable and spreads fast.",
+      "Control the citrus psyllid insect with Neem oil (5 ml/L) sprays every 10 days.",
+      "Plant only certified, disease-free saplings and keep trees well nourished."
+    ],
+    "chemical_spray": [
+      "Imidacloprid 17.8% SL (Soluble Liquid) — 5.0ml per tree (soil) or 0.5ml/L (foliar). Soil drench or foliar, repeat every 30-45 days.",
+      "Chelated Micronutrients (Zinc, Manganese, Iron) — 2.0g per liter. Foliar spray, repeat monthly."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Watch for the tiny citrus psyllid insect on new shoots — it spreads the deadly greening disease.",
+      "Remove and burn any tree that shows yellow, lopsided fruit; it cannot be cured and infects others.",
+      "Keep the basin weed-free and well-mulched so roots stay strong.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Peach___Bacterial_spot": {
+    "disease": "Bacterial Spot",
+    "is_healthy": false,
+    "description": "Bacterial disease causing leaf spots with shot-holes and cracked fruits.",
+    "symptoms": [
+      "Small purple-brown leaf spots",
+      "Shot-holes in leaves",
+      "Cracked, sunken spots on fruit",
+      "Twig cankers"
+    ],
+    "cause": "Bacteria spread by wind and rain.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits",
+      "Twigs"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Hydroxide 77% WP (Wettable Powder)",
+        "purpose": "Bactericidal early season protection",
+        "application": "Dormant and early foliar spray",
+        "dosage": "2.0g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "May cause phytotoxicity in warm weather"
+      },
+      {
+        "name": "Oxytetracycline 17% WP (Wettable Powder)",
+        "purpose": "Antibiotic for bacterial control",
+        "application": "Foliar spray",
+        "dosage": "1.0g per liter",
+        "interval": "Every 7 days",
+        "safety": "Use where permitted"
+      },
+      {
+        "name": "Copper + Mancozeb Mix (Combined Fungicide)",
+        "purpose": "Reduces phytotoxicity",
+        "application": "Foliar spray",
+        "dosage": "1.5g Cu + 2.0g Mancozeb per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Safer for leaves"
+      }
+    ],
+    "prevention": [
+      "Plant resistant peaches",
+      "Use drip irrigation",
+      "Prune for quick drying"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 300–400 g per tree after flowering; improves fruit size and sweetness."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 4–5 g per litre 2–3 weeks before harvest; prevents skin cracking and soft fruit."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 15–20 kg per tree in winter; feeds the soil for the coming season."
+      }
+    ],
+    "farmer_tips": [
+      "• Shot-holes and cracked fruit are key",
+      "• Protect before storms",
+      "• Prune dead twigs in winter"
+    ],
+    "crop": "Peach",
+    "crop_hindi": "आड़ू",
+    "preventive_measures": [
+      "Plant resistant peaches",
+      "Use drip irrigation",
+      "Prune for quick drying"
+    ],
+    "organic_remedy": [
+      "Collect and burn fallen leaves and prune cankered twigs in the dormant season.",
+      "Spray a copper-based solution or Neem oil (5 ml/L) at leaf-fall and again at bud-swell."
+    ],
+    "chemical_spray": [
+      "Copper Hydroxide 77% WP (Wettable Powder) — 2.0g per liter. Dormant and early foliar spray, repeat every 7-10 days.",
+      "Oxytetracycline 17% WP (Wettable Powder) — 1.0g per liter. Foliar spray, repeat every 7 days.",
+      "Copper + Mancozeb Mix (Combined Fungicide) — 1.5g Cu + 2.0g Mancozeb per liter. Foliar spray, repeat every 10-14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Inspect twigs and leaves in early spring for spots or gummy cankers and prune them off.",
+      "Keep the canopy open by pruning so leaves dry quickly and fungus cannot settle.",
+      "Clear fallen leaves and fruit from under the tree to cut the disease carryover.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Peach___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy peach tree with no disease.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Apply copper spray in winter",
+      "Prune for airflow",
+      "Thin fruits"
+    ],
+    "fertilizers": [
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 300–400 g per tree after flowering; improves fruit size and sweetness."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 4–5 g per litre 2–3 weeks before harvest; prevents skin cracking and soft fruit."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 15–20 kg per tree in winter; feeds the soil for the coming season."
+      }
+    ],
+    "farmer_tips": [
+      "• Tree looks great",
+      "• Thin fruits for better size"
+    ],
+    "crop": "Peach",
+    "crop_hindi": "आड़ू",
+    "preventive_measures": [
+      "Apply copper spray in winter",
+      "Prune for airflow",
+      "Thin fruits"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Inspect twigs and leaves in early spring for spots or gummy cankers and prune them off.",
+      "Keep the canopy open by pruning so leaves dry quickly and fungus cannot settle.",
+      "Clear fallen leaves and fruit from under the tree to cut the disease carryover."
+    ]
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "disease": "Bacterial Spot",
+    "is_healthy": false,
+    "description": "Bacterial disease causing spots on leaves and scabs on fruits.",
+    "symptoms": [
+      "Dark, wet-looking leaf spots",
+      "Spots turn brown with yellow halos",
+      "Scab-like spots on fruit",
+      "Leaves fall off early"
+    ],
+    "cause": "Bacteria spread by seeds, rain, and tools.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP (Wettable Powder)",
+        "purpose": "Contact bactericide",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Wear gloves and mask"
+      },
+      {
+        "name": "Streptomycin Sulfate (Bactericidal Antibiotic)",
+        "purpose": "Antibiotic for suppression",
+        "application": "Foliar spray",
+        "dosage": "0.5g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Use where permitted"
+      },
+      {
+        "name": "Copper Hydroxide + Mancozeb (Combined Fungicide/Bactericide)",
+        "purpose": "Combined protection",
+        "application": "Foliar spray",
+        "dosage": "2.0g Cu + 2.5g Mancozeb per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Observe pre-harvest interval"
+      }
+    ],
+    "prevention": [
+      "Use clean seeds",
+      "Rotate crops",
+      "Don't touch wet plants"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from flowering onward; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit thickness, colour and shelf life."
+      },
+      {
+        "name": "Well-rotted Compost",
+        "purpose": "Mix 4–5 tonnes per acre before transplanting; keeps the soil loose, rich and moist."
+      }
+    ],
+    "farmer_tips": [
+      "• Never work in wet fields",
+      "• Copper works best as prevention",
+      "• Rotate away from tomatoes too"
+    ],
+    "crop": "Bell Pepper",
+    "crop_hindi": "शिमला मिर्च",
+    "preventive_measures": [
+      "Use clean seeds",
+      "Rotate crops",
+      "Don't touch wet plants"
+    ],
+    "organic_remedy": [
+      "Remove and destroy infected plants and weeds; never work among plants while they are wet.",
+      "Spray copper oxychloride or Neem oil (5 ml/L) every 7–10 days.",
+      "Use disease-free seed and give seed a hot-water treatment before sowing."
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 7-10 days.",
+      "Streptomycin Sulfate (Bactericidal Antibiotic) — 0.5g per liter. Foliar spray, repeat every 7-10 days.",
+      "Copper Hydroxide + Mancozeb (Combined Fungicide/Bactericide) — 2.0g Cu + 2.5g Mancozeb per liter. Foliar spray, repeat every 10-14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Never work among the plants when they are wet (baarish ke baad) — this is how bacteria spread fastest.",
+      "Scout weekly for spotted or curling leaves and remove them immediately.",
+      "Rotate away from pepper, tomato and chilli for 2–3 years in the same field.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Pepper,_bell___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy pepper plant.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Use clean seeds",
+      "Rotate crops",
+      "Use mulch"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from flowering onward; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit thickness, colour and shelf life."
+      },
+      {
+        "name": "Well-rotted Compost",
+        "purpose": "Mix 4–5 tonnes per acre before transplanting; keeps the soil loose, rich and moist."
+      }
+    ],
+    "farmer_tips": [
+      "• Plant is healthy",
+      "• Mulch to keep soil moist"
+    ],
+    "crop": "Bell Pepper",
+    "crop_hindi": "शिमला मिर्च",
+    "preventive_measures": [
+      "Use clean seeds",
+      "Rotate crops",
+      "Use mulch"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Never work among the plants when they are wet (baarish ke baad) — this is how bacteria spread fastest.",
+      "Scout weekly for spotted or curling leaves and remove them immediately.",
+      "Rotate away from pepper, tomato and chilli for 2–3 years in the same field."
+    ]
+  },
+  "Potato___Early_blight": {
+    "disease": "Early Blight",
+    "is_healthy": false,
+    "description": "Common fungal disease causing target-like spots on older leaves.",
+    "symptoms": [
+      "Brown spots with target rings",
+      "Starts on bottom leaves",
+      "Yellow halos around spots",
+      "Leaves drop early"
+    ],
+    "cause": "Fungus in soil favored by stress and warm weather.",
+    "affected_parts": [
+      "Leaves",
+      "Tubers"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Broad-spectrum protection",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Standard protective equipment"
+      },
+      {
+        "name": "Chlorothalonil 75% WP (Wettable Powder)",
+        "purpose": "Contact fungicide",
+        "application": "Preventive foliar spray",
+        "dosage": "2.0g per liter",
+        "interval": "Every 7-14 days",
+        "safety": "Irritant to skin"
+      },
+      {
+        "name": "Azoxystrobin 23% SC (Suspension Concentrate)",
+        "purpose": "Systemic strobilurin",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "Every 14 days",
+        "safety": "Low toxicity"
+      }
+    ],
+    "prevention": [
+      "Rotate crops",
+      "Remove dead plants",
+      "Avoid overhead watering"
+    ],
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 40–50 kg per acre at earthing-up; increases tuber size and starch content."
+      },
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply in 2 splits (at planting and at earthing-up) for strong green foliage — avoid excess or tubers form late."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before planting; improves soil structure and water holding."
+      }
+    ],
+    "farmer_tips": [
+      "• Target rings on lower leaves",
+      "• Keep plants well fed",
+      "• Rotate fields yearly"
+    ],
+    "crop": "Potato",
+    "crop_hindi": "आलू",
+    "preventive_measures": [
+      "Rotate crops",
+      "Remove dead plants",
+      "Avoid overhead watering"
+    ],
+    "organic_remedy": [
+      "Remove the lower infected leaves and mulch the soil so spores cannot splash up from the ground.",
+      "Spray Neem oil (5 ml/L) or a Trichoderma solution every 7 days."
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 7-10 days.",
+      "Chlorothalonil 75% WP (Wettable Powder) — 2.0g per liter. Preventive foliar spray, repeat every 7-14 days.",
+      "Azoxystrobin 23% SC (Suspension Concentrate) — 1.0ml per liter. Foliar spray, repeat every 14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check the crop every 3–4 days in cool, wet weather — late blight can destroy a field in days.",
+      "Earth-up the plants well so the tubers stay covered and disease-free.",
+      "Never store or dump diseased tubers near the field; they start next season's outbreak.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Potato___Late_blight": {
+    "disease": "Late Blight",
+    "is_healthy": false,
+    "description": "Highly destructive disease causing rapid rotting of leaves and tubers.",
+    "symptoms": [
+      "Large wet brown spots on leaves",
+      "White fuzz under leaves",
+      "Fast browning and death of plant",
+      "Brown firm rot in potatoes"
+    ],
+    "cause": "Oomycete spreading rapidly in cool, wet weather.",
+    "affected_parts": [
+      "Leaves",
+      "Tubers"
+    ],
+    "treatment": [
+      {
+        "name": "Metalaxyl 8% + Mancozeb 64% WP (Wettable Powder)",
+        "purpose": "Systemic + contact control",
+        "application": "Foliar spray when conditions are predicted",
+        "dosage": "2.5g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Alternate to prevent resistance"
+      },
+      {
+        "name": "Cymoxanil 8% + Mancozeb 64% WP (Wettable Powder)",
+        "purpose": "Curative and protective action",
+        "application": "Foliar spray",
+        "dosage": "3.0g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Observe pre-harvest interval"
+      },
+      {
+        "name": "Copper Oxychloride 50% WP (Wettable Powder)",
+        "purpose": "Contact fungicide (organic option)",
+        "application": "Preventive foliar spray",
+        "dosage": "3.0g per liter",
+        "interval": "Every 5-7 days",
+        "safety": "Approved for organic"
+      }
+    ],
+    "prevention": [
+      "Use clean seed potatoes",
+      "Destroy old potato piles",
+      "Spray before wet weather"
+    ],
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 40–50 kg per acre at earthing-up; increases tuber size and starch content."
+      },
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply in 2 splits (at planting and at earthing-up) for strong green foliage — avoid excess or tubers form late."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before planting; improves soil structure and water holding."
+      }
+    ],
+    "farmer_tips": [
+      "• Can destroy crop in days",
+      "• White fuzz means danger",
+      "• Spray BEFORE rain"
+    ],
+    "crop": "Potato",
+    "crop_hindi": "आलू",
+    "preventive_measures": [
+      "Use clean seed potatoes",
+      "Destroy old potato piles",
+      "Spray before wet weather"
+    ],
+    "organic_remedy": [
+      "Destroy infected plants at once and never leave cull piles near the field.",
+      "Spray 1% Bordeaux mixture or copper oxychloride just before an expected rain spell.",
+      "Earth-up the plants well so tubers stay covered and away from spores."
+    ],
+    "chemical_spray": [
+      "Metalaxyl 8% + Mancozeb 64% WP (Wettable Powder) — 2.5g per liter. Foliar spray when conditions are predicted, repeat every 10-14 days.",
+      "Cymoxanil 8% + Mancozeb 64% WP (Wettable Powder) — 3.0g per liter. Foliar spray, repeat every 7-10 days.",
+      "Copper Oxychloride 50% WP (Wettable Powder) — 3.0g per liter. Preventive foliar spray, repeat every 5-7 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check the crop every 3–4 days in cool, wet weather — late blight can destroy a field in days.",
+      "Earth-up the plants well so the tubers stay covered and disease-free.",
+      "Never store or dump diseased tubers near the field; they start next season's outbreak.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Potato___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy potato plant.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Keep spraying preventively",
+      "Hill the potatoes",
+      "Monitor weather"
+    ],
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 40–50 kg per acre at earthing-up; increases tuber size and starch content."
+      },
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply in 2 splits (at planting and at earthing-up) for strong green foliage — avoid excess or tubers form late."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before planting; improves soil structure and water holding."
+      }
+    ],
+    "farmer_tips": [
+      "• Crop looks good",
+      "• Keep up the preventive sprays"
+    ],
+    "crop": "Potato",
+    "crop_hindi": "आलू",
+    "preventive_measures": [
+      "Keep spraying preventively",
+      "Hill the potatoes",
+      "Monitor weather"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Check the crop every 3–4 days in cool, wet weather — late blight can destroy a field in days.",
+      "Earth-up the plants well so the tubers stay covered and disease-free.",
+      "Never store or dump diseased tubers near the field; they start next season's outbreak."
+    ]
+  },
+  "Raspberry___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy raspberry plant.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Remove old canes",
+      "Keep weed-free",
+      "Space properly"
+    ],
+    "fertilizers": [
+      {
+        "name": "Ammonium Sulfate",
+        "purpose": "Apply 20–25 g per plant in early spring; drives strong, healthy cane growth."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply during fruiting; improves berry size and flavour."
+      },
+      {
+        "name": "Compost (Mulch)",
+        "purpose": "Spread around the canes each spring; holds moisture and feeds the shallow roots."
+      }
+    ],
+    "farmer_tips": [
+      "• Plant looks healthy",
+      "• Prune old canes after harvest"
+    ],
+    "crop": "Raspberry",
+    "crop_hindi": "रसभरी",
+    "preventive_measures": [
+      "Remove old canes",
+      "Keep weed-free",
+      "Space properly"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Remove old fruited canes right after harvest so disease and pests don't build up.",
+      "Keep rows narrow and airy; crowded canes stay damp and catch fungus.",
+      "Pull weeds around the base so the plant gets full light and food."
+    ]
+  },
+  "Soybean___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy soybean plant.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Rotate crops",
+      "Use treated seeds",
+      "Control weeds"
+    ],
+    "fertilizers": [
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 50–60 kg per acre at sowing; builds strong roots and good nodules."
+      },
+      {
+        "name": "Rhizobium Culture",
+        "purpose": "Coat the seed before sowing; it fixes free nitrogen from the air and cuts the urea you need."
+      },
+      {
+        "name": "Sulphur (Bentonite)",
+        "purpose": "Apply 8–10 kg per acre; boosts oil content and pod filling."
+      }
+    ],
+    "farmer_tips": [
+      "• Plant is healthy",
+      "• Watch for pests"
+    ],
+    "crop": "Soybean",
+    "crop_hindi": "सोयाबीन",
+    "preventive_measures": [
+      "Rotate crops",
+      "Use treated seeds",
+      "Control weeds"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Scout for leaf spots and chewing insects weekly, especially at the pod-forming stage.",
+      "Keep the field weed-free for the first 40–45 days for full yield.",
+      "Rotate with a cereal (maize/wheat) to keep soil-borne disease down."
+    ]
+  },
+  "Squash___Powdery_mildew": {
+    "disease": "Powdery Mildew",
+    "is_healthy": false,
+    "description": "Fungal disease causing a white powdery coating on leaves.",
+    "symptoms": [
+      "White powder on leaves",
+      "Yellowing leaves",
+      "Early leaf drop"
+    ],
+    "cause": "Fungus favored by warm days and cool nights.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Sulfur 80% WP (Wettable Powder)",
+        "purpose": "Contact fungicide",
+        "application": "Foliar spray",
+        "dosage": "3.0g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Do not apply over 30°C"
+      },
+      {
+        "name": "Neem Oil (Azadirachtin Organic Insecticide)",
+        "purpose": "Natural fungicide",
+        "application": "Foliar spray",
+        "dosage": "5.0ml per liter",
+        "interval": "Every 7 days",
+        "safety": "Organic-approved"
+      },
+      {
+        "name": "Myclobutanil 10% WP (Wettable Powder)",
+        "purpose": "Systemic fungicide",
+        "application": "Foliar spray",
+        "dosage": "1.0g per liter",
+        "interval": "Every 14 days",
+        "safety": "Low toxicity"
+      }
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Space plants out",
+      "Water at base"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from flowering; prevents fruit-end rot and improves fruit-setting."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply during fruiting; increases fruit size and sweetness."
+      },
+      {
+        "name": "Well-rotted Compost",
+        "purpose": "Mix generously into the planting pits; feeds the fast-growing vine."
+      }
+    ],
+    "farmer_tips": [
+      "• White powder is the key sign",
+      "• Morning sun helps",
+      "• Treat early"
+    ],
+    "crop": "Squash",
+    "crop_hindi": "कद्दू",
+    "preventive_measures": [
+      "Plant resistant varieties",
+      "Space plants out",
+      "Water at base"
+    ],
+    "organic_remedy": [
+      "Spray a baking-soda mix (5 g + 2 ml oil per litre) or diluted milk (1:9) once a week.",
+      "Remove badly infected leaves and space the plants for good airflow."
+    ],
+    "chemical_spray": [
+      "Sulfur 80% WP (Wettable Powder) — 3.0g per liter. Foliar spray, repeat every 7-10 days.",
+      "Neem Oil (Azadirachtin Organic Insecticide) — 5.0ml per liter. Foliar spray, repeat every 7 days.",
+      "Myclobutanil 10% WP (Wettable Powder) — 1.0g per liter. Foliar spray, repeat every 14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Check the underside of leaves weekly for white powder or tiny insects.",
+      "Space the plants well and remove old leaves so air moves and leaves stay dry.",
+      "Water at the base in the morning, never over the leaves in the evening.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Strawberry___Leaf_scorch": {
+    "disease": "Leaf Scorch",
+    "is_healthy": false,
+    "description": "Fungal disease causing purple spots that make leaves look burned.",
+    "symptoms": [
+      "Purple spots on leaves",
+      "Spots merge and look scorched",
+      "Leaf edges turn brown and dry"
+    ],
+    "cause": "Fungus spread by rain in warm weather.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Captan 50% WP (Wettable Powder)",
+        "purpose": "Broad-spectrum contact fungicide",
+        "application": "Foliar spray",
+        "dosage": "2.0g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Observe pre-harvest interval"
+      },
+      {
+        "name": "Myclobutanil 10% WP (Wettable Powder)",
+        "purpose": "Systemic control",
+        "application": "Foliar spray",
+        "dosage": "1.0g per liter",
+        "interval": "Every 14 days",
+        "safety": "Safe for strawberries"
+      },
+      {
+        "name": "Copper Oxychloride 50% WP (Wettable Powder)",
+        "purpose": "Contact fungicide",
+        "application": "Foliar spray during renovation",
+        "dosage": "2.5g per liter",
+        "interval": "Every 14 days",
+        "safety": "Reduce rate in hot weather"
+      }
+    ],
+    "prevention": [
+      "Remove infected leaves",
+      "Use straw mulch",
+      "Avoid overhead watering"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3 g per litre during fruiting; firms the berries and reduces rot."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply in small weekly doses through drip; improves berry colour and sweetness."
+      },
+      {
+        "name": "Well-rotted Compost",
+        "purpose": "Mix into the beds before planting; keeps roots cool and well-fed."
+      }
+    ],
+    "farmer_tips": [
+      "• Leaves look burned",
+      "• Mulch prevents soil splash",
+      "• Replace plants every few years"
+    ],
+    "crop": "Strawberry",
+    "crop_hindi": "स्ट्रॉबेरी",
+    "preventive_measures": [
+      "Remove infected leaves",
+      "Use straw mulch",
+      "Avoid overhead watering"
+    ],
+    "organic_remedy": [
+      "Clip and remove old infected leaves after harvest to cut down the spore load.",
+      "Spray Neem oil (5 ml/L) and switch to drip watering instead of wetting the leaves."
+    ],
+    "chemical_spray": [
+      "Captan 50% WP (Wettable Powder) — 2.0g per liter. Foliar spray, repeat every 7-10 days.",
+      "Myclobutanil 10% WP (Wettable Powder) — 1.0g per liter. Foliar spray, repeat every 14 days.",
+      "Copper Oxychloride 50% WP (Wettable Powder) — 2.5g per liter. Foliar spray during renovation, repeat every 14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Remove old and spotted leaves after each harvest flush to cut the disease load.",
+      "Use straw mulch or plastic so berries never touch wet soil (this stops most rots).",
+      "Water by drip, not overhead, so leaves and fruit stay dry.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Strawberry___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy strawberry plant.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Use straw mulch",
+      "Space properly",
+      "Water at base"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3 g per litre during fruiting; firms the berries and reduces rot."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply in small weekly doses through drip; improves berry colour and sweetness."
+      },
+      {
+        "name": "Well-rotted Compost",
+        "purpose": "Mix into the beds before planting; keeps roots cool and well-fed."
+      }
+    ],
+    "farmer_tips": [
+      "• Plant looks great",
+      "• Pick ripe fruit fast"
+    ],
+    "crop": "Strawberry",
+    "crop_hindi": "स्ट्रॉबेरी",
+    "preventive_measures": [
+      "Use straw mulch",
+      "Space properly",
+      "Water at base"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Remove old and spotted leaves after each harvest flush to cut the disease load.",
+      "Use straw mulch or plastic so berries never touch wet soil (this stops most rots).",
+      "Water by drip, not overhead, so leaves and fruit stay dry."
+    ]
+  },
+  "Tomato___Bacterial_spot": {
+    "disease": "Bacterial Spot",
+    "is_healthy": false,
+    "description": "Bacterial disease causing leaf spots and scabs on tomatoes.",
+    "symptoms": [
+      "Dark, wet leaf spots",
+      "Scab-like spots on fruits",
+      "Leaves drop early"
+    ],
+    "cause": "Bacteria spread by seeds and rain splash.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Hydroxide 77% WP (Wettable Powder)",
+        "purpose": "Primary bactericidal control",
+        "application": "Foliar spray",
+        "dosage": "2.0g per liter",
+        "interval": "Every 5-7 days",
+        "safety": "May cause phytotoxicity in heat"
+      },
+      {
+        "name": "Copper + Mancozeb Tank Mix (Combined Fungicide)",
+        "purpose": "Enhanced control with reduced phytotoxicity",
+        "application": "Foliar spray",
+        "dosage": "1.5g Cu + 2.0g Mancozeb per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Standard protective equipment"
+      },
+      {
+        "name": "Streptomycin Sulfate (Bactericidal Antibiotic)",
+        "purpose": "Antibiotic for severe infection",
+        "application": "Foliar spray",
+        "dosage": "0.5g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Restricted in many regions"
+      }
+    ],
+    "prevention": [
+      "Use clean seeds",
+      "Rotate crops",
+      "Don't touch wet plants"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• Don't work in wet fields",
+      "• Buy clean plants",
+      "• Copper prevents, won't cure"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Use clean seeds",
+      "Rotate crops",
+      "Don't touch wet plants"
+    ],
+    "organic_remedy": [
+      "Remove infected leaves and avoid touching or picking plants while they are wet.",
+      "Spray copper oxychloride or Neem oil (5 ml/L) every 7–10 days.",
+      "Use certified seed and rotate away from tomato and pepper for 2–3 years."
+    ],
+    "chemical_spray": [
+      "Copper Hydroxide 77% WP (Wettable Powder) — 2.0g per liter. Foliar spray, repeat every 5-7 days.",
+      "Copper + Mancozeb Tank Mix (Combined Fungicide) — 1.5g Cu + 2.0g Mancozeb per liter. Foliar spray, repeat every 7-10 days.",
+      "Streptomycin Sulfate (Bactericidal Antibiotic) — 0.5g per liter. Foliar spray, repeat every 7-10 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Tomato___Early_blight": {
+    "disease": "Early Blight",
+    "is_healthy": false,
+    "description": "Fungal disease causing target-like spots on lower leaves.",
+    "symptoms": [
+      "Brown spots with target rings",
+      "Starts on bottom leaves",
+      "Yellow halos",
+      "Leaves die from bottom up"
+    ],
+    "cause": "Soil fungus spreading in warm, humid weather.",
+    "affected_parts": [
+      "Leaves",
+      "Stems"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Broad-spectrum protective",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "5-day pre-harvest interval"
+      },
+      {
+        "name": "Chlorothalonil 75% WP (Wettable Powder)",
+        "purpose": "Contact fungicide",
+        "application": "Preventive foliar spray",
+        "dosage": "2.0g per liter",
+        "interval": "Every 7-14 days",
+        "safety": "Irritant, wear protective clothing"
+      },
+      {
+        "name": "Azoxystrobin 23% SC (Suspension Concentrate)",
+        "purpose": "Systemic strobilurin",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "Every 14 days",
+        "safety": "Low mammalian toxicity"
+      }
+    ],
+    "prevention": [
+      "Rotate crops",
+      "Use mulch",
+      "Stake plants"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• Target spots on lower leaves",
+      "• Mulch stops soil splash",
+      "• Remove sick lower leaves"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Rotate crops",
+      "Use mulch",
+      "Stake plants"
+    ],
+    "organic_remedy": [
+      "Remove the lower spotted leaves and mulch the soil to block spore splash.",
+      "Spray Neem oil (5 ml/L) or a Trichoderma solution every 7 days."
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 7-10 days.",
+      "Chlorothalonil 75% WP (Wettable Powder) — 2.0g per liter. Preventive foliar spray, repeat every 7-14 days.",
+      "Azoxystrobin 23% SC (Suspension Concentrate) — 1.0ml per liter. Foliar spray, repeat every 14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Tomato___Late_blight": {
+    "disease": "Late Blight",
+    "is_healthy": false,
+    "description": "Highly destructive disease killing plants quickly.",
+    "symptoms": [
+      "Large wet spots on leaves",
+      "White fuzz under leaves",
+      "Fast plant death",
+      "Greasy rot on green fruits"
+    ],
+    "cause": "Oomycete spreading in cool, wet weather.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits"
+    ],
+    "treatment": [
+      {
+        "name": "Metalaxyl + Mancozeb (Ridomil Gold - Systemic + Contact Fungicide)",
+        "purpose": "Systemic + contact control",
+        "application": "Foliar spray at first sign",
+        "dosage": "2.5g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Alternate to prevent resistance"
+      },
+      {
+        "name": "Cymoxanil + Mancozeb (Systemic + Contact Fungicide)",
+        "purpose": "Curative and protective",
+        "application": "Foliar spray",
+        "dosage": "3.0g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Observe pre-harvest interval"
+      },
+      {
+        "name": "Dimethomorph 50% WP (Wettable Powder)",
+        "purpose": "Systemic oomycete specific",
+        "application": "Foliar spray",
+        "dosage": "1.0g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Wear standard gear"
+      }
+    ],
+    "prevention": [
+      "Spray BEFORE wet weather",
+      "Use drip irrigation",
+      "Destroy sick plants fast"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• Can destroy crop in days",
+      "• White fuzz is emergency",
+      "• Spray before rain"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Spray BEFORE wet weather",
+      "Use drip irrigation",
+      "Destroy sick plants fast"
+    ],
+    "organic_remedy": [
+      "Pull out and destroy infected plants immediately, before rain spreads the disease.",
+      "Spray 1% Bordeaux mixture or copper oxychloride ahead of wet, cloudy weather."
+    ],
+    "chemical_spray": [
+      "Metalaxyl + Mancozeb (Ridomil Gold - Systemic + Contact Fungicide) — 2.5g per liter. Foliar spray at first sign, repeat every 10-14 days.",
+      "Cymoxanil + Mancozeb (Systemic + Contact Fungicide) — 3.0g per liter. Foliar spray, repeat every 7-10 days.",
+      "Dimethomorph 50% WP (Wettable Powder) — 1.0g per liter. Foliar spray, repeat every 10-14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Tomato___Leaf_Mold": {
+    "disease": "Leaf Mold",
+    "is_healthy": false,
+    "description": "Fungal disease mainly in greenhouses causing yellow patches and mold.",
+    "symptoms": [
+      "Yellow patches on leaves",
+      "Olive-green mold under leaves",
+      "Leaves curl and drop"
+    ],
+    "cause": "Fungus thriving in high humidity.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Chlorothalonil 75% WP (Wettable Powder)",
+        "purpose": "Contact fungicide",
+        "application": "Spray targeting leaf undersides",
+        "dosage": "2.0g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Ensure greenhouse ventilation"
+      },
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Broad-spectrum protection",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Standard protective equipment"
+      },
+      {
+        "name": "Bacillus subtilis (Bio-Fungicide)",
+        "purpose": "Biological fungicide",
+        "application": "Preventive spray",
+        "dosage": "As per label",
+        "interval": "Every 7 days",
+        "safety": "Organic-approved"
+      }
+    ],
+    "prevention": [
+      "Ventilate greenhouses",
+      "Prune lower leaves",
+      "Avoid overhead watering"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• Mostly a greenhouse issue",
+      "• Lower humidity is key",
+      "• Remove bottom leaves"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Ventilate greenhouses",
+      "Prune lower leaves",
+      "Avoid overhead watering"
+    ],
+    "organic_remedy": [
+      "Improve ventilation — open the polyhouse sides and give plants wider spacing.",
+      "Spray Neem oil (5 ml/L) and water at the base only, keeping the leaves dry."
+    ],
+    "chemical_spray": [
+      "Chlorothalonil 75% WP (Wettable Powder) — 2.0g per liter. Spray targeting leaf undersides, repeat every 7-10 days.",
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 7-10 days.",
+      "Bacillus subtilis (Bio-Fungicide) — As per label. Preventive spray, repeat every 7 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "disease": "Septoria Leaf Spot",
+    "is_healthy": false,
+    "description": "Fungal disease causing small circular spots with gray centers on lower leaves.",
+    "symptoms": [
+      "Small spots with dark borders",
+      "Gray centers in spots",
+      "Starts on lower leaves",
+      "Leaves die from bottom up"
+    ],
+    "cause": "Fungus from soil splashed by rain.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Protective contact fungicide",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Pre-harvest interval 5 days"
+      },
+      {
+        "name": "Chlorothalonil 75% WP (Wettable Powder)",
+        "purpose": "Broad-spectrum contact",
+        "application": "Preventive foliar spray",
+        "dosage": "2.0g per liter",
+        "interval": "Every 7-14 days",
+        "safety": "Irritant"
+      }
+    ],
+    "prevention": [
+      "Mulch the soil",
+      "Remove sick lower leaves",
+      "Stake plants"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• Tiny spots with gray centers",
+      "• Mulching is best prevention",
+      "• Doesn't rot fruit, just leaves"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Mulch the soil",
+      "Remove sick lower leaves",
+      "Stake plants"
+    ],
+    "organic_remedy": [
+      "Remove and burn the spotted lower leaves and mulch to stop soil splash.",
+      "Spray Neem oil (5 ml/L) or a copper solution every 7–10 days."
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 7-10 days.",
+      "Chlorothalonil 75% WP (Wettable Powder) — 2.0g per liter. Preventive foliar spray, repeat every 7-14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "disease": "Spider Mites",
+    "is_healthy": false,
+    "description": "Tiny pests that suck sap, causing yellow dots and webbing.",
+    "symptoms": [
+      "Tiny yellow dots on leaves",
+      "Leaves turn bronze",
+      "Fine webbing on plants",
+      "Tiny mites under leaves"
+    ],
+    "cause": "Pests favored by hot, dry, dusty weather.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Abamectin 1.9% EC (Emulsifiable Concentrate)",
+        "purpose": "Miticide/insecticide",
+        "application": "Spray leaf undersides",
+        "dosage": "0.5ml per liter",
+        "interval": "Every 7 days",
+        "safety": "Toxic to bees, do not apply during bloom"
+      },
+      {
+        "name": "Spiromesifen 22.9% SC (Suspension Concentrate)",
+        "purpose": "Specific miticide",
+        "application": "Foliar spray",
+        "dosage": "0.8ml per liter",
+        "interval": "Every 14 days",
+        "safety": "Low toxicity to beneficials"
+      },
+      {
+        "name": "Neem Oil (Azadirachtin Organic Insecticide)",
+        "purpose": "Natural miticide",
+        "application": "Spray all surfaces",
+        "dosage": "5.0ml per liter",
+        "interval": "Every 5-7 days",
+        "safety": "Organic-approved"
+      }
+    ],
+    "prevention": [
+      "Keep plants watered",
+      "Reduce dust",
+      "Encourage ladybugs"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• Strong water spray washes them off",
+      "• Tap leaf over paper to see them",
+      "• Dry weather brings them"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Keep plants watered",
+      "Reduce dust",
+      "Encourage ladybugs"
+    ],
+    "organic_remedy": [
+      "Spray a strong jet of plain water under the leaves to wash off the tiny mites.",
+      "Spray Neem oil (5 ml/L) or a garlic-chilli extract every 5–7 days.",
+      "Release predatory mites or ladybirds where they are available."
+    ],
+    "chemical_spray": [
+      "Abamectin 1.9% EC (Emulsifiable Concentrate) — 0.5ml per liter. Spray leaf undersides, repeat every 7 days.",
+      "Spiromesifen 22.9% SC (Suspension Concentrate) — 0.8ml per liter. Foliar spray, repeat every 14 days.",
+      "Neem Oil (Azadirachtin Organic Insecticide) — 5.0ml per liter. Spray all surfaces, repeat every 5-7 days."
+    ],
+    "best_time_to_spray": "Evening or early morning, when it is cool — spider mites thrive in hot, dry afternoons.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Tomato___Target_Spot": {
+    "disease": "Target Spot",
+    "is_healthy": false,
+    "description": "Fungal disease causing circular rings on leaves and fruits.",
+    "symptoms": [
+      "Brown spots with rings on leaves",
+      "Yellow halos",
+      "Sunken ring spots on fruits",
+      "Early leaf drop"
+    ],
+    "cause": "Fungus in warm, humid weather.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Protective contact fungicide",
+        "application": "Foliar spray",
+        "dosage": "2.5g per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Standard protective equipment"
+      },
+      {
+        "name": "Difenoconazole 25% EC (Emulsifiable Concentrate)",
+        "purpose": "Systemic triazole for curative control",
+        "application": "Foliar spray",
+        "dosage": "0.5ml per liter",
+        "interval": "Every 14 days",
+        "safety": "Observe pre-harvest interval"
+      },
+      {
+        "name": "Azoxystrobin 23% SC (Suspension Concentrate)",
+        "purpose": "Systemic strobilurin",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "Every 14 days",
+        "safety": "Low toxicity"
+      }
+    ],
+    "prevention": [
+      "Rotate crops",
+      "Prune for airflow",
+      "Use mulch"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• Looks like early blight but more circular",
+      "• Attacks fruits too",
+      "• Keep plants clean"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Rotate crops",
+      "Prune for airflow",
+      "Use mulch"
+    ],
+    "organic_remedy": [
+      "Remove infected leaves and improve airflow; avoid overhead irrigation.",
+      "Spray Neem oil (5 ml/L) or a Trichoderma solution every 7 days."
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP (Wettable Powder) — 2.5g per liter. Foliar spray, repeat every 7-10 days.",
+      "Difenoconazole 25% EC (Emulsifiable Concentrate) — 0.5ml per liter. Foliar spray, repeat every 14 days.",
+      "Azoxystrobin 23% SC (Suspension Concentrate) — 1.0ml per liter. Foliar spray, repeat every 14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "is_healthy": false,
+    "description": "Devastating virus spread by whiteflies, causing stunted, curled plants.",
+    "symptoms": [
+      "Leaves curl upwards",
+      "Yellow leaf edges",
+      "Severe stunting",
+      "Poor fruit set"
+    ],
+    "cause": "Virus spread by silverleaf whitefly.",
+    "affected_parts": [
+      "Leaves",
+      "Entire plant"
+    ],
+    "treatment": [
+      {
+        "name": "Imidacloprid 17.8% SL (Soluble Liquid)",
+        "purpose": "Systemic insecticide for Whitefly vector",
+        "application": "Soil drench or foliar spray",
+        "dosage": "0.5ml per liter",
+        "interval": "Every 14 days",
+        "safety": "Toxic to bees"
+      },
+      {
+        "name": "Thiamethoxam 25% WG (Water Dispersible Granules)",
+        "purpose": "Neonicotinoid for whitefly",
+        "application": "Soil application at transplanting",
+        "dosage": "0.5g per plant",
+        "interval": "Single application",
+        "safety": "Toxic to pollinators"
+      },
+      {
+        "name": "Neem Oil (Azadirachtin Organic Insecticide)",
+        "purpose": "Natural whitefly repellent",
+        "application": "Foliar spray",
+        "dosage": "5.0ml per liter",
+        "interval": "Every 5-7 days",
+        "safety": "Organic-approved"
+      }
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Use sticky traps for whiteflies",
+      "Destroy sick plants fast"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• NO CURE for viruses",
+      "• Kill the whiteflies",
+      "• Pull sick plants immediately"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Plant resistant varieties",
+      "Use sticky traps for whiteflies",
+      "Destroy sick plants fast"
+    ],
+    "organic_remedy": [
+      "Uproot and destroy infected plants — once inside, the virus cannot be cured.",
+      "Control whiteflies (the carrier) with Neem oil (5 ml/L) and yellow sticky traps.",
+      "Cover nursery beds with a fine insect net to keep whiteflies out."
+    ],
+    "chemical_spray": [
+      "Imidacloprid 17.8% SL (Soluble Liquid) — 0.5ml per liter. Soil drench or foliar spray, repeat every 14 days.",
+      "Thiamethoxam 25% WG (Water Dispersible Granules) — 0.5g per plant. Soil application at transplanting, repeat single application.",
+      "Neem Oil (Azadirachtin Organic Insecticide) — 5.0ml per liter. Foliar spray, repeat every 5-7 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "disease": "Tomato Mosaic Virus",
+    "is_healthy": false,
+    "description": "Highly infectious virus spread by touch, causing stunted growth and mottled leaves.",
+    "symptoms": [
+      "Light and dark green leaf patterns",
+      "Distorted, fern-like leaves",
+      "Stunted plant",
+      "Mottled fruits"
+    ],
+    "cause": "Virus spread by hands, tools, and seeds.",
+    "affected_parts": [
+      "Leaves",
+      "Fruits",
+      "Entire plant"
+    ],
+    "treatment": [
+      {
+        "name": "No Chemical Cure (Prevention Only)",
+        "purpose": "Viral diseases cannot be cured",
+        "application": "Focus on prevention/vector control",
+        "dosage": "N/A",
+        "interval": "N/A",
+        "safety": "Remove infected plants immediately"
+      },
+      {
+        "name": "Milk Spray (Organic Antiviral Solution)",
+        "purpose": "Inactivates virus particles",
+        "application": "Foliar spray",
+        "dosage": "100ml per liter",
+        "interval": "Every 7 days",
+        "safety": "Completely safe"
+      }
+    ],
+    "prevention": [
+      "Wash hands with soap",
+      "Disinfect tools",
+      "Destroy sick plants",
+      "Don't use tobacco near plants"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• Spreads by touch",
+      "• Wash hands between plants",
+      "• Pull sick plants out"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Wash hands with soap",
+      "Disinfect tools",
+      "Destroy sick plants",
+      "Don't use tobacco near plants"
+    ],
+    "organic_remedy": [
+      "Remove and burn infected plants; wash hands and tools with soap after handling them.",
+      "Do not use tobacco near the plants and control aphids with Neem oil (5 ml/L).",
+      "Grow resistant varieties and use only virus-free seed."
+    ],
+    "chemical_spray": [
+      "No Chemical Cure (Prevention Only) — N/A. Focus on prevention/vector control, repeat n/a.",
+      "Milk Spray (Organic Antiviral Solution) — 100ml per liter. Foliar spray, repeat every 7 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Tomato___healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy tomato plant.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Keep regular spray schedule",
+      "Stake plants",
+      "Water at base"
+    ],
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from first flowering; prevents blossom-end rot (black patch at the bottom of the fruit)."
+      },
+      {
+        "name": "Potassium Sulfate (SOP)",
+        "purpose": "Apply 8–10 kg per acre during fruiting; improves fruit colour, firmness and disease resistance."
+      },
+      {
+        "name": "Farmyard Manure (Compost)",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting; builds rich, living soil."
+      }
+    ],
+    "farmer_tips": [
+      "• Plant looks great",
+      "• Keep leaves dry"
+    ],
+    "crop": "Tomato",
+    "crop_hindi": "टमाटर",
+    "preventive_measures": [
+      "Keep regular spray schedule",
+      "Stake plants",
+      "Water at base"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Scout twice a week and pinch off the lower spotted leaves as soon as you see them.",
+      "Stake the plants and mulch the soil so leaves stay off the wet ground.",
+      "Never touch healthy plants right after handling diseased ones — wash hands and tools first."
+    ]
+  },
+  "Rice_BrownSpot": {
+    "disease": "Brown Spot",
+    "is_healthy": false,
+    "description": "Fungal disease causing brown spots on leaves and grains, reducing yield.",
+    "symptoms": [
+      "Small brown spots on leaves",
+      "Spots merge to kill leaves",
+      "Brown spots on grains"
+    ],
+    "cause": "Fungus thriving in poor soil and high humidity.",
+    "affected_parts": [
+      "Leaves",
+      "Grains"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP (Wettable Powder)",
+        "purpose": "Contact fungicide",
+        "application": "Foliar spray",
+        "dosage": "2.0g per liter",
+        "interval": "Every 10-15 days",
+        "safety": "Wear protective gear"
+      },
+      {
+        "name": "Propiconazole 25% EC (Emulsifiable Concentrate)",
+        "purpose": "Systemic fungicide",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "Every 15 days",
+        "safety": "Avoid spray drift"
+      },
+      {
+        "name": "Edifenphos 50% EC (Emulsifiable Concentrate)",
+        "purpose": "Organophosphate fungicide",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Use standard PPE"
+      },
+      {
+        "name": "Carbendazim 50% WP (Wettable Powder)",
+        "purpose": "Systemic benzimidazole",
+        "application": "Foliar spray",
+        "dosage": "1.0g per liter",
+        "interval": "Every 15 days",
+        "safety": "Avoid continuous use to prevent resistance"
+      }
+    ],
+    "prevention": [
+      "Use healthy seeds",
+      "Ensure good soil nutrition",
+      "Proper water management"
+    ],
+    "fertilizers": [
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply in 3 splits (basal, tillering, panicle stage) — never all at once, as an over-dose invites blast and blight."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 15–20 kg per acre at tillering; hardens the plant against disease and lodging (falling over)."
+      },
+      {
+        "name": "Zinc Sulfate 21%",
+        "purpose": "Apply 10 kg per acre in zinc-poor soils; prevents brown patches and stunting (khaira disease)."
+      }
+    ],
+    "farmer_tips": [
+      "• Check soil nutrients",
+      "• Use clean seeds",
+      "• Keep fields flooded appropriately"
+    ],
+    "crop": "Rice (Paddy)",
+    "crop_hindi": "धान / चावल",
+    "preventive_measures": [
+      "Use healthy seeds",
+      "Ensure good soil nutrition",
+      "Proper water management"
+    ],
+    "organic_remedy": [
+      "Add well-decomposed compost and keep nutrition balanced — the disease worsens in poor soil.",
+      "Treat seed with hot water (53–54°C for 10–12 minutes) or coat it with Trichoderma.",
+      "Spray Neem oil (5 ml/L) at the first appearance of brown spots."
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP (Wettable Powder) — 2.0g per liter. Foliar spray, repeat every 10-15 days.",
+      "Propiconazole 25% EC (Emulsifiable Concentrate) — 1.0ml per liter. Foliar spray, repeat every 15 days.",
+      "Edifenphos 50% EC (Emulsifiable Concentrate) — 1.0ml per liter. Foliar spray, repeat every 10-14 days.",
+      "Carbendazim 50% WP (Wettable Powder) — 1.0g per liter. Foliar spray, repeat every 15 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Walk the field weekly and check the leaf tips and collars for spots — blast starts small.",
+      "Do not flood-and-dry irregularly; keep steady water, as stress makes plants catch disease.",
+      "Avoid dumping heavy urea at once — split it, as excess nitrogen invites blast and blight.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Rice_Healthy": {
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "The rice plant is healthy with no signs of disease.",
+    "symptoms": [
+      "No symptoms"
+    ],
+    "cause": "No disease",
+    "affected_parts": [],
+    "treatment": [],
+    "prevention": [
+      "Keep up good farming practices",
+      "Monitor regularly",
+      "Maintain proper water levels"
+    ],
+    "fertilizers": [
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply in 3 splits (basal, tillering, panicle stage) — never all at once, as an over-dose invites blast and blight."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 15–20 kg per acre at tillering; hardens the plant against disease and lodging (falling over)."
+      },
+      {
+        "name": "Zinc Sulfate 21%",
+        "purpose": "Apply 10 kg per acre in zinc-poor soils; prevents brown patches and stunting (khaira disease)."
+      }
+    ],
+    "farmer_tips": [
+      "• Good job keeping plants healthy",
+      "• Continue regular checks"
+    ],
+    "crop": "Rice (Paddy)",
+    "crop_hindi": "धान / चावल",
+    "preventive_measures": [
+      "Keep up good farming practices",
+      "Monitor regularly",
+      "Maintain proper water levels"
+    ],
+    "organic_remedy": [
+      "Keep watering even and at the base of the plant; avoid wetting the leaves.",
+      "Add compost or well-rotted farmyard manure to keep the soil rich and alive.",
+      "Scout the field weekly and remove any weak, yellowing or damaged leaves early.",
+      "Spray Neem oil (5 ml/L) once every 10–15 days as a preventive shield."
+    ],
+    "chemical_spray": [],
+    "best_time_to_spray": "No spraying needed while the plant is healthy — do routine care during the cool morning hours.",
+    "safety_tips": [
+      "Walk the field weekly and check the leaf tips and collars for spots — blast starts small.",
+      "Do not flood-and-dry irregularly; keep steady water, as stress makes plants catch disease.",
+      "Avoid dumping heavy urea at once — split it, as excess nitrogen invites blast and blight."
+    ]
+  },
+  "Rice_Hispa": {
+    "disease": "Rice Hispa",
+    "is_healthy": false,
+    "description": "Insect pest that scrapes the upper surface of leaves, causing them to wither and die.",
+    "symptoms": [
+      "White streaks on leaves",
+      "Leaves wither and dry up",
+      "Small blue-black beetles visible"
+    ],
+    "cause": "Rice hispa beetle.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Chlorpyrifos 20% EC (Emulsifiable Concentrate)",
+        "purpose": "Broad-spectrum insecticide",
+        "application": "Foliar spray",
+        "dosage": "2.5ml per liter",
+        "interval": "When pest exceeds economic threshold",
+        "safety": "Highly toxic, use full PPE"
+      },
+      {
+        "name": "Quinalphos 25% EC (Emulsifiable Concentrate)",
+        "purpose": "Contact and stomach insecticide",
+        "application": "Foliar spray",
+        "dosage": "2.0ml per liter",
+        "interval": "As needed based on scouting",
+        "safety": "Toxic to fish and bees"
+      },
+      {
+        "name": "Lambda-cyhalothrin 5% EC (Emulsifiable Concentrate)",
+        "purpose": "Pyrethroid insecticide",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "As needed",
+        "safety": "Fast knockdown, wear mask"
+      },
+      {
+        "name": "Neem Oil (Azadirachtin Organic Insecticide)",
+        "purpose": "Organic repellent and antifeedant",
+        "application": "Foliar spray",
+        "dosage": "5.0ml per liter",
+        "interval": "Every 7-10 days",
+        "safety": "Safe for environment"
+      }
+    ],
+    "prevention": [
+      "Remove grassy weeds",
+      "Avoid over-fertilizing with nitrogen",
+      "Clip leaf tips before transplanting"
+    ],
+    "fertilizers": [
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply in 3 splits (basal, tillering, panicle stage) — never all at once, as an over-dose invites blast and blight."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 15–20 kg per acre at tillering; hardens the plant against disease and lodging (falling over)."
+      },
+      {
+        "name": "Zinc Sulfate 21%",
+        "purpose": "Apply 10 kg per acre in zinc-poor soils; prevents brown patches and stunting (khaira disease)."
+      }
+    ],
+    "farmer_tips": [
+      "• Look for white streaks on leaves",
+      "• Control weeds nearby"
+    ],
+    "crop": "Rice (Paddy)",
+    "crop_hindi": "धान / चावल",
+    "preventive_measures": [
+      "Remove grassy weeds",
+      "Avoid over-fertilizing with nitrogen",
+      "Clip leaf tips before transplanting"
+    ],
+    "organic_remedy": [
+      "Sweep the crop with a hand net in the early morning to collect the adult beetles.",
+      "Clip and destroy leaf tips carrying grubs, and avoid excess nitrogen fertiliser.",
+      "Spray Neem oil (5 ml/L) on the affected patches."
+    ],
+    "chemical_spray": [
+      "Chlorpyrifos 20% EC (Emulsifiable Concentrate) — 2.5ml per liter. Foliar spray, repeat when pest exceeds economic threshold.",
+      "Quinalphos 25% EC (Emulsifiable Concentrate) — 2.0ml per liter. Foliar spray, repeat as needed based on scouting.",
+      "Lambda-cyhalothrin 5% EC (Emulsifiable Concentrate) — 1.0ml per liter. Foliar spray, repeat as needed.",
+      "Neem Oil (Azadirachtin Organic Insecticide) — 5.0ml per liter. Foliar spray, repeat every 7-10 days."
+    ],
+    "best_time_to_spray": "Early morning, when the beetles are slow and easy to knock down.",
+    "safety_tips": [
+      "Walk the field weekly and check the leaf tips and collars for spots — blast starts small.",
+      "Do not flood-and-dry irregularly; keep steady water, as stress makes plants catch disease.",
+      "Avoid dumping heavy urea at once — split it, as excess nitrogen invites blast and blight.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  },
+  "Rice_LeafBlast": {
+    "disease": "Leaf Blast",
+    "is_healthy": false,
+    "description": "A severe fungal disease causing diamond-shaped spots on leaves, potentially killing the plant.",
+    "symptoms": [
+      "Diamond-shaped white or gray spots",
+      "Spots have brown borders",
+      "Leaves dry and die"
+    ],
+    "cause": "Fungus favored by high humidity and cool nights.",
+    "affected_parts": [
+      "Leaves",
+      "Stems"
+    ],
+    "treatment": [
+      {
+        "name": "Tricyclazole 75% WP (Wettable Powder)",
+        "purpose": "Specific systemic fungicide for blast",
+        "application": "Foliar spray",
+        "dosage": "0.6g per liter",
+        "interval": "Every 10-14 days",
+        "safety": "Highly effective, wear mask"
+      },
+      {
+        "name": "Isoprothiolane 40% EC (Emulsifiable Concentrate)",
+        "purpose": "Systemic fungicide",
+        "application": "Foliar spray",
+        "dosage": "1.5ml per liter",
+        "interval": "Every 10-15 days",
+        "safety": "Standard protective gear"
+      },
+      {
+        "name": "Kasugamycin 3% SL (Soluble Liquid)",
+        "purpose": "Antibiotic fungicide",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "Every 10 days",
+        "safety": "Follow label for safety"
+      },
+      {
+        "name": "Azoxystrobin 25% SC (Suspension Concentrate)",
+        "purpose": "Broad-spectrum strobilurin",
+        "application": "Foliar spray",
+        "dosage": "1.0ml per liter",
+        "interval": "Every 14 days",
+        "safety": "Toxic to aquatic life"
+      }
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Avoid excess nitrogen",
+      "Keep fields flooded"
+    ],
+    "fertilizers": [
+      {
+        "name": "Urea (Nitrogen)",
+        "purpose": "Apply in 3 splits (basal, tillering, panicle stage) — never all at once, as an over-dose invites blast and blight."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 15–20 kg per acre at tillering; hardens the plant against disease and lodging (falling over)."
+      },
+      {
+        "name": "Zinc Sulfate 21%",
+        "purpose": "Apply 10 kg per acre in zinc-poor soils; prevents brown patches and stunting (khaira disease)."
+      }
+    ],
+    "farmer_tips": [
+      "• Diamond spots mean blast",
+      "• Don't use too much urea",
+      "• Spray early if spots appear"
+    ],
+    "crop": "Rice (Paddy)",
+    "crop_hindi": "धान / चावल",
+    "preventive_measures": [
+      "Plant resistant varieties",
+      "Avoid excess nitrogen",
+      "Keep fields flooded"
+    ],
+    "organic_remedy": [
+      "Split the nitrogen dose into 3 applications instead of one heavy dose.",
+      "Treat seed with Trichoderma or Pseudomonas before sowing.",
+      "Spray Neem oil (5 ml/L) or a cow-dung + cow-urine extract at the first lesions."
+    ],
+    "chemical_spray": [
+      "Tricyclazole 75% WP (Wettable Powder) — 0.6g per liter. Foliar spray, repeat every 10-14 days.",
+      "Isoprothiolane 40% EC (Emulsifiable Concentrate) — 1.5ml per liter. Foliar spray, repeat every 10-15 days.",
+      "Kasugamycin 3% SL (Soluble Liquid) — 1.0ml per liter. Foliar spray, repeat every 10 days.",
+      "Azoxystrobin 25% SC (Suspension Concentrate) — 1.0ml per liter. Foliar spray, repeat every 14 days."
+    ],
+    "best_time_to_spray": "Early morning (6:00–9:00 AM) or evening after 4:00 PM, when sunlight is mild and there is little wind.",
+    "safety_tips": [
+      "Walk the field weekly and check the leaf tips and collars for spots — blast starts small.",
+      "Do not flood-and-dry irregularly; keep steady water, as stress makes plants catch disease.",
+      "Avoid dumping heavy urea at once — split it, as excess nitrogen invites blast and blight.",
+      "While spraying any chemical, wear a mask, gloves and full-sleeve clothes, and never spray against the wind.",
+      "Keep children and animals away from sprayed plants, and do not harvest before the waiting period printed on the product label.",
+      "Alternate between different chemical groups so the fungus/pest does not become resistant."
+    ]
+  }
+}

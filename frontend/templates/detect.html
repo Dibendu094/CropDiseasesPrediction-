@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Detect crop diseases from a leaf photo using deep learning. Covers 31 crops and 131 conditions with organic and chemical treatment plans.">
+    <title>Crop Disease Prediction — AgriCare</title>
+        <meta name="theme-color" content="#2f7d47">
+    <meta name="author" content="Dibendu Mondal">
+    <meta name="keywords" content="crop disease prediction, plant disease detection, deep learning agriculture, ViT, EfficientNet, precision farming">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="AgriCare — Crop Disease Prediction">
+    <meta property="og:title" content="Crop Disease Prediction — AgriCare">
+    <meta property="og:description" content="Detect crop diseases from a leaf photo using deep learning. Covers 31 crops and 131 conditions with organic and chemical treatment plans.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Crop Disease Prediction — AgriCare">
+    <meta name="twitter:description" content="Detect crop diseases from a leaf photo using deep learning. Covers 31 crops and 131 conditions with organic and chemical treatment plans.">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232f7d47'/%3E%3Cpath d='M15 24a8 8 0 0 1-1.4-16C20 6.9 21.7 6.3 24 3.5c1.1 2.3 2.3 4.8 2.3 9.2C26.3 19 20.9 24 15 24Z' fill='none' stroke='%23ffffff' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round' transform='scale(0.62) translate(6 5)'/%3E%3Cpath d='M4 27c0-3.4 2.1-6.1 5.8-6.9C12.5 19.5 15.4 17.8 16.5 16.6' fill='none' stroke='%23ffffff' stroke-width='2.2' stroke-linecap='round' transform='scale(0.62) translate(6 5)'/%3E%3C/svg%3E">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Google+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+
+    <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+</head>
+<body>
+
+<!-- Living botanical backdrop -->
+<div class="leaf-field" aria-hidden="true"></div>
+<div id="leafDrift" aria-hidden="true"></div>
+
+{% set crop_icons = {
+    'Apple':'🍎','Banana':'🍌','Blueberry':'🫐','Cassava':'🥔','Cherry':'🍒','Chili':'🌶️',
+    'Coffee':'☕','Corn':'🌽','Cotton':'🧵','Cucumber':'🥒','Grape':'🍇','Guava':'🍈',
+    'Jamun':'🫐','Lemon':'🍋','Mango':'🥭','Mulberry':'🍇','Orange':'🍊','Peach':'🍑',
+    'Pepper':'🫑','Pomegranate':'🍎','Potato':'🥔','Raspberry':'🫐','Rice':'🌾','Rose':'🌹',
+    'Soybean':'🌱','Squash':'🎃','Strawberry':'🍓','Sugarcane':'🎋','Tea':'🍵','Tomato':'🍅','Wheat':'🌾'
+} %}
+
+<!-- ═══ NAVBAR ═══ -->
+<header class="topbar">
+    <div class="topbar-inner">
+        <a class="brand" href="/">
+            <span class="brand-mark">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z"/>
+                    <path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/>
+                </svg>
+            </span>
+            <span class="brand-name">Agri<em>Care</em></span>
+        </a>
+
+        <nav class="nav-links">
+            <a class="nav-link" href="/history">
+                <i class="bi bi-clock-history"></i><span class="label">History</span>
+            </a>
+
+            {% if current_user %}
+            <div class="user-chip" id="userChip">
+                <button class="user-chip-btn" id="userChipBtn" type="button">
+                    <span class="user-avatar">
+                        {% if current_user.picture %}
+                        <img src="{{ current_user.picture }}" alt="" referrerpolicy="no-referrer">
+                        {% else %}{{ current_user.full_name[0]|upper }}{% endif %}
+                    </span>
+                    <span class="label">{{ current_user.full_name.split(' ')[0] }}</span>
+                    <i class="bi bi-chevron-down" style="font-size:.72rem;"></i>
+                </button>
+                <div class="user-menu">
+                    <div class="user-menu-head">
+                        <b>{{ current_user.full_name }}</b>
+                        <span>{{ current_user.email }}</span>
+                    </div>
+                    <a href="/history"><i class="bi bi-clock-history"></i> My scan history</a>
+                    <a href="/logout" class="danger"><i class="bi bi-box-arrow-right"></i> Sign out</a>
+                </div>
+            </div>
+            {% else %}
+            <a class="btn-signin" href="/auth?next=/">
+                <i class="bi bi-google"></i> Sign in
+            </a>
+            {% endif %}
+        </nav>
+    </div>
+</header>
+
+<main class="stage">
+
+    <!-- ═══ HERO ═══ -->
+    <section class="hero">
+        <h1 class="hero-title">
+            <span class="w" style="--i:0">Know</span>
+            <span class="w" style="--i:1">what's</span>
+            <span class="w" style="--i:2">hurting</span>
+            <span class="w accent" style="--i:3">your&nbsp;crop</span>
+        </h1>
+
+        <p class="hero-sub">
+            Choose your crop, share a leaf photo, and get a clear diagnosis with an
+            organic and chemical treatment plan.
+        </p>
+
+        <div class="quota-strip" id="quotaStrip">
+            <span class="quota-pill" id="quotaScans"><i class="bi bi-camera"></i> <span>—</span></span>
+            <span class="quota-pill ai" id="quotaAi"><i class="bi bi-search"></i> <span>—</span></span>
+            <span class="quota-hint" id="guestNote"></span>
+        </div>
+    </section>
+
+    <!-- ═══ STEP 1 — CROP ═══ -->
+    <section class="step s1" id="step1">
+        <div class="step-head">
+            <span class="step-no">1</span>
+            <div>
+                <h2 class="step-title">Which crop is it?</h2>
+                <p class="step-note">Pick from the list, or choose “Other” to identify it from the photo.</p>
+            </div>
+        </div>
+
+        <div class="cropbox" id="cropBox">
+            <button type="button" class="cropbox-trigger" id="cropTrigger"
+                    aria-haspopup="listbox" aria-expanded="false" aria-controls="cropPanel">
+                <span class="cropbox-current" id="cropCurrent">
+                    <span class="ph">Choose your crop</span>
+                </span>
+                <i class="bi bi-chevron-down caret"></i>
+            </button>
+
+            <div class="cropbox-panel" id="cropPanel" role="listbox" aria-label="Crops">
+                <div class="cropbox-search">
+                    <i class="bi bi-search"></i>
+                    <input type="text" id="cropSearch" placeholder="Search 31 crops…"
+                           autocomplete="off" spellcheck="false" aria-label="Search crops">
+                </div>
+
+                <div class="cropbox-list" id="cropList">
+                    {% for c in known_crops %}
+                    <button type="button" class="cropbox-item" role="option"
+                            data-value="{{ c.value }}"
+                            data-icon="{{ crop_icons.get(c.value, '🌿') }}"
+                            data-name="{{ c.label }}">
+                        <span class="ci">{{ crop_icons.get(c.value, '🌿') }}</span>
+                        <span class="cn">{{ c.label }}</span>
+                        <i class="bi bi-check2 tick"></i>
+                    </button>
+                    {% endfor %}
+                    <p class="cropbox-empty" id="cropEmpty">No crop matches that search.</p>
+                </div>
+
+                <div class="cropbox-foot">
+                    <button type="button" class="cropbox-item other" role="option"
+                            data-value="other" data-icon="🔎" data-name="Other / Unknown crop">
+                        <span class="ci">🔎</span>
+                        <span class="cn">
+                            Other / Unknown crop
+                            <em>Not in the list — identify it from the photo</em>
+                        </span>
+                        <i class="bi bi-check2 tick"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Real form state; the picker above drives this. -->
+            <select id="cropSelect" aria-hidden="true" tabindex="-1" class="visually-hidden">
+                <option value="" selected disabled></option>
+                {% for c in known_crops %}
+                <option value="{{ c.value }}">{{ c.label }}</option>
+                {% endfor %}
+                <option value="other">Other / Unknown crop</option>
+            </select>
+        </div>
+        <p class="field-hint" id="cropHint" style="display:none;"></p>
+    </section>
+
+    <!-- ═══ STEP 2 — PHOTO ═══ -->
+    <section class="step s2" id="step2">
+        <div class="step-head">
+            <span class="step-no">2</span>
+            <div>
+                <h2 class="step-title">Share a leaf photo</h2>
+                <p class="step-note">A close, well-lit shot of the affected leaf works best.</p>
+            </div>
+        </div>
+
+        <div class="drop" id="uploadZone" role="button" tabindex="0" aria-label="Upload a leaf photo">
+            <div class="drop-icon"><i class="bi bi-camera"></i></div>
+            <h4>Drop your leaf photo here</h4>
+            <p>or tap to browse · take a picture</p>
+            <div class="chip-row">
+                <span class="chip">JPG</span><span class="chip">JPEG</span>
+                <span class="chip">PNG</span><span class="chip">max 16 MB</span>
+            </div>
+            <input type="file" id="fileInput" accept="image/png,image/jpeg,image/jpg" hidden>
+        </div>
+
+        <div class="preview" id="previewArea" style="display:none;">
+            <div class="preview-frame">
+                <img id="previewImage" alt="Your leaf photo">
+                <div class="scan-beam" id="scanLine" style="display:none;"></div>
+                <button class="preview-x" id="removeImage" type="button" aria-label="Remove photo">
+                    <i class="bi bi-x-lg"></i>
+                </button>
+            </div>
+            <div class="preview-meta">
+                <b id="fileName"></b><span id="fileSize"></span>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══ STEP 3 — ANALYZE ═══ -->
+    <section class="step s3">
+        <button class="btn-analyze" id="detectBtn" disabled>
+            <i class="bi bi-search-heart"></i>
+            <span>Diagnose my plant</span>
+        </button>
+        <p class="btn-requirement" id="btnRequirement" style="display:none;"></p>
+    </section>
+
+    <!-- ═══ RESULT ═══ -->
+    <section class="result-shell">
+
+        <div class="result-idle" id="reportEmpty">
+            <span class="sprout">🌱</span>
+            <h3>Your diagnosis will appear here</h3>
+            <p>Pick a crop, add a leaf photo, and press <b>Diagnose my plant</b> — you’ll get symptoms, causes and a full treatment plan.</p>
+        </div>
+
+        <article class="report" id="report" style="display:none;">
+            <header class="report-top">
+                <h2>Diagnosis &amp; treatment plan</h2>
+                <div class="sub">Reviewed against 31 crops and 130+ conditions</div>
+                <div class="badge-row">
+                    <span class="r-badge acc-high" id="badgeAcc"><i class="bi bi-graph-up-arrow"></i> <span></span></span>
+                    <span class="saved-pill" id="savedPill" style="display:none;">
+                        <i class="bi bi-check2-circle"></i> Saved to history
+                    </span>
+                </div>
+            </header>
+
+            <div class="report-body">
+
+                <div class="lowconf-banner" id="lowConfBanner" style="display:none;">
+                    <i class="bi bi-exclamation-triangle-fill"></i>
+                    <span id="lowConfBannerMsg"></span>
+                </div>
+
+                <div class="ai-disclaimer" id="aiDisclaimer" style="display:none;">
+                    <i class="bi bi-info-circle"></i>
+                    <span>Automatically generated guidance. Please confirm with your local agricultural
+                          officer or Krishi Vigyan Kendra before treating a large area.</span>
+                </div>
+
+                <!-- Identity -->
+                <div class="ident">
+                    <div class="ident-cell">
+                        <span class="k">Crop</span>
+                        <div class="v" id="rCrop">—</div>
+                    </div>
+                    <div class="ident-cell">
+                        <span class="k">Condition</span>
+                        <div class="v" id="rDisease">—</div>
+                    </div>
+                </div>
+
+                <div class="meta-row" id="rCauseRow" style="display:none;">
+                    <span class="k">Cause</span><span class="v" id="rCause"></span>
+                </div>
+                <div class="meta-row" id="rPartsRow" style="display:none;">
+                    <span class="k">Affected parts</span><span class="v" id="rParts"></span>
+                </div>
+
+                <!-- Confidence -->
+                <div class="conf-block">
+                    <div class="conf-line">
+                        <span class="lbl">Confidence</span>
+                        <span class="val" id="rConf">—</span>
+                    </div>
+                    <div class="conf-track"><div class="conf-fill" id="rConfFill"></div></div>
+                </div>
+
+                <!-- Healthy -->
+                <div class="healthy-hero" id="healthyHero" style="display:none;">
+                    <span class="ico">🌿</span>
+                    <div>
+                        <h4>This plant looks healthy</h4>
+                        <p id="healthyText"></p>
+                    </div>
+                </div>
+
+
+                <!-- Top 3 -->
+                <div class="r-section" id="secTop3" style="display:none;">
+                    <div class="r-head"><span class="emoji">📊</span> Other possibilities</div>
+                    <div class="top3-list" id="rTop3"></div>
+                    <p class="top3-note">Not sure? Choose <b>“Other / Unknown crop”</b> for a broader check.</p>
+                </div>
+
+                <div class="r-section" id="secSymptoms">
+                    <div class="r-head"><span class="emoji">🔍</span> What you’ll see</div>
+                    <ul id="rSymptoms"></ul>
+                </div>
+
+                <div class="r-section" id="secOrganic">
+                    <div class="r-head"><span class="emoji">🌿</span> Organic remedy</div>
+                    <ul id="rOrganic"></ul>
+                </div>
+
+                <div class="r-section" id="secChemical">
+                    <div class="r-head"><span class="emoji">🧪</span> Chemical spray</div>
+                    <ul id="rChemical"></ul>
+                    <p class="chem-note">
+                        <i class="bi bi-shield-exclamation"></i>
+                        <span>Doses are general guidance for Indian conditions. Product
+                        registrations and approved rates change and differ by state —
+                        <b>always follow the label on the pack</b> and check with your
+                        Krishi Vigyan Kendra or agriculture officer before spraying a
+                        large area.</span>
+                    </p>
+                </div>
+
+                <div class="r-section" id="secBestTime" style="display:none;">
+                    <div class="r-head"><span class="emoji">⏰</span> Best time to spray</div>
+                    <div class="best-time"><i class="bi bi-sun"></i><span id="rBestTime"></span></div>
+                </div>
+
+                <div class="r-section" id="secPrevent">
+                    <div class="r-head"><span class="emoji">🛡️</span> Prevent it next season</div>
+                    <ul id="rPrevent"></ul>
+                </div>
+
+                <div class="r-section" id="secFert" style="display:none;">
+                    <div class="r-head"><span class="emoji">🌾</span> Fertilizer support</div>
+                    <div class="fert-grid" id="rFert"></div>
+                </div>
+
+                <div class="r-section" id="secSafety">
+                    <div class="r-head"><span class="emoji">⚠️</span> Safety while spraying</div>
+                    <ul id="rSafety"></ul>
+                </div>
+            </div>
+
+            <footer class="report-actions">
+                <button class="btn-ghost" id="scanAgainBtn" type="button">
+                    <i class="bi bi-arrow-repeat"></i> Scan another leaf
+                </button>
+                <button class="btn-solid" id="downloadPdfBtn" type="button">
+                    <i class="bi bi-download"></i> Download report
+                </button>
+            </footer>
+        </article>
+    </section>
+</main>
+
+<!-- ═══ LOADING ═══ -->
+<div class="loading-overlay" id="loadingOverlay">
+    <div class="loading-card">
+        <div class="sprout-loader">
+            <div class="ring"></div><div class="ring"></div>
+            <div class="core">🌿</div>
+        </div>
+        <h3 id="loadingTitle">Reading your leaf…</h3>
+        <p id="loadingSub">Looking for signs of disease</p>
+        <div class="loading-bar"><span></span></div>
+    </div>
+</div>
+
+<!-- ═══ LIMIT MODAL ═══ -->
+<div class="modal-veil" id="trialLimitModal">
+    <div class="modal-card">
+        <span class="ico">🌾</span>
+        <h3 id="limitTitle">Daily limit reached</h3>
+        <p id="limitBody">You’ve used all of today’s scans. Sign in with Google for a higher daily limit and saved history.</p>
+        <div class="modal-actions">
+            <button class="btn-ghost" id="limitClose" type="button">Maybe later</button>
+            <a class="btn-solid" href="/auth?next=/"><i class="bi bi-google"></i> Sign in</a>
+        </div>
+    </div>
+</div>
+
+<div class="toast-host" id="toastHost"></div>
+
+<script>
+    window.GEMINI_ENABLED = {{ 'true' if gemini_enabled else 'false' }};
+    window.IS_SIGNED_IN   = {{ 'true' if current_user else 'false' }};
+</script>
+<script src="{{ url_for('static', filename='js/report_pdf.js') }}"></script>
+<script src="{{ url_for('static', filename='js/detect.js') }}"></script>
+</body>
+</html>

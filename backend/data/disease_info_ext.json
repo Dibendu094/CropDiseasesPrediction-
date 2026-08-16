@@ -1,0 +1,3962 @@
+{
+  "Cassava__healthy": {
+    "crop": "Cassava",
+    "crop_hindi": "कसावा",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy cassava plant with clean, well-shaped leaves.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Water at the base and avoid wetting the leaves.",
+      "Add well-rotted farmyard manure or compost to keep the soil alive.",
+      "Spray neem oil (5 ml/L) every 15 days as a preventive shield."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre before planting; builds soil structure."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 40–50 kg per acre; potash is what fills out the tubers."
+      },
+      {
+        "name": "Urea",
+        "purpose": "Apply 40 kg per acre in two splits; drives healthy leaf growth."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Plant is healthy",
+      "• Use only clean stem cuttings",
+      "• Watch for whitefly — it spreads virus"
+    ]
+  },
+  "Cassava__mosaic_disease": {
+    "crop": "Cassava",
+    "crop_hindi": "कसावा",
+    "disease": "Mosaic Disease",
+    "is_healthy": false,
+    "description": "A whitefly-borne virus disease that yellows and distorts the leaves and badly cuts tuber yield.",
+    "cause": "Cassava mosaic virus, spread by whitefly and by planting infected stem cuttings.",
+    "affected_parts": [
+      "Leaves",
+      "Whole plant"
+    ],
+    "symptoms": [
+      "Yellow and green patchy (mosaic) pattern on leaves",
+      "Leaves become small, twisted and puckered",
+      "Plant stays stunted",
+      "Tubers are few and small"
+    ],
+    "treatment": [
+      {
+        "name": "Imidacloprid 17.8% SL",
+        "purpose": "Controls the whitefly that spreads the virus",
+        "application": "Foliar spray",
+        "dosage": "0.3 ml per litre",
+        "interval": "Every 10–15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Thiamethoxam 25% WG",
+        "purpose": "Systemic whitefly control",
+        "application": "Foliar spray",
+        "dosage": "0.3 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Spiromesifen 22.9% SC",
+        "purpose": "Kills whitefly eggs and nymphs",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Imidacloprid 17.8% SL — 0.3 ml per litre, every 10–15 days.",
+      "Thiamethoxam 25% WG — 0.3 g per litre, every 15 days.",
+      "Spiromesifen 22.9% SC — 1 ml per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Uproot and burn infected plants as soon as you spot them — the virus has no cure.",
+      "Take cuttings only from healthy, vigorous plants in a clean field.",
+      "Spray neem oil (5 ml/L) weekly to repel whitefly.",
+      "Set yellow sticky traps (8–10 per acre) to catch adult whitefly."
+    ],
+    "prevention": [
+      "Plant only certified virus-free stem cuttings.",
+      "Remove and destroy infected plants early (roguing).",
+      "Control whitefly from the very first month.",
+      "Do not take cuttings from a diseased field."
+    ],
+    "preventive_measures": [
+      "Plant only certified virus-free stem cuttings.",
+      "Remove and destroy infected plants early (roguing).",
+      "Control whitefly from the very first month.",
+      "Do not take cuttings from a diseased field."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 40–50 kg per acre; strengthens the plant against virus stress."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre; healthy soil grows tougher plants."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Virus — no spray cures it",
+      "• Kill the whitefly, stop the spread",
+      "• Use clean cuttings only"
+    ]
+  },
+  "Cassava__bacterial_blight": {
+    "crop": "Cassava",
+    "crop_hindi": "कसावा",
+    "disease": "Bacterial Blight",
+    "is_healthy": false,
+    "description": "A bacterial disease causing angular water-soaked leaf spots, wilting and stem dieback in wet weather.",
+    "cause": "Xanthomonas bacteria, spread by rain splash, tools and infected cuttings.",
+    "affected_parts": [
+      "Leaves",
+      "Stems"
+    ],
+    "symptoms": [
+      "Angular, water-soaked spots between the leaf veins",
+      "Brown gum oozing from stems",
+      "Leaves wilt and fall",
+      "Shoot tips die back"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective bactericide",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Streptomycin Sulphate + Tetracycline",
+        "purpose": "Checks bacterial spread",
+        "application": "Foliar spray",
+        "dosage": "0.5 g per 10 litres",
+        "interval": "Every 10–12 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Copper Hydroxide 77% WP",
+        "purpose": "Contact protection in wet spells",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 10 days.",
+      "Streptomycin Sulphate + Tetracycline — 0.5 g per 10 litres, every 10–12 days.",
+      "Copper Hydroxide 77% WP — 2 g per litre, every 10 days."
+    ],
+    "organic_remedy": [
+      "Cut and burn affected shoots well below the diseased part.",
+      "Spray a copper–cow dung slurry as a traditional protectant.",
+      "Improve drainage so water never stands in the field.",
+      "Disinfect knives with bleach solution between plants."
+    ],
+    "prevention": [
+      "Use clean cuttings from a disease-free field.",
+      "Rotate with cereals for 1–2 seasons.",
+      "Avoid working in the field when the crop is wet.",
+      "Burn crop debris after harvest."
+    ],
+    "preventive_measures": [
+      "Use clean cuttings from a disease-free field.",
+      "Rotate with cereals for 1–2 seasons.",
+      "Avoid working in the field when the crop is wet.",
+      "Burn crop debris after harvest."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 40 kg per acre; potash thickens cell walls against infection."
+      },
+      {
+        "name": "Calcium (Lime)",
+        "purpose": "Apply as per soil test; corrects acidity and hardens tissue."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Spreads fastest in rain",
+      "• Burn infected shoots",
+      "• Disinfect your knife"
+    ]
+  },
+  "Cassava__brown_streak_disease": {
+    "crop": "Cassava",
+    "crop_hindi": "कसावा",
+    "disease": "Brown Streak Disease",
+    "is_healthy": false,
+    "description": "A serious virus that yellows leaf veins and rots the tubers with brown, corky streaks.",
+    "cause": "Cassava brown streak virus, spread by whitefly and infected cuttings.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Tubers"
+    ],
+    "symptoms": [
+      "Yellow blotches along the leaf veins",
+      "Brown streaks on green stems",
+      "Dry brown corky rot inside the tuber",
+      "Tubers unfit to eat even if the top looks fine"
+    ],
+    "treatment": [
+      {
+        "name": "Imidacloprid 17.8% SL",
+        "purpose": "Controls the whitefly vector",
+        "application": "Foliar spray",
+        "dosage": "0.3 ml per litre",
+        "interval": "Every 10–15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Thiamethoxam 25% WG",
+        "purpose": "Systemic whitefly control",
+        "application": "Foliar spray",
+        "dosage": "0.3 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Imidacloprid 17.8% SL — 0.3 ml per litre, every 10–15 days.",
+      "Thiamethoxam 25% WG — 0.3 g per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Uproot and burn affected plants — the tubers will rot anyway.",
+      "Harvest early if the disease appears late in the season.",
+      "Spray neem oil (5 ml/L) weekly against whitefly.",
+      "Use yellow sticky traps to monitor and trap whitefly."
+    ],
+    "prevention": [
+      "Plant tolerant varieties where available.",
+      "Use only certified virus-free cuttings.",
+      "Rogue out infected plants as soon as seen.",
+      "Keep whitefly numbers down all season."
+    ],
+    "preventive_measures": [
+      "Plant tolerant varieties where available.",
+      "Use only certified virus-free cuttings.",
+      "Rogue out infected plants as soon as seen.",
+      "Keep whitefly numbers down all season."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 40–50 kg per acre; supports tuber filling and plant vigour."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre; improves resilience."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Damage hides inside the tuber",
+      "• Cut open a root to check",
+      "• Control whitefly early"
+    ]
+  },
+  "Cassava__green_mottle": {
+    "crop": "Cassava",
+    "crop_hindi": "कसावा",
+    "disease": "Green Mottle",
+    "is_healthy": false,
+    "description": "A virus causing pale green mottling and puckered young leaves; growth slows and tubers stay small.",
+    "cause": "Cassava green mottle virus, carried in infected planting material.",
+    "affected_parts": [
+      "Leaves",
+      "Whole plant"
+    ],
+    "symptoms": [
+      "Pale green mottled patches on young leaves",
+      "Leaves puckered and slightly twisted",
+      "New growth looks pale",
+      "Mild stunting of the plant"
+    ],
+    "treatment": [
+      {
+        "name": "Imidacloprid 17.8% SL",
+        "purpose": "Controls sap-sucking vectors",
+        "application": "Foliar spray",
+        "dosage": "0.3 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Neem-based formulation (Azadirachtin 1%)",
+        "purpose": "Repels vectors, soft on natural enemies",
+        "application": "Foliar spray",
+        "dosage": "2 ml per litre",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Imidacloprid 17.8% SL — 0.3 ml per litre, every 15 days.",
+      "Neem-based formulation (Azadirachtin 1%) — 2 ml per litre, every 10 days."
+    ],
+    "organic_remedy": [
+      "Remove and burn affected plants to stop spread through cuttings.",
+      "Select planting material only from clean, vigorous plants.",
+      "Spray neem oil (5 ml/L) every 10 days.",
+      "Keep the field weed-free — weeds host both virus and vectors."
+    ],
+    "prevention": [
+      "Use virus-free planting material.",
+      "Rogue out symptomatic plants early.",
+      "Control sap-sucking insects.",
+      "Do not replant cuttings from an affected block."
+    ],
+    "preventive_measures": [
+      "Use virus-free planting material.",
+      "Rogue out symptomatic plants early.",
+      "Control sap-sucking insects.",
+      "Do not replant cuttings from an affected block."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre; strong soil, stronger plants."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 40 kg per acre; helps the plant tolerate virus stress."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Virus — prevention only",
+      "• Never reuse infected cuttings",
+      "• Rogue early"
+    ]
+  },
+  "Chili__healthy": {
+    "crop": "Chili",
+    "crop_hindi": "मिर्च",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy chilli plant with deep green leaves and steady flowering.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Water at the base; keep the leaves dry to avoid fungal problems.",
+      "Mulch with straw to hold moisture and stop soil splash.",
+      "Spray neem oil (5 ml/L) every 10–15 days as a preventive shield."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 50 kg per acre at planting; builds strong roots."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre at flowering; better fruit set and colour."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre during fruiting; prevents fruit-end rot."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Plant is healthy",
+      "• Watch the underside of leaves for mites",
+      "• Keep the field weed-free"
+    ]
+  },
+  "Chili__leaf curl": {
+    "crop": "Chili",
+    "crop_hindi": "मिर्च",
+    "disease": "Leaf Curl",
+    "is_healthy": false,
+    "description": "Upward curling and crinkling of leaves caused by virus and mite/whitefly attack — a major cause of chilli yield loss.",
+    "cause": "Leaf curl virus spread by whitefly, often together with thrips and mite feeding damage.",
+    "affected_parts": [
+      "Leaves",
+      "Flowers",
+      "Whole plant"
+    ],
+    "symptoms": [
+      "Leaves curl upward and become crinkled and leathery",
+      "Leaves get smaller, plant looks bushy and stunted",
+      "Flowers drop, very few fruits set",
+      "Fruits that do form are small and twisted"
+    ],
+    "treatment": [
+      {
+        "name": "Fipronil 5% SC",
+        "purpose": "Controls thrips that trigger curling",
+        "application": "Foliar spray",
+        "dosage": "1.5 ml per litre",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Spiromesifen 22.9% SC",
+        "purpose": "Controls mites and whitefly stages",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 12–15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Diafenthiuron 50% WP",
+        "purpose": "Broad mite and whitefly control",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Fipronil 5% SC — 1.5 ml per litre, every 10 days.",
+      "Spiromesifen 22.9% SC — 1 ml per litre, every 12–15 days.",
+      "Diafenthiuron 50% WP — 1 g per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Uproot and burn severely curled plants — they will not recover or yield.",
+      "Spray neem oil (5 ml/L) or neem seed kernel extract (5%) every 7 days.",
+      "Install yellow and blue sticky traps (10 per acre) for whitefly and thrips.",
+      "Grow a tall barrier crop such as maize around the field to block incoming whitefly."
+    ],
+    "prevention": [
+      "Use tolerant varieties and healthy, pest-free seedlings.",
+      "Raise nursery under insect-proof net.",
+      "Remove infected plants early.",
+      "Do not grow chilli next to tomato or cotton fields."
+    ],
+    "preventive_measures": [
+      "Use tolerant varieties and healthy, pest-free seedlings.",
+      "Raise nursery under insect-proof net.",
+      "Remove infected plants early.",
+      "Do not grow chilli next to tomato or cotton fields."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; helps the plant withstand sucking-pest stress."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre; corrects the small-leaf look and pushes new growth."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre; strengthens leaf tissue."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Kill the whitefly and thrips",
+      "• Rogue out badly curled plants",
+      "• Nursery under net is the best fix"
+    ]
+  },
+  "Chili__leaf spot": {
+    "crop": "Chili",
+    "crop_hindi": "मिर्च",
+    "disease": "Leaf Spot",
+    "is_healthy": false,
+    "description": "Fungal leaf spot (Cercospora) producing round grey-centred spots and heavy leaf fall.",
+    "cause": "Cercospora capsici fungus, favoured by warm humid weather and overhead watering.",
+    "affected_parts": [
+      "Leaves",
+      "Stems"
+    ],
+    "symptoms": [
+      "Round spots with grey/white centres and dark brown edges",
+      "Spots may have a yellow halo",
+      "Centres dry and fall out giving a shot-hole look",
+      "Heavy leaf drop in wet weather"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Broad-spectrum protective fungicide",
+        "application": "Foliar spray",
+        "dosage": "2.5 g per litre",
+        "interval": "Every 7–10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic curative action",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 10–12 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Azoxystrobin 23% SC",
+        "purpose": "Systemic, long protection",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 14 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP — 2.5 g per litre, every 7–10 days.",
+      "Carbendazim 50% WP — 1 g per litre, every 10–12 days.",
+      "Azoxystrobin 23% SC — 1 ml per litre, every 14 days."
+    ],
+    "organic_remedy": [
+      "Pick off and burn spotted leaves at first sight.",
+      "Spray neem oil (5 ml/L) or a 1% Bordeaux mixture.",
+      "Water at the base — never wet the leaves in the evening.",
+      "Space plants well so air moves freely and leaves dry fast."
+    ],
+    "prevention": [
+      "Rotate with a non-solanaceous crop for 2 years.",
+      "Treat seed before sowing.",
+      "Avoid overhead irrigation.",
+      "Burn crop residue after harvest."
+    ],
+    "preventive_measures": [
+      "Rotate with a non-solanaceous crop for 2 years.",
+      "Treat seed before sowing.",
+      "Avoid overhead irrigation.",
+      "Burn crop residue after harvest."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; potash hardens leaves against infection."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre; improves soil and plant health."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Spots with grey centres",
+      "• Remove sick leaves early",
+      "• Keep the leaves dry"
+    ]
+  },
+  "Chili__whitefly": {
+    "crop": "Chili",
+    "crop_hindi": "मिर्च",
+    "disease": "Whitefly Infestation",
+    "is_healthy": false,
+    "description": "Tiny white sucking insects on the leaf underside that weaken the plant and spread leaf curl virus.",
+    "cause": "Bemisia tabaci whitefly, breeding fast in warm dry weather.",
+    "affected_parts": [
+      "Leaves",
+      "Whole plant"
+    ],
+    "symptoms": [
+      "Clouds of tiny white flies rise when the plant is disturbed",
+      "Leaves turn yellow and sticky",
+      "Black sooty mould grows on the sticky honeydew",
+      "Plant weakens; leaf curl virus often follows"
+    ],
+    "treatment": [
+      {
+        "name": "Imidacloprid 17.8% SL",
+        "purpose": "Systemic whitefly control",
+        "application": "Foliar spray",
+        "dosage": "0.3 ml per litre",
+        "interval": "Every 10–15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Thiamethoxam 25% WG",
+        "purpose": "Systemic, quick knockdown",
+        "application": "Foliar spray",
+        "dosage": "0.3 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Spiromesifen 22.9% SC",
+        "purpose": "Kills eggs and nymphs",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Imidacloprid 17.8% SL — 0.3 ml per litre, every 10–15 days.",
+      "Thiamethoxam 25% WG — 0.3 g per litre, every 15 days.",
+      "Spiromesifen 22.9% SC — 1 ml per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Spray neem oil (5 ml/L) covering the underside of the leaves.",
+      "Hang yellow sticky traps, 10–12 per acre.",
+      "Spray a 5% neem seed kernel extract weekly.",
+      "Encourage natural enemies — avoid blanket pesticide sprays."
+    ],
+    "prevention": [
+      "Raise seedlings under insect-proof net.",
+      "Remove weeds that host whitefly.",
+      "Grow a maize or sorghum barrier around the plot.",
+      "Rotate insecticide groups so resistance does not build."
+    ],
+    "preventive_measures": [
+      "Raise seedlings under insect-proof net.",
+      "Remove weeds that host whitefly.",
+      "Grow a maize or sorghum barrier around the plot.",
+      "Rotate insecticide groups so resistance does not build."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; helps the plant tolerate sap loss."
+      },
+      {
+        "name": "Neem Cake",
+        "purpose": "Apply 100 kg per acre in soil; suppresses soil stages and feeds the crop."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Look under the leaves",
+      "• Yellow sticky traps work",
+      "• Whitefly brings leaf curl virus"
+    ]
+  },
+  "Chili__yellowish": {
+    "crop": "Chili",
+    "crop_hindi": "मिर्च",
+    "disease": "Yellowing (Nutrient / Mite Stress)",
+    "is_healthy": false,
+    "description": "General yellowing of the crop from nutrient shortage, mite feeding or waterlogged roots.",
+    "cause": "Usually nitrogen, iron or magnesium deficiency, mite feeding, or roots suffocating in wet soil.",
+    "affected_parts": [
+      "Leaves",
+      "Roots"
+    ],
+    "symptoms": [
+      "Leaves turn pale green then yellow",
+      "Older leaves yellow first if nitrogen is short",
+      "Yellowing between veins points to iron or magnesium shortage",
+      "Growth slows and flowering drops"
+    ],
+    "treatment": [
+      {
+        "name": "Spiromesifen 22.9% SC",
+        "purpose": "Controls mites if they are the cause",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Chelated Micronutrient Mix",
+        "purpose": "Corrects iron/zinc/magnesium shortage",
+        "application": "Foliar spray",
+        "dosage": "2–3 g per litre",
+        "interval": "Every 15 days, twice",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Spiromesifen 22.9% SC — 1 ml per litre, every 15 days.",
+      "Chelated Micronutrient Mix — 2–3 g per litre, every 15 days, twice."
+    ],
+    "organic_remedy": [
+      "Drench with well-rotted compost tea or vermiwash to feed the roots.",
+      "Improve drainage immediately if water stands in the field.",
+      "Spray 1% panchagavya or jeevamrut as a tonic.",
+      "Check the leaf underside with a lens for mites before spraying anything."
+    ],
+    "prevention": [
+      "Get a soil test before the season and correct what is short.",
+      "Never let water stand around the roots.",
+      "Add organic matter every season.",
+      "Keep a balanced NPK schedule instead of only urea."
+    ],
+    "preventive_measures": [
+      "Get a soil test before the season and correct what is short.",
+      "Never let water stand around the roots.",
+      "Add organic matter every season.",
+      "Keep a balanced NPK schedule instead of only urea."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Urea",
+        "purpose": "Apply 20–25 kg per acre if older leaves are yellowing from nitrogen shortage."
+      },
+      {
+        "name": "Ferrous Sulphate",
+        "purpose": "Spray 5 g per litre with a little citric acid for yellowing between veins."
+      },
+      {
+        "name": "Magnesium Sulphate",
+        "purpose": "Spray 5 g per litre; greens up the leaves quickly."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Find the cause before spraying",
+      "• Check drainage first",
+      "• Look for mites under the leaf"
+    ]
+  },
+  "Coffee__rust": {
+    "crop": "Coffee",
+    "crop_hindi": "कॉफ़ी",
+    "disease": "Coffee Leaf Rust",
+    "is_healthy": false,
+    "description": "The most damaging coffee disease — orange powdery patches under the leaves cause heavy leaf fall.",
+    "cause": "Hemileia vastatrix fungus, spreading fast in warm humid weather and rain splash.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "symptoms": [
+      "Pale yellow spots on the upper leaf surface",
+      "Bright orange powdery spores on the underside",
+      "Spots enlarge and join, centres turn brown",
+      "Heavy leaf drop, bare twigs, poor next-year crop"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective, the standard pre-monsoon spray",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Before and after monsoon",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Hexaconazole 5% EC",
+        "purpose": "Systemic curative action",
+        "application": "Foliar spray",
+        "dosage": "2 ml per litre",
+        "interval": "Every 20–25 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Propiconazole 25% EC",
+        "purpose": "Systemic, strong on established rust",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 21 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, before and after monsoon.",
+      "Hexaconazole 5% EC — 2 ml per litre, every 20–25 days.",
+      "Propiconazole 25% EC — 1 ml per litre, every 21 days."
+    ],
+    "organic_remedy": [
+      "Prune to open the canopy so leaves dry quickly after rain.",
+      "Spray 1% Bordeaux mixture before the monsoon as a protectant.",
+      "Collect and burn fallen infected leaves.",
+      "Keep shade trees thinned so light and air reach the bushes."
+    ],
+    "prevention": [
+      "Plant rust-tolerant varieties.",
+      "Time the pre-monsoon protective spray correctly — it matters more than any cure.",
+      "Maintain balanced shade, not deep shade.",
+      "Feed the bushes well; weak bushes suffer most."
+    ],
+    "preventive_measures": [
+      "Plant rust-tolerant varieties.",
+      "Time the pre-monsoon protective spray correctly — it matters more than any cure.",
+      "Maintain balanced shade, not deep shade.",
+      "Feed the bushes well; weak bushes suffer most."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 100–150 g per bush; potash builds rust tolerance."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre; helps the bush recover leaf area."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 10 kg per bush per year; sustains vigour."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Orange powder under the leaf",
+      "• Spray before the monsoon",
+      "• Open up the canopy"
+    ]
+  },
+  "Coffee__cercospora_leaf_spot": {
+    "crop": "Coffee",
+    "crop_hindi": "कॉफ़ी",
+    "disease": "Cercospora Leaf Spot (Brown Eye Spot)",
+    "is_healthy": false,
+    "description": "Brown spots with pale centres on leaves and dark sunken spots on berries, worst on weak, sun-stressed bushes.",
+    "cause": "Cercospora coffeicola fungus, favoured by nutrient stress, too much sun and poor drainage.",
+    "affected_parts": [
+      "Leaves",
+      "Berries"
+    ],
+    "symptoms": [
+      "Round brown spots with grey/white centres and a yellow halo",
+      "Dark sunken spots on the berries",
+      "Berries ripen unevenly and drop early",
+      "Leaf fall on exposed, poorly fed bushes"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective cover spray",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 20–25 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic curative",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Broad-spectrum protection",
+        "application": "Foliar spray",
+        "dosage": "2.5 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 20–25 days.",
+      "Carbendazim 50% WP — 1 g per litre, every 15–20 days.",
+      "Mancozeb 75% WP — 2.5 g per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Correct the nutrition first — this disease follows hunger and stress.",
+      "Maintain proper shade so bushes are not sun-scorched.",
+      "Spray 1% Bordeaux mixture as a protectant.",
+      "Improve drainage and mulch the basin to hold even moisture."
+    ],
+    "prevention": [
+      "Keep the bushes well fed and evenly watered.",
+      "Maintain adequate shade cover.",
+      "Prune out weak, overcrowded branches.",
+      "Remove and destroy fallen infected leaves and berries."
+    ],
+    "preventive_measures": [
+      "Keep the bushes well fed and evenly watered.",
+      "Maintain adequate shade cover.",
+      "Prune out weak, overcrowded branches.",
+      "Remove and destroy fallen infected leaves and berries."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Urea",
+        "purpose": "Apply 100 g per bush in splits; corrects the nitrogen hunger behind the disease."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 100–150 g per bush; strengthens leaves and berries."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 10 kg per bush; the long-term fix for stressed bushes."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• A hunger disease — feed the bush",
+      "• Check the shade level",
+      "• Brown spots with pale eyes"
+    ]
+  },
+  "Cucumber__healthy": {
+    "crop": "Cucumber",
+    "crop_hindi": "खीरा",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy cucumber vine with clean green leaves and steady fruit set.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Water at the base in the morning; keep the foliage dry.",
+      "Mulch with straw to stop soil splash and hold moisture.",
+      "Spray neem oil (5 ml/L) every 10–15 days as a preventive shield."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre before sowing; the base of a good cucurbit crop."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre at flowering; better fruit size and taste."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre; keeps fruit firm and prevents end rot."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Plant is healthy",
+      "• Train the vine on a trellis",
+      "• Harvest young for best quality"
+    ]
+  },
+  "Cucumber__diseased": {
+    "crop": "Cucumber",
+    "crop_hindi": "खीरा",
+    "disease": "Diseased (General)",
+    "is_healthy": false,
+    "description": "A general disease condition on cucumber — most often downy or powdery mildew, or a leaf spot in humid weather.",
+    "cause": "Fungal infection (downy/powdery mildew or leaf spot) favoured by humid nights and crowded vines.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Fruit"
+    ],
+    "symptoms": [
+      "Yellow angular patches on the upper leaf, grey mould underneath (downy mildew)",
+      "White powdery coating on leaves (powdery mildew)",
+      "Brown spots that spread and dry the leaf",
+      "Vines weaken and fruit set drops"
+    ],
+    "treatment": [
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Broad-spectrum protective",
+        "application": "Foliar spray",
+        "dosage": "2.5 g per litre",
+        "interval": "Every 7–10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Azoxystrobin 23% SC",
+        "purpose": "Systemic, works on both mildews",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 12–15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Wettable Sulphur 80% WP",
+        "purpose": "Excellent on powdery mildew",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Mancozeb 75% WP — 2.5 g per litre, every 7–10 days.",
+      "Azoxystrobin 23% SC — 1 ml per litre, every 12–15 days.",
+      "Wettable Sulphur 80% WP — 2 g per litre, every 10 days."
+    ],
+    "organic_remedy": [
+      "Remove and burn badly affected leaves to cut the spore load.",
+      "Spray diluted raw milk (1 part milk : 9 parts water) weekly on powdery mildew.",
+      "Train vines on a trellis so air moves and leaves dry quickly.",
+      "Spray neem oil (5 ml/L) every 7–10 days."
+    ],
+    "prevention": [
+      "Give wide spacing and use a trellis.",
+      "Water at the base, early in the day.",
+      "Rotate away from cucurbits for 2 seasons.",
+      "Clear and burn crop residue after harvest."
+    ],
+    "preventive_measures": [
+      "Give wide spacing and use a trellis.",
+      "Water at the base, early in the day.",
+      "Rotate away from cucurbits for 2 seasons.",
+      "Clear and burn crop residue after harvest."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; potash hardens leaves against fungus."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre; healthy soil, tougher vines."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Trellis the vine — air is the cure",
+      "• Spray covers the leaf underside",
+      "• Never water in the evening"
+    ]
+  },
+  "Gauva__healthy": {
+    "crop": "Guava",
+    "crop_hindi": "अमरूद",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy guava tree with clean, glossy leaves and good fruit set.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Water in the basin, not against the trunk.",
+      "Mulch the basin with dry leaves or straw.",
+      "Spray neem oil (5 ml/L) monthly as a preventive shield."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 20–25 kg per tree per year; the backbone of guava nutrition."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 500–800 g per tree; improves fruit sweetness and keeping quality."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre twice a year; prevents small-leaf disorder."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Tree is healthy",
+      "• Prune after harvest for air and light",
+      "• Keep the basin weed-free"
+    ]
+  },
+  "Gauva__diseased": {
+    "crop": "Guava",
+    "crop_hindi": "अमरूद",
+    "disease": "Diseased (General)",
+    "is_healthy": false,
+    "description": "A general disease condition on guava — commonly wilt, anthracnose or fruit/leaf spot.",
+    "cause": "Fungal infection — Fusarium wilt, Colletotrichum anthracnose or leaf-spot fungi, worse in waterlogged or humid conditions.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Fruit"
+    ],
+    "symptoms": [
+      "Sudden yellowing and wilting of branches (wilt)",
+      "Sunken dark spots on fruit and twig dieback (anthracnose)",
+      "Brown or rusty spots on leaves and fruit",
+      "Fruit drops early or rots on the tree"
+    ],
+    "treatment": [
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic, effective on wilt and anthracnose",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre (also as soil drench)",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective cover spray",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Broad-spectrum protection",
+        "application": "Foliar spray",
+        "dosage": "2.5 g per litre",
+        "interval": "Every 12–15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Carbendazim 50% WP — 1 g per litre (also as soil drench), every 15 days.",
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15–20 days.",
+      "Mancozeb 75% WP — 2.5 g per litre, every 12–15 days."
+    ],
+    "organic_remedy": [
+      "Cut out and burn dead and dying branches well below the affected part.",
+      "Drench the basin with Trichoderma viride enriched compost against wilt.",
+      "Improve drainage — standing water is the main cause of guava wilt.",
+      "Paste the trunk base with Bordeaux mixture before the monsoon."
+    ],
+    "prevention": [
+      "Never let water stand in the basin.",
+      "Prune yearly to open the canopy.",
+      "Remove and burn fallen fruit and leaves.",
+      "Apply Trichoderma with farmyard manure each season."
+    ],
+    "preventive_measures": [
+      "Never let water stand in the basin.",
+      "Prune yearly to open the canopy.",
+      "Remove and burn fallen fruit and leaves.",
+      "Apply Trichoderma with farmyard manure each season."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "FYM + Trichoderma",
+        "purpose": "Apply 20–25 kg per tree mixed with Trichoderma; suppresses soil disease."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 500–800 g per tree; strengthens the tree against infection."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre; supports recovery and new growth."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Check drainage first",
+      "• Cut and burn dead wood",
+      "• Trichoderma in the basin helps"
+    ]
+  },
+  "Jamun__healthy": {
+    "crop": "Jamun",
+    "crop_hindi": "जामुन",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy jamun (black plum) tree with dark green, glossy foliage.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Water deeply but let the basin dry between waterings.",
+      "Mulch the basin to hold moisture and suppress weeds.",
+      "Spray neem oil (5 ml/L) monthly during the growing flush."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 25–30 kg per tree per year before the monsoon."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 500 g per tree; improves fruit size and colour."
+      },
+      {
+        "name": "Urea",
+        "purpose": "Apply 500 g per tree after fruit set; supports the new flush."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Tree is healthy",
+      "• Prune dead wood after harvest",
+      "• Keep the basin clean"
+    ]
+  },
+  "Jamun__diseased": {
+    "crop": "Jamun",
+    "crop_hindi": "जामुन",
+    "disease": "Diseased (General)",
+    "is_healthy": false,
+    "description": "A general disease condition on jamun — usually leaf spot, anthracnose or sooty mould over insect honeydew.",
+    "cause": "Leaf-spot and anthracnose fungi, or sooty mould growing on honeydew left by sucking insects.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Fruit"
+    ],
+    "symptoms": [
+      "Brown or grey spots on the leaves",
+      "Black sooty coating over leaves and twigs",
+      "Twig dieback from the tip",
+      "Fruit spots and premature fruit drop"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective cover spray",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic curative",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Imidacloprid 17.8% SL",
+        "purpose": "Controls the sucking pests behind sooty mould",
+        "application": "Foliar spray",
+        "dosage": "0.3 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15–20 days.",
+      "Carbendazim 50% WP — 1 g per litre, every 15 days.",
+      "Imidacloprid 17.8% SL — 0.3 ml per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Prune and burn affected twigs to open the canopy.",
+      "Wash sooty mould off with a 1% starch or mild soap solution, then control the insects.",
+      "Spray neem oil (5 ml/L) every 15 days.",
+      "Collect and destroy fallen leaves and fruit."
+    ],
+    "prevention": [
+      "Prune yearly for light and air movement.",
+      "Control sucking pests early — sooty mould follows them.",
+      "Keep the basin clean of fallen debris.",
+      "Feed the tree well before the monsoon."
+    ],
+    "preventive_measures": [
+      "Prune yearly for light and air movement.",
+      "Control sucking pests early — sooty mould follows them.",
+      "Keep the basin clean of fallen debris.",
+      "Feed the tree well before the monsoon."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 25–30 kg per tree; the foundation of tree health."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 500 g per tree; hardens tissue against infection."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Black coating = insect problem",
+      "• Prune for air and light",
+      "• Burn fallen leaves"
+    ]
+  },
+  "Lemon__healthy": {
+    "crop": "Lemon",
+    "crop_hindi": "नींबू",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy lemon tree with glossy dark green leaves and steady flowering.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Water in the basin regularly but never let water stand.",
+      "Mulch the basin; keep mulch away from the trunk itself.",
+      "Spray neem oil (5 ml/L) monthly to keep leaf miner and psyllid away."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 20–25 kg per tree per year; essential for citrus."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre twice a year; citrus is very often zinc-hungry."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 400–500 g per tree; improves juice and fruit quality."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Tree is healthy",
+      "• Watch new flush for leaf miner",
+      "• Never let water touch the trunk"
+    ]
+  },
+  "Lemon__diseased": {
+    "crop": "Lemon",
+    "crop_hindi": "नींबू",
+    "disease": "Diseased (General)",
+    "is_healthy": false,
+    "description": "A general disease condition on lemon — commonly citrus canker, leaf miner damage, gummosis or greening.",
+    "cause": "Xanthomonas canker bacteria, leaf-miner insects, Phytophthora gummosis, or citrus greening spread by psyllid.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Fruit"
+    ],
+    "symptoms": [
+      "Raised corky brown spots with yellow halos on leaves and fruit (canker)",
+      "Silvery winding tunnels in young leaves (leaf miner)",
+      "Gum oozing from the trunk (gummosis)",
+      "Blotchy yellow leaves and lopsided bitter fruit (greening)"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Standard citrus canker protectant",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Streptomycin Sulphate",
+        "purpose": "Checks bacterial canker spread",
+        "application": "Foliar spray",
+        "dosage": "0.5 g per 10 litres",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Imidacloprid 17.8% SL",
+        "purpose": "Controls leaf miner and psyllid",
+        "application": "Foliar spray",
+        "dosage": "0.3 ml per litre",
+        "interval": "On each new flush",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15 days.",
+      "Streptomycin Sulphate — 0.5 g per 10 litres, every 15 days.",
+      "Imidacloprid 17.8% SL — 0.3 ml per litre, on each new flush."
+    ],
+    "organic_remedy": [
+      "Prune and burn cankered twigs and leaves in dry weather.",
+      "Spray 1% Bordeaux mixture and paint the trunk base with Bordeaux paste before the monsoon.",
+      "Spray neem oil (5 ml/L) on every new flush against leaf miner.",
+      "Improve drainage and keep soil away from the graft union to stop gummosis."
+    ],
+    "prevention": [
+      "Use disease-free nursery plants from a certified source.",
+      "Protect every new flush — that is when miner and canker strike.",
+      "Never let water stand around the trunk.",
+      "Remove and burn infected twigs and fallen leaves."
+    ],
+    "preventive_measures": [
+      "Use disease-free nursery plants from a certified source.",
+      "Protect every new flush — that is when miner and canker strike.",
+      "Never let water stand around the trunk.",
+      "Remove and burn infected twigs and fallen leaves."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre; corrects the common citrus zinc shortage."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 400–500 g per tree; hardens leaves against canker."
+      },
+      {
+        "name": "FYM + Trichoderma",
+        "purpose": "Apply 20–25 kg per tree; guards the roots against gummosis."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Copper spray on new flush",
+      "• Keep the trunk base dry",
+      "• Burn cankered leaves"
+    ]
+  },
+  "Mango__diseased": {
+    "crop": "Mango",
+    "crop_hindi": "आम",
+    "disease": "Diseased (General)",
+    "is_healthy": false,
+    "description": "A general disease condition on mango — commonly anthracnose, powdery mildew, sooty mould or dieback.",
+    "cause": "Fungal infection (Colletotrichum, Oidium, Botryodiplodia) worsened by humid weather and hopper honeydew.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Fruit"
+    ],
+    "symptoms": [
+      "Black sunken spots on leaves, flowers and fruit (anthracnose)",
+      "White powdery coating on flower panicles (powdery mildew)",
+      "Black sooty film over the leaves",
+      "Twigs dying back from the tip; flowers dropping"
+    ],
+    "treatment": [
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic, strong on anthracnose",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Wettable Sulphur 80% WP",
+        "purpose": "Standard for powdery mildew at flowering",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 10–15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective cover spray",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Carbendazim 50% WP — 1 g per litre, every 15 days.",
+      "Wettable Sulphur 80% WP — 2 g per litre, every 10–15 days.",
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15–20 days."
+    ],
+    "organic_remedy": [
+      "Prune and burn dead and infected twigs to open the canopy.",
+      "Spray 1% Bordeaux mixture after pruning and before flowering.",
+      "Control mango hopper first — sooty mould lives on its honeydew.",
+      "Collect and destroy fallen infected leaves, flowers and fruit."
+    ],
+    "prevention": [
+      "Prune yearly for an open, airy canopy.",
+      "Spray protectively at the panicle-emergence stage.",
+      "Control hoppers early in the flowering season.",
+      "Keep the orchard floor clean of fallen debris."
+    ],
+    "preventive_measures": [
+      "Prune yearly for an open, airy canopy.",
+      "Spray protectively at the panicle-emergence stage.",
+      "Control hoppers early in the flowering season.",
+      "Keep the orchard floor clean of fallen debris."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 1–1.5 kg per grown tree; improves fruit set and disease tolerance."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 40–50 kg per grown tree per year."
+      },
+      {
+        "name": "Zinc + Boron Mix",
+        "purpose": "Spray before flowering; improves panicle health and fruit retention."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Spray before flowers open",
+      "• Control hopper for sooty mould",
+      "• Prune and burn dead twigs"
+    ]
+  },
+  "Pomegranate__healthy": {
+    "crop": "Pomegranate",
+    "crop_hindi": "अनार",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy pomegranate bush with clean, glossy leaves and good fruit set.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Use drip irrigation; keep water off the leaves and fruit.",
+      "Mulch the basin to keep soil moisture even and prevent fruit cracking.",
+      "Spray neem oil (5 ml/L) every 15 days as a preventive shield."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 20–25 kg per plant per year."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 500–600 g per plant; boosts aril colour and sweetness."
+      },
+      {
+        "name": "Calcium + Boron",
+        "purpose": "Spray during fruit development; prevents fruit cracking."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Plant is healthy",
+      "• Even watering stops cracking",
+      "• Prune for an open canopy"
+    ]
+  },
+  "Pomegranate__diseased": {
+    "crop": "Pomegranate",
+    "crop_hindi": "अनार",
+    "disease": "Diseased (General)",
+    "is_healthy": false,
+    "description": "A general disease condition on pomegranate — most seriously bacterial blight (telya), plus wilt and fruit spot.",
+    "cause": "Xanthomonas bacterial blight, Ceratocystis wilt or fungal fruit spot, spreading fast in rain and high humidity.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Fruit"
+    ],
+    "symptoms": [
+      "Small dark water-soaked spots with an oily look on leaves and fruit (telya)",
+      "Cracked fruit with dark sunken lesions",
+      "Sudden wilting and drying of whole branches",
+      "Heavy leaf and fruit drop"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective bactericide",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 10–15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Streptomycin Sulphate + Copper",
+        "purpose": "Standard telya management",
+        "application": "Foliar spray",
+        "dosage": "0.5 g per 10 litres with copper",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic, for wilt and fruit spot (also as drench)",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 10–15 days.",
+      "Streptomycin Sulphate + Copper — 0.5 g per 10 litres with copper, every 10 days.",
+      "Carbendazim 50% WP — 1 g per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Remove and burn every infected leaf, twig and fruit — sanitation decides this disease.",
+      "Give a rest period (bahar treatment) and defoliate to break the disease cycle.",
+      "Spray 1% Bordeaux mixture before the monsoon.",
+      "Drench the basin with Trichoderma-enriched compost against wilt."
+    ],
+    "prevention": [
+      "Use clean planting material from a reliable nursery.",
+      "Avoid the rainy-season crop in blight-prone areas.",
+      "Disinfect pruning tools between plants.",
+      "Never let water stand around the collar."
+    ],
+    "preventive_measures": [
+      "Use clean planting material from a reliable nursery.",
+      "Avoid the rainy-season crop in blight-prone areas.",
+      "Disinfect pruning tools between plants.",
+      "Never let water stand around the collar."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 500–600 g per plant; hardens tissue against bacterial entry."
+      },
+      {
+        "name": "FYM + Trichoderma",
+        "purpose": "Apply 20–25 kg per plant; protects the roots from wilt."
+      },
+      {
+        "name": "Calcium + Boron",
+        "purpose": "Spray during fruit growth; reduces cracking that lets bacteria in."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Telya spreads in rain",
+      "• Burn every infected fruit",
+      "• Disinfect your secateurs"
+    ]
+  },
+  "Mulberry Healthy leaves": {
+    "crop": "Mulberry",
+    "crop_hindi": "शहतूत",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy mulberry leaves — glossy, deep green and ideal for silkworm rearing.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Irrigate at the base at regular intervals; avoid wetting the foliage.",
+      "Apply farmyard manure after every leaf harvest.",
+      "Use only neem-based sprays and observe the safe waiting period before feeding silkworms."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre per year; the base of good leaf quality."
+      },
+      {
+        "name": "Urea",
+        "purpose": "Apply 40–50 kg per acre in splits after each pruning; drives leaf yield."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 25–30 kg per acre; improves leaf quality and shelf life."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Leaves are healthy",
+      "• Wait the safe period after any spray before feeding worms",
+      "• Harvest leaves in the cool morning"
+    ]
+  },
+  "Mulberry Leaf spot": {
+    "crop": "Mulberry",
+    "crop_hindi": "शहतूत",
+    "disease": "Leaf Spot",
+    "is_healthy": false,
+    "description": "Brown leaf spots that reduce both the quantity and the feeding quality of mulberry leaves.",
+    "cause": "Cercospora / Alternaria leaf-spot fungi, favoured by humid weather and dense, unpruned growth.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "symptoms": [
+      "Small brown to black round spots on the leaves",
+      "Spots enlarge with pale centres and dark edges",
+      "Spots join together and leaves turn yellow",
+      "Early leaf fall and poor leaf quality for silkworms"
+    ],
+    "treatment": [
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic curative — observe the safe period before feeding worms",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Wait 15 days before feeding leaves to silkworms"
+      },
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Protective fungicide",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 12–15 days",
+        "safety": "Wait 15 days before feeding leaves to silkworms"
+      },
+      {
+        "name": "Bavistin (Carbendazim) drench",
+        "purpose": "Cuts soil-borne inoculum",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre as basal drench",
+        "interval": "After each pruning",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Carbendazim 50% WP — 1 g per litre, every 15 days.",
+      "Mancozeb 75% WP — 2 g per litre, every 12–15 days.",
+      "Bavistin (Carbendazim) drench — 1 g per litre as basal drench, after each pruning."
+    ],
+    "organic_remedy": [
+      "Remove and burn fallen and spotted leaves — this alone cuts the disease sharply.",
+      "Prune to open the canopy so leaves dry fast after rain or irrigation.",
+      "Spray a 1% Bordeaux mixture, respecting the waiting period before feeding worms.",
+      "Avoid flood irrigation; water at the base instead."
+    ],
+    "prevention": [
+      "Prune regularly and keep the garden airy.",
+      "Collect and burn fallen leaves after each harvest.",
+      "Do not irrigate over the canopy.",
+      "Keep the crop well fed — hungry plants get more disease."
+    ],
+    "preventive_measures": [
+      "Prune regularly and keep the garden airy.",
+      "Collect and burn fallen leaves after each harvest.",
+      "Do not irrigate over the canopy.",
+      "Keep the crop well fed — hungry plants get more disease."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 25–30 kg per acre; potash hardens the leaf against fungus."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre; builds long-term resistance."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Burn fallen leaves",
+      "• Mind the waiting period before feeding worms",
+      "• Prune for airflow"
+    ]
+  },
+  "Mulberry Leaf Rust": {
+    "crop": "Mulberry",
+    "crop_hindi": "शहतूत",
+    "disease": "Leaf Rust",
+    "is_healthy": false,
+    "description": "Rusty brown pustules on the leaf underside that dry the leaves and spoil them for silkworm feeding.",
+    "cause": "Rust fungus (Cerotelium fici), spreading rapidly in cool humid weather with dense foliage.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "symptoms": [
+      "Small yellow spots on the upper leaf surface",
+      "Rusty brown powdery pustules on the underside",
+      "Leaves turn yellow, curl and dry",
+      "Early leaf fall and unusable leaf for rearing"
+    ],
+    "treatment": [
+      {
+        "name": "Wettable Sulphur 80% WP",
+        "purpose": "Effective against rust, silkworm-friendly waiting period",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 10–12 days",
+        "safety": "Wait 10 days before feeding leaves to silkworms"
+      },
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Protective fungicide",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 12–15 days",
+        "safety": "Wait 15 days before feeding leaves to silkworms"
+      },
+      {
+        "name": "Hexaconazole 5% EC",
+        "purpose": "Systemic, for severe outbreaks",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 20 days",
+        "safety": "Wait 20 days before feeding leaves to silkworms"
+      }
+    ],
+    "chemical_spray": [
+      "Wettable Sulphur 80% WP — 2 g per litre, every 10–12 days.",
+      "Mancozeb 75% WP — 2 g per litre, every 12–15 days.",
+      "Hexaconazole 5% EC — 1 ml per litre, every 20 days."
+    ],
+    "organic_remedy": [
+      "Strip and burn heavily rusted leaves at the first sign.",
+      "Prune to open the canopy and let sunlight in — rust hates dry, bright leaves.",
+      "Spray a 0.2% wettable sulphur solution and respect the feeding waiting period.",
+      "Avoid excess nitrogen, which produces soft rust-prone growth."
+    ],
+    "prevention": [
+      "Prune and space plants for good airflow.",
+      "Remove and burn infected leaf debris.",
+      "Do not over-apply urea.",
+      "Scout the leaf underside weekly in cool humid months."
+    ],
+    "preventive_measures": [
+      "Prune and space plants for good airflow.",
+      "Remove and burn infected leaf debris.",
+      "Do not over-apply urea.",
+      "Scout the leaf underside weekly in cool humid months."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 25–30 kg per acre; toughens leaves against rust."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre; balanced nutrition resists rust."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Rust hides under the leaf",
+      "• Do not overdo urea",
+      "• Respect the silkworm waiting period"
+    ]
+  },
+  "Rice__healthy": {
+    "crop": "Rice",
+    "crop_hindi": "धान / चावल",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy paddy crop with erect, deep green leaves and good tillering.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Keep 2–5 cm of water during tillering; drain and re-flood alternately to save water.",
+      "Use well-decomposed farmyard manure or green manure before transplanting.",
+      "Release Trichogramma cards if stem borer is common in your area."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "Urea",
+        "purpose": "Apply 50–60 kg per acre in three splits; avoid one heavy dose."
+      },
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 50 kg per acre as basal; strong roots and tillering."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30 kg per acre; fills the grain and hardens the plant."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Apply 10 kg per acre; paddy soils are very often zinc-deficient."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Crop is healthy",
+      "• Do not overdose urea — it invites blast",
+      "• Keep bunds weed-free"
+    ]
+  },
+  "Soybean__rust": {
+    "crop": "Soybean",
+    "crop_hindi": "सोयाबीन",
+    "disease": "Soybean Rust",
+    "is_healthy": false,
+    "description": "An aggressive fungal rust producing tan pustules on the leaf underside and rapid defoliation.",
+    "cause": "Phakopsora pachyrhizi fungus, spreading by wind-borne spores in warm humid weather.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Pods"
+    ],
+    "symptoms": [
+      "Small grey-tan angular spots on the lower leaves",
+      "Raised tan pustules on the leaf underside releasing spores",
+      "Leaves yellow and drop from the bottom up",
+      "Early pod drop and badly shrivelled seed"
+    ],
+    "treatment": [
+      {
+        "name": "Hexaconazole 5% EC",
+        "purpose": "Systemic triazole, strong on rust",
+        "application": "Foliar spray",
+        "dosage": "2 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Propiconazole 25% EC",
+        "purpose": "Systemic, curative and protective",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Azoxystrobin + Tebuconazole",
+        "purpose": "Combination for heavy pressure",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Hexaconazole 5% EC — 2 ml per litre, every 15 days.",
+      "Propiconazole 25% EC — 1 ml per litre, every 15 days.",
+      "Azoxystrobin + Tebuconazole — 1 ml per litre, every 15–20 days."
+    ],
+    "organic_remedy": [
+      "Scout the lower leaves weekly from flowering — early detection decides the outcome.",
+      "Spray neem oil (5 ml/L) as an early preventive.",
+      "Do not sow too densely; airflow slows rust badly.",
+      "Remove volunteer soybean plants that carry the fungus between seasons."
+    ],
+    "prevention": [
+      "Sow rust-tolerant varieties where available.",
+      "Sow early to escape peak rust weather.",
+      "Keep row spacing wide enough for airflow.",
+      "Spray protectively at first flowering in a rust-prone season."
+    ],
+    "preventive_measures": [
+      "Sow rust-tolerant varieties where available.",
+      "Sow early to escape peak rust weather.",
+      "Keep row spacing wide enough for airflow.",
+      "Spray protectively at first flowering in a rust-prone season."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; potash strongly improves rust tolerance."
+      },
+      {
+        "name": "Sulphur (Bentonite)",
+        "purpose": "Apply 8–10 kg per acre; supports oil content and plant health."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Check under the lower leaves",
+      "• Spray at first flowering",
+      "• Wide rows slow the rust"
+    ]
+  },
+  "Soybean__bacterial_blight": {
+    "crop": "Soybean",
+    "crop_hindi": "सोयाबीन",
+    "disease": "Bacterial Blight",
+    "is_healthy": false,
+    "description": "Angular water-soaked leaf spots with yellow halos that spread in cool, wet, windy weather.",
+    "cause": "Pseudomonas savastanoi bacteria, spread by wind-driven rain and by working in a wet field.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Pods"
+    ],
+    "symptoms": [
+      "Small angular water-soaked spots on young leaves",
+      "Spots turn brown with a bright yellow halo",
+      "Centres dry and tear away leaving ragged leaves",
+      "Worst on the upper, younger leaves after storms"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective bactericide",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 10–12 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Streptomycin Sulphate",
+        "purpose": "Checks bacterial multiplication",
+        "application": "Foliar spray",
+        "dosage": "0.5 g per 10 litres",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Copper Hydroxide 77% WP",
+        "purpose": "Contact protection after storms",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 10–12 days.",
+      "Streptomycin Sulphate — 0.5 g per 10 litres, every 10 days.",
+      "Copper Hydroxide 77% WP — 2 g per litre, every 10 days."
+    ],
+    "organic_remedy": [
+      "Never enter or work in the field while the plants are wet.",
+      "Use certified, disease-free seed — the bacteria travel on seed.",
+      "Spray a 1% Bordeaux mixture after storm damage.",
+      "Plough in crop residue promptly after harvest."
+    ],
+    "prevention": [
+      "Use clean certified seed.",
+      "Rotate with a non-legume crop for a season.",
+      "Avoid overhead irrigation.",
+      "Do not move through the field when wet."
+    ],
+    "preventive_measures": [
+      "Use clean certified seed.",
+      "Rotate with a non-legume crop for a season.",
+      "Avoid overhead irrigation.",
+      "Do not move through the field when wet."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; hardens leaf tissue."
+      },
+      {
+        "name": "Rhizobium Culture",
+        "purpose": "Coat the seed before sowing; strong nodulation means a tougher plant."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Spreads in wind-driven rain",
+      "• Stay out of a wet field",
+      "• Yellow halo is the giveaway"
+    ]
+  },
+  "Soybean__downy_mildew": {
+    "crop": "Soybean",
+    "crop_hindi": "सोयाबीन",
+    "disease": "Downy Mildew",
+    "is_healthy": false,
+    "description": "Pale green leaf blotches with grey fuzzy growth underneath, worst in cool humid weather.",
+    "cause": "Peronospora manshurica, an oomycete favoured by cool nights, dew and high humidity.",
+    "affected_parts": [
+      "Leaves",
+      "Pods",
+      "Seed"
+    ],
+    "symptoms": [
+      "Pale green to yellow blotches on the upper leaf surface",
+      "Grey-purple fuzzy mould on the underside",
+      "Spots turn brown and dry",
+      "Pods may show a white crust inside; seed is chalky"
+    ],
+    "treatment": [
+      {
+        "name": "Metalaxyl + Mancozeb",
+        "purpose": "Systemic + contact, the standard downy mildew mix",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 10–12 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Protective cover",
+        "application": "Foliar spray",
+        "dosage": "2.5 g per litre",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Cymoxanil + Mancozeb",
+        "purpose": "Strong curative on active infection",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 12 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Metalaxyl + Mancozeb — 2 g per litre, every 10–12 days.",
+      "Mancozeb 75% WP — 2.5 g per litre, every 10 days.",
+      "Cymoxanil + Mancozeb — 2 g per litre, every 12 days."
+    ],
+    "organic_remedy": [
+      "Treat seed before sowing — infected seed starts the disease.",
+      "Space rows for airflow so dew dries early.",
+      "Remove and destroy heavily infected plants.",
+      "Spray neem oil (5 ml/L) as a mild preventive in humid spells."
+    ],
+    "prevention": [
+      "Use clean, treated seed.",
+      "Rotate crops for at least one season.",
+      "Avoid dense sowing.",
+      "Bury infected residue after harvest."
+    ],
+    "preventive_measures": [
+      "Use clean, treated seed.",
+      "Rotate crops for at least one season.",
+      "Avoid dense sowing.",
+      "Bury infected residue after harvest."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; improves tolerance."
+      },
+      {
+        "name": "Sulphur (Bentonite)",
+        "purpose": "Apply 8–10 kg per acre; supports healthy growth."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Look for grey fuzz underneath",
+      "• Treat the seed first",
+      "• Cool dewy nights are the trigger"
+    ]
+  },
+  "Soybean__powdery_mildew": {
+    "crop": "Soybean",
+    "crop_hindi": "सोयाबीन",
+    "disease": "Powdery Mildew",
+    "is_healthy": false,
+    "description": "A white powdery coating over leaves that blocks sunlight and shrinks pod filling.",
+    "cause": "Microsphaera diffusa fungus, favoured by dry days with cool humid nights.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Pods"
+    ],
+    "symptoms": [
+      "White powdery patches on the upper leaf surface",
+      "Patches spread until the whole leaf looks dusted",
+      "Leaves yellow and drop early",
+      "Small pods and light, poorly filled seed"
+    ],
+    "treatment": [
+      {
+        "name": "Wettable Sulphur 80% WP",
+        "purpose": "Classic, economical powdery mildew control",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Hexaconazole 5% EC",
+        "purpose": "Systemic, longer protection",
+        "application": "Foliar spray",
+        "dosage": "2 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Azoxystrobin 23% SC",
+        "purpose": "Systemic strobilurin",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Wettable Sulphur 80% WP — 2 g per litre, every 10 days.",
+      "Hexaconazole 5% EC — 2 ml per litre, every 15 days.",
+      "Azoxystrobin 23% SC — 1 ml per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Spray diluted raw milk (1:9 with water) weekly — surprisingly effective on powdery mildew.",
+      "Dust with fine sulphur powder early in the morning.",
+      "Remove badly coated lower leaves.",
+      "Avoid excess nitrogen, which makes soft, susceptible growth."
+    ],
+    "prevention": [
+      "Sow at recommended spacing for airflow.",
+      "Avoid heavy urea doses.",
+      "Scout from pod formation onward.",
+      "Destroy crop residue after harvest."
+    ],
+    "preventive_measures": [
+      "Sow at recommended spacing for airflow.",
+      "Avoid heavy urea doses.",
+      "Scout from pod formation onward.",
+      "Destroy crop residue after harvest."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; hardens tissue against mildew."
+      },
+      {
+        "name": "Sulphur (Bentonite)",
+        "purpose": "Apply 8–10 kg per acre; doubles as a nutrient and a mildew suppressant."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• White dust on top of the leaf",
+      "• Milk spray really works",
+      "• Go easy on urea"
+    ]
+  },
+  "Soybean__southern_blight": {
+    "crop": "Soybean",
+    "crop_hindi": "सोयाबीन",
+    "disease": "Southern Blight (Collar Rot)",
+    "is_healthy": false,
+    "description": "A soil fungus that rots the stem at soil level, leaving white fan-like threads and mustard-seed bodies.",
+    "cause": "Sclerotium rolfsii, a soil-borne fungus thriving in hot, wet soil rich in undecomposed residue.",
+    "affected_parts": [
+      "Stem base",
+      "Roots",
+      "Whole plant"
+    ],
+    "symptoms": [
+      "Sudden wilting of an otherwise healthy-looking plant",
+      "White fan-like fungal threads at the stem base",
+      "Round tan 'mustard seed' bodies on the stem and soil",
+      "Stem rots at ground level and the plant collapses"
+    ],
+    "treatment": [
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic, as a soil drench at the collar",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre as drench",
+        "interval": "At first symptoms, repeat in 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Tebuconazole 25.9% EC",
+        "purpose": "Systemic soil and collar treatment",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre as drench",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Trichoderma viride (bio)",
+        "purpose": "Biological soil suppression",
+        "application": "Foliar spray",
+        "dosage": "5 kg per acre with FYM",
+        "interval": "At sowing and 30 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Carbendazim 50% WP — 1 g per litre as drench, at first symptoms, repeat in 15 days.",
+      "Tebuconazole 25.9% EC — 1 ml per litre as drench, every 15 days.",
+      "Trichoderma viride (bio) — 5 kg per acre with FYM, at sowing and 30 days."
+    ],
+    "organic_remedy": [
+      "Apply Trichoderma viride enriched farmyard manure at sowing — the best long-term control.",
+      "Uproot and burn collapsed plants along with the soil around the collar.",
+      "Deep-plough in summer to expose the sclerotia to the sun.",
+      "Avoid burying fresh undecomposed residue just before sowing."
+    ],
+    "prevention": [
+      "Rotate with cereals for 2 seasons.",
+      "Treat seed with Trichoderma or carbendazim.",
+      "Ensure good drainage.",
+      "Let residue decompose fully before sowing."
+    ],
+    "preventive_measures": [
+      "Rotate with cereals for 2 seasons.",
+      "Treat seed with Trichoderma or carbendazim.",
+      "Ensure good drainage.",
+      "Let residue decompose fully before sowing."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "FYM + Trichoderma",
+        "purpose": "Apply 2 tonnes per acre enriched with Trichoderma; suppresses the fungus."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; strengthens the stem base."
+      },
+      {
+        "name": "Lime",
+        "purpose": "Apply per soil test; raising pH slows this fungus."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Look for white threads at the base",
+      "• Trichoderma at sowing is the fix",
+      "• Summer ploughing helps"
+    ]
+  },
+  "Soybean__caterpillar": {
+    "crop": "Soybean",
+    "crop_hindi": "सोयाबीन",
+    "disease": "Caterpillar (Defoliator) Damage",
+    "is_healthy": false,
+    "description": "Leaf-eating caterpillars stripping the canopy; heavy attack at pod-fill can cut yield sharply.",
+    "cause": "Semilooper, tobacco caterpillar (Spodoptera) and girdle beetle larvae feeding on the canopy.",
+    "affected_parts": [
+      "Leaves",
+      "Pods"
+    ],
+    "symptoms": [
+      "Ragged holes and chewed leaf margins",
+      "Green droppings on the leaves below",
+      "Caterpillars visible on the leaf underside",
+      "Whole leaves skeletonised in heavy attack"
+    ],
+    "treatment": [
+      {
+        "name": "Emamectin Benzoate 5% SG",
+        "purpose": "Highly effective on caterpillars",
+        "application": "Foliar spray",
+        "dosage": "0.4 g per litre",
+        "interval": "As needed, 15-day gap",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Chlorantraniliprole 18.5% SC",
+        "purpose": "Long-lasting, low dose",
+        "application": "Foliar spray",
+        "dosage": "0.3 ml per litre",
+        "interval": "As needed, 20-day gap",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Quinalphos 25% EC",
+        "purpose": "Broad-spectrum knockdown",
+        "application": "Foliar spray",
+        "dosage": "2 ml per litre",
+        "interval": "As needed, 15-day gap",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Emamectin Benzoate 5% SG — 0.4 g per litre, as needed, 15-day gap.",
+      "Chlorantraniliprole 18.5% SC — 0.3 ml per litre, as needed, 20-day gap.",
+      "Quinalphos 25% EC — 2 ml per litre, as needed, 15-day gap."
+    ],
+    "organic_remedy": [
+      "Spray Bacillus thuringiensis (Bt) at 2 g/L — deadly to caterpillars, safe for people and bees.",
+      "Install pheromone traps (5 per acre) to monitor and mass-trap moths.",
+      "Set up bird perches; birds clear a lot of caterpillars.",
+      "Hand-pick and destroy large caterpillars in small plots."
+    ],
+    "prevention": [
+      "Deep-plough in summer to kill resting pupae.",
+      "Sow on time and keep the field weed-free.",
+      "Scout twice weekly from flowering.",
+      "Spray only past the economic threshold to protect natural enemies."
+    ],
+    "preventive_measures": [
+      "Deep-plough in summer to kill resting pupae.",
+      "Sow on time and keep the field weed-free.",
+      "Scout twice weekly from flowering.",
+      "Spray only past the economic threshold to protect natural enemies."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; helps the crop recover lost leaf area."
+      },
+      {
+        "name": "Urea (light spray)",
+        "purpose": "Spray 2% urea after damage to push fresh growth."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Bt spray is safe and works",
+      "• Pheromone traps warn you early",
+      "• Spray in the evening when larvae feed"
+    ]
+  },
+  "Soybean__diabrotica_speciosa": {
+    "crop": "Soybean",
+    "crop_hindi": "सोयाबीन",
+    "disease": "Cucurbit Beetle (Diabrotica) Damage",
+    "is_healthy": false,
+    "description": "Green-spotted beetles chewing round holes in leaves while their larvae damage roots and nodules.",
+    "cause": "Diabrotica speciosa beetle — adults eat the leaves, larvae attack roots and nodules.",
+    "affected_parts": [
+      "Leaves",
+      "Roots",
+      "Nodules"
+    ],
+    "symptoms": [
+      "Round shot-holes chewed through the leaves",
+      "Bright green beetles with pale spots on the foliage",
+      "Larvae feeding on roots and root nodules",
+      "Plants yellow and lodge in patches"
+    ],
+    "treatment": [
+      {
+        "name": "Thiamethoxam 25% WG",
+        "purpose": "Systemic control of adults and soil stages",
+        "application": "Foliar spray",
+        "dosage": "0.3 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Imidacloprid 17.8% SL",
+        "purpose": "Systemic, also useful as a seed treatment",
+        "application": "Foliar spray",
+        "dosage": "0.3 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Lambda-cyhalothrin 5% EC",
+        "purpose": "Quick knockdown of adult beetles",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "As needed",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Thiamethoxam 25% WG — 0.3 g per litre, every 15 days.",
+      "Imidacloprid 17.8% SL — 0.3 ml per litre, every 15 days.",
+      "Lambda-cyhalothrin 5% EC — 1 ml per litre, as needed."
+    ],
+    "organic_remedy": [
+      "Treat seed with a neem or imidacloprid formulation to protect the early root zone.",
+      "Spray neem oil (5 ml/L) to deter feeding adults.",
+      "Deep-plough after harvest to expose larvae and pupae.",
+      "Rotate away from legumes and cucurbits to break the cycle."
+    ],
+    "prevention": [
+      "Rotate crops every season.",
+      "Treat seed before sowing.",
+      "Plough deeply in summer.",
+      "Scout for the adult beetles from the seedling stage."
+    ],
+    "preventive_measures": [
+      "Rotate crops every season.",
+      "Treat seed before sowing.",
+      "Plough deeply in summer.",
+      "Scout for the adult beetles from the seedling stage."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 50 kg per acre; helps damaged roots regrow."
+      },
+      {
+        "name": "Rhizobium Culture",
+        "purpose": "Re-coat seed; restores nodulation lost to larval feeding."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Round holes = beetle damage",
+      "• Larvae hit the roots below",
+      "• Seed treatment pays off"
+    ]
+  },
+  "Sugarcane__healthy": {
+    "crop": "Sugarcane",
+    "crop_hindi": "गन्ना",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy sugarcane crop with erect, deep green leaves and good cane girth.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Irrigate at regular intervals; never let the field stay waterlogged.",
+      "Trash-mulch between rows to conserve moisture and suppress weeds.",
+      "Earth up the rows at the right stage to prevent lodging."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "Urea",
+        "purpose": "Apply 100–120 kg per acre in splits; drives cane growth."
+      },
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 50–60 kg per acre as basal; strong root establishment."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 50 kg per acre; improves sugar recovery and stalk strength."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Crop is healthy",
+      "• Trash mulching saves water",
+      "• Earth up to stop lodging"
+    ]
+  },
+  "Sugarcane__bacterial_blight": {
+    "crop": "Sugarcane",
+    "crop_hindi": "गन्ना",
+    "disease": "Bacterial Blight (Leaf Scald)",
+    "is_healthy": false,
+    "description": "A bacterial disease producing sharp white leaf streaks, wilting and sudden death of stalks.",
+    "cause": "Xanthomonas albilineans bacteria, spread mainly by infected setts and contaminated cutting knives.",
+    "affected_parts": [
+      "Leaves",
+      "Stalks",
+      "Whole plant"
+    ],
+    "symptoms": [
+      "Narrow white or cream 'pencil-line' streaks along the leaf",
+      "Leaves wilt and dry from the tip",
+      "Side shoots grow abnormally from the stalk",
+      "Red discolouration inside the split cane; stalks die suddenly"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective bactericide",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Streptomycin Sulphate",
+        "purpose": "Sett treatment and foliar check",
+        "application": "Foliar spray",
+        "dosage": "0.5 g per 10 litres",
+        "interval": "Sett dip + every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Sett treatment against secondary rots",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre as sett dip",
+        "interval": "Before planting",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15 days.",
+      "Streptomycin Sulphate — 0.5 g per 10 litres, sett dip + every 15 days.",
+      "Carbendazim 50% WP — 1 g per litre as sett dip, before planting."
+    ],
+    "organic_remedy": [
+      "Treat setts in hot water (50°C for 2 hours) before planting — the single most effective step.",
+      "Disinfect the cutting knife with bleach between every clump.",
+      "Uproot and burn affected clumps together with the stubble.",
+      "Take seed cane only from a certified disease-free nursery plot."
+    ],
+    "prevention": [
+      "Plant only healthy, certified setts.",
+      "Use hot-water sett treatment routinely.",
+      "Disinfect all cutting tools.",
+      "Do not ratoon a badly affected field."
+    ],
+    "preventive_measures": [
+      "Plant only healthy, certified setts.",
+      "Use hot-water sett treatment routinely.",
+      "Disinfect all cutting tools.",
+      "Do not ratoon a badly affected field."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 50 kg per acre; potash improves stalk strength and tolerance."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 10 tonnes per acre; supports vigorous, resistant growth."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• White pencil lines on the leaf",
+      "• Hot-water treat the setts",
+      "• Disinfect the knife every clump"
+    ]
+  },
+  "Sugarcane__red_stripe": {
+    "crop": "Sugarcane",
+    "crop_hindi": "गन्ना",
+    "disease": "Red Stripe (Top Rot)",
+    "is_healthy": false,
+    "description": "Long red leaf stripes that can progress into a foul-smelling rot of the growing point.",
+    "cause": "Acidovorax avenae bacteria, favoured by heavy nitrogen, high humidity and waterlogging.",
+    "affected_parts": [
+      "Leaves",
+      "Growing point"
+    ],
+    "symptoms": [
+      "Long narrow water-soaked stripes turning dark red on the leaf blade",
+      "Stripes run parallel to the midrib",
+      "Growing point rots with a bad smell in severe cases",
+      "Top leaves dry out and the spindle pulls out easily"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective bactericide",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Streptomycin Sulphate",
+        "purpose": "Checks bacterial spread in the spindle",
+        "application": "Foliar spray",
+        "dosage": "0.5 g per 10 litres",
+        "interval": "Every 12–15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Copper Hydroxide 77% WP",
+        "purpose": "Contact protection in wet weather",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15 days.",
+      "Streptomycin Sulphate — 0.5 g per 10 litres, every 12–15 days.",
+      "Copper Hydroxide 77% WP — 2 g per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Cut out and burn plants whose growing point has rotted.",
+      "Improve drainage — this disease follows standing water.",
+      "Reduce heavy nitrogen doses; split them instead.",
+      "Spray 1% Bordeaux mixture into the leaf whorl during humid spells."
+    ],
+    "prevention": [
+      "Plant tolerant varieties.",
+      "Avoid excess nitrogen and waterlogging.",
+      "Use healthy setts from a clean field.",
+      "Remove and burn affected tops promptly."
+    ],
+    "preventive_measures": [
+      "Plant tolerant varieties.",
+      "Avoid excess nitrogen and waterlogging.",
+      "Use healthy setts from a clean field.",
+      "Remove and burn affected tops promptly."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 50 kg per acre; balances heavy nitrogen and hardens tissue."
+      },
+      {
+        "name": "Urea (split doses)",
+        "purpose": "Split the 100–120 kg per acre into 3 doses instead of one heavy application."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Red stripes down the leaf",
+      "• Too much urea invites it",
+      "• Fix drainage first"
+    ]
+  },
+  "Tea__healthy": {
+    "crop": "Tea",
+    "crop_hindi": "चाय",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy tea bush with a dense, glossy plucking table and even new flush.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Maintain a mulch layer to conserve moisture and keep soil cool.",
+      "Prune on schedule to keep the plucking table young and productive.",
+      "Use neem-based sprays and respect the plucking waiting period."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "Urea",
+        "purpose": "Apply 60–80 kg N per acre per year in splits; drives the flush."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; improves flush quality and drought tolerance."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre; tea responds strongly to zinc."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Bush is healthy",
+      "• Keep the plucking round on time",
+      "• Mulch conserves moisture"
+    ]
+  },
+  "Tea__algal_leaf": {
+    "crop": "Tea",
+    "crop_hindi": "चाय",
+    "disease": "Algal Leaf Spot (Red Rust)",
+    "is_healthy": false,
+    "description": "Raised orange-red velvety patches caused by a parasitic alga, common on weak, poorly nourished bushes.",
+    "cause": "The parasitic alga Cephaleuros, thriving on stressed, poorly fed bushes in humid shade.",
+    "affected_parts": [
+      "Leaves",
+      "Twigs"
+    ],
+    "symptoms": [
+      "Circular raised orange-red velvety spots on leaves",
+      "Spots have a rough, slightly hairy surface",
+      "Grey scars remain after the alga dries",
+      "Bark cracking on twigs in severe cases"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "The standard control for algal spot",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Bordeaux Mixture 1%",
+        "purpose": "Traditional and highly effective",
+        "application": "Foliar spray",
+        "dosage": "10 g per litre",
+        "interval": "Before and after monsoon",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Copper Hydroxide 77% WP",
+        "purpose": "Contact protection",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 20 days",
+        "safety": "Observe the plucking waiting period"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15–20 days.",
+      "Bordeaux Mixture 1% — 10 g per litre, before and after monsoon.",
+      "Copper Hydroxide 77% WP — 2 g per litre, every 20 days."
+    ],
+    "organic_remedy": [
+      "Improve nutrition — this alga attacks hungry, stressed bushes.",
+      "Prune out affected twigs and burn them.",
+      "Thin excessive shade to let light and air in.",
+      "Improve drainage in low-lying sections of the field."
+    ],
+    "prevention": [
+      "Keep the bushes properly fed and mulched.",
+      "Maintain moderate, not deep, shade.",
+      "Prune on schedule and remove weak wood.",
+      "Ensure the plot drains freely."
+    ],
+    "preventive_measures": [
+      "Keep the bushes properly fed and mulched.",
+      "Maintain moderate, not deep, shade.",
+      "Prune on schedule and remove weak wood.",
+      "Ensure the plot drains freely."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Urea",
+        "purpose": "Apply as per schedule; well-fed bushes shrug this off."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; improves bush vigour."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre; corrects a common tea deficiency."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• A disease of hungry bushes",
+      "• Copper spray works well",
+      "• Thin the shade"
+    ]
+  },
+  "Tea__anthracnose": {
+    "crop": "Tea",
+    "crop_hindi": "चाय",
+    "disease": "Anthracnose",
+    "is_healthy": false,
+    "description": "Large brown blighted areas spreading from the leaf margin, with tiny black dots in the dead tissue.",
+    "cause": "Colletotrichum fungus entering through wounds, favoured by wet weather and hail or pruning injury.",
+    "affected_parts": [
+      "Leaves",
+      "Young shoots"
+    ],
+    "symptoms": [
+      "Pale green water-soaked patches at the leaf edge",
+      "Patches turn brown to grey with a dark border",
+      "Tiny black specks scattered in the dead area",
+      "Leaves drop; young shoots die back"
+    ],
+    "treatment": [
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic curative",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective cover spray",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Hexaconazole 5% EC",
+        "purpose": "Systemic, for severe outbreaks",
+        "application": "Foliar spray",
+        "dosage": "2 ml per litre",
+        "interval": "Every 20 days",
+        "safety": "Observe the plucking waiting period"
+      }
+    ],
+    "chemical_spray": [
+      "Carbendazim 50% WP — 1 g per litre, every 15 days.",
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15–20 days.",
+      "Hexaconazole 5% EC — 2 ml per litre, every 20 days."
+    ],
+    "organic_remedy": [
+      "Prune out and burn affected shoots below the diseased tissue.",
+      "Spray a protective 1% Bordeaux mixture after pruning or hail damage.",
+      "Avoid injuring the bushes during wet weather.",
+      "Improve airflow by thinning dense shade."
+    ],
+    "prevention": [
+      "Spray protectively right after pruning — wounds are the entry point.",
+      "Maintain balanced nutrition.",
+      "Remove and burn diseased leaf litter.",
+      "Avoid working the bushes when wet."
+    ],
+    "preventive_measures": [
+      "Spray protectively right after pruning — wounds are the entry point.",
+      "Maintain balanced nutrition.",
+      "Remove and burn diseased leaf litter.",
+      "Avoid working the bushes when wet."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; hardens tissue against infection."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply generously; strong bushes resist anthracnose."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Enters through wounds",
+      "• Spray after pruning",
+      "• Burn the prunings"
+    ]
+  },
+  "Tea__bird_eye_spot": {
+    "crop": "Tea",
+    "crop_hindi": "चाय",
+    "disease": "Bird's Eye Spot",
+    "is_healthy": false,
+    "description": "Small round spots with pale centres and dark rings that look like tiny bird's eyes, common on young leaves.",
+    "cause": "Cercoseptoria (Cercospora) theae fungus, favoured by drought stress followed by humidity and strong sun.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "symptoms": [
+      "Small round brown spots on young leaves",
+      "Spots develop a pale grey/white centre with a dark ring",
+      "Spots stay small and scattered",
+      "Heavy spotting downgrades the made-tea quality"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective spray",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic curative",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Broad-spectrum protection",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Observe the plucking waiting period"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15–20 days.",
+      "Carbendazim 50% WP — 1 g per litre, every 15 days.",
+      "Mancozeb 75% WP — 2 g per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Provide adequate shade — this spot follows sun and drought stress.",
+      "Mulch heavily to conserve soil moisture.",
+      "Irrigate during dry spells to remove the stress trigger.",
+      "Remove and destroy heavily spotted leaf litter."
+    ],
+    "prevention": [
+      "Maintain proper shade cover.",
+      "Mulch and irrigate to avoid drought stress.",
+      "Keep nutrition balanced.",
+      "Pluck on time so old leaves do not accumulate."
+    ],
+    "preventive_measures": [
+      "Maintain proper shade cover.",
+      "Mulch and irrigate to avoid drought stress.",
+      "Keep nutrition balanced.",
+      "Pluck on time so old leaves do not accumulate."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; improves drought tolerance."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre; supports healthy new flush."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• A stress disease — shade and mulch",
+      "• Looks like tiny bird's eyes",
+      "• Irrigate in dry spells"
+    ]
+  },
+  "Tea__brown_blight": {
+    "crop": "Tea",
+    "crop_hindi": "चाय",
+    "disease": "Brown Blight",
+    "is_healthy": false,
+    "description": "Brown blighted patches with concentric rings spreading inward from the leaf tip or margin.",
+    "cause": "Colletotrichum / Glomerella fungus attacking bushes weakened by drought, poor nutrition or pruning wounds.",
+    "affected_parts": [
+      "Leaves",
+      "Shoots"
+    ],
+    "symptoms": [
+      "Brown patches starting at the leaf tip or edge",
+      "Clear concentric rings within the dead area",
+      "Tiny black dots (fruiting bodies) in the brown tissue",
+      "Leaf fall and dieback of weak shoots"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective cover spray",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic curative",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Propiconazole 25% EC",
+        "purpose": "Systemic, for persistent attack",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 20 days",
+        "safety": "Observe the plucking waiting period"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15–20 days.",
+      "Carbendazim 50% WP — 1 g per litre, every 15 days.",
+      "Propiconazole 25% EC — 1 ml per litre, every 20 days."
+    ],
+    "organic_remedy": [
+      "Correct the underlying stress — nutrition, drought or drainage.",
+      "Prune out and burn blighted shoots.",
+      "Spray 1% Bordeaux mixture before the monsoon.",
+      "Mulch to keep soil moisture even."
+    ],
+    "prevention": [
+      "Keep bushes well fed and mulched.",
+      "Prune on schedule and spray the wounds.",
+      "Improve drainage in wet patches.",
+      "Remove diseased litter from the field."
+    ],
+    "preventive_measures": [
+      "Keep bushes well fed and mulched.",
+      "Prune on schedule and spray the wounds.",
+      "Improve drainage in wet patches.",
+      "Remove diseased litter from the field."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Urea",
+        "purpose": "Apply per schedule in splits; hungry bushes get brown blight."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; builds resistance."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Rings inside the brown patch",
+      "• Fix the stress, not just the fungus",
+      "• Spray after pruning"
+    ]
+  },
+  "Tea__red_leaf_spot": {
+    "crop": "Tea",
+    "crop_hindi": "चाय",
+    "disease": "Red Leaf Spot",
+    "is_healthy": false,
+    "description": "Reddish-brown spots on mature leaves, usually on bushes under nutrient or moisture stress.",
+    "cause": "Fungal leaf-spot infection on bushes weakened by poor nutrition, drought or exposure.",
+    "affected_parts": [
+      "Leaves"
+    ],
+    "symptoms": [
+      "Small reddish-brown spots on mature leaves",
+      "Spots enlarge with a darker margin",
+      "Affected leaves yellow and fall early",
+      "Mostly on the older, lower leaves"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Protective spray",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Broad-spectrum protection",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Observe the plucking waiting period"
+      },
+      {
+        "name": "Carbendazim 50% WP",
+        "purpose": "Systemic curative",
+        "application": "Foliar spray",
+        "dosage": "1 g per litre",
+        "interval": "Every 15 days",
+        "safety": "Observe the plucking waiting period"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 15–20 days.",
+      "Mancozeb 75% WP — 2 g per litre, every 15 days.",
+      "Carbendazim 50% WP — 1 g per litre, every 15 days."
+    ],
+    "organic_remedy": [
+      "Feed the bushes properly — this spot follows nutrient hunger.",
+      "Mulch and irrigate to remove drought stress.",
+      "Maintain suitable shade to reduce leaf scorch.",
+      "Collect and burn fallen spotted leaves."
+    ],
+    "prevention": [
+      "Keep to a balanced fertiliser schedule.",
+      "Maintain mulch and shade.",
+      "Prune out weak, exposed wood.",
+      "Remove infected litter regularly."
+    ],
+    "preventive_measures": [
+      "Keep to a balanced fertiliser schedule.",
+      "Maintain mulch and shade.",
+      "Prune out weak, exposed wood.",
+      "Remove infected litter regularly."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Urea",
+        "purpose": "Apply per schedule; corrects the nitrogen hunger behind the spots."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; strengthens mature leaves."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Spray 5 g per litre; supports overall bush health."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Feed the bush first",
+      "• Mulch to hold moisture",
+      "• Burn fallen leaves"
+    ]
+  },
+  "Wheat__healthy": {
+    "crop": "Wheat",
+    "crop_hindi": "गेहूँ",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy wheat crop with erect, deep green leaves and even tillering.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Irrigate at the critical stages — crown root, tillering, flowering and grain filling.",
+      "Keep the field weed-free during the first 30–40 days.",
+      "Use certified, treated seed each season."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "Urea",
+        "purpose": "Apply 55–60 kg per acre in 2–3 splits; the main yield driver."
+      },
+      {
+        "name": "DAP (Phosphorus)",
+        "purpose": "Apply 50 kg per acre as basal; strong roots and tillers."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 20–25 kg per acre; fills the grain and stiffens the straw."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Apply 10 kg per acre; corrects the widespread zinc shortage in wheat soils."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Crop is healthy",
+      "• Irrigate at crown root stage without fail",
+      "• Weed in the first month"
+    ]
+  },
+  "Wheat__yellow_rust": {
+    "crop": "Wheat",
+    "crop_hindi": "गेहूँ",
+    "disease": "Yellow Rust (Stripe Rust)",
+    "is_healthy": false,
+    "description": "Bright yellow powdery pustules in neat stripes between the leaf veins — the most damaging rust in cool climates.",
+    "cause": "Puccinia striiformis fungus, spreading rapidly in cool (10–18°C) humid weather with dew.",
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheath",
+      "Ear"
+    ],
+    "symptoms": [
+      "Bright yellow-orange pustules arranged in long stripes",
+      "Stripes run between the veins along the leaf",
+      "Yellow powder rubs off on your hand or clothes",
+      "Leaves dry early; grain stays shrivelled and light"
+    ],
+    "treatment": [
+      {
+        "name": "Propiconazole 25% EC",
+        "purpose": "The standard rust fungicide",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Repeat after 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Tebuconazole 25.9% EC",
+        "purpose": "Systemic, strong curative",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Repeat after 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Azoxystrobin + Tebuconazole",
+        "purpose": "Combination for heavy pressure",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Propiconazole 25% EC — 1 ml per litre, repeat after 15 days.",
+      "Tebuconazole 25.9% EC — 1 ml per litre, repeat after 15 days.",
+      "Azoxystrobin + Tebuconazole — 1 ml per litre, every 15–20 days."
+    ],
+    "organic_remedy": [
+      "Scout weekly from December — early spraying at first stripes saves the crop.",
+      "Remove and destroy the first infected patches if the outbreak is small and localised.",
+      "Avoid excess nitrogen, which makes soft rust-prone growth.",
+      "Sow at the recommended time; very late sowing meets peak rust weather."
+    ],
+    "prevention": [
+      "Sow rust-resistant varieties — the single best defence.",
+      "Sow on time.",
+      "Avoid heavy, late nitrogen doses.",
+      "Report and treat the first focus immediately."
+    ],
+    "preventive_measures": [
+      "Sow rust-resistant varieties — the single best defence.",
+      "Sow on time.",
+      "Avoid heavy, late nitrogen doses.",
+      "Report and treat the first focus immediately."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 20–25 kg per acre; potash improves rust tolerance."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Apply 10 kg per acre; supports recovery after infection."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Yellow powder rubs off on your hand",
+      "• Spray at the very first stripe",
+      "• Resistant varieties are the real fix"
+    ]
+  },
+  "Wheat__brown_rust": {
+    "crop": "Wheat",
+    "crop_hindi": "गेहूँ",
+    "disease": "Brown Rust (Leaf Rust)",
+    "is_healthy": false,
+    "description": "Round orange-brown pustules scattered over the leaf blade, common in warmer wheat areas.",
+    "cause": "Puccinia triticina fungus, favoured by warm (15–25°C) humid weather and dew.",
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheath"
+    ],
+    "symptoms": [
+      "Round to oval orange-brown pustules scattered on the upper leaf",
+      "Pustules are not in stripes, unlike yellow rust",
+      "Yellow halo may surround the pustules",
+      "Early leaf drying and poorly filled grain"
+    ],
+    "treatment": [
+      {
+        "name": "Propiconazole 25% EC",
+        "purpose": "Standard, effective on leaf rust",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Repeat after 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Tebuconazole 25.9% EC",
+        "purpose": "Systemic curative",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Repeat after 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Protective, useful early",
+        "application": "Foliar spray",
+        "dosage": "2.5 g per litre",
+        "interval": "Every 12–15 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Propiconazole 25% EC — 1 ml per litre, repeat after 15 days.",
+      "Tebuconazole 25.9% EC — 1 ml per litre, repeat after 15 days.",
+      "Mancozeb 75% WP — 2.5 g per litre, every 12–15 days."
+    ],
+    "organic_remedy": [
+      "Scout from tillering and spray at the first pustules.",
+      "Sow on time and avoid very dense stands.",
+      "Do not over-apply urea.",
+      "Destroy volunteer wheat plants that carry rust between seasons."
+    ],
+    "prevention": [
+      "Grow resistant varieties.",
+      "Sow at the recommended time and seed rate.",
+      "Balanced fertiliser, not excess nitrogen.",
+      "Remove volunteer plants after harvest."
+    ],
+    "preventive_measures": [
+      "Grow resistant varieties.",
+      "Sow at the recommended time and seed rate.",
+      "Balanced fertiliser, not excess nitrogen.",
+      "Remove volunteer plants after harvest."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 20–25 kg per acre; improves rust tolerance."
+      },
+      {
+        "name": "Zinc Sulphate",
+        "purpose": "Apply 10 kg per acre; supports grain filling under stress."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Round scattered pustules, not stripes",
+      "• Spray early",
+      "• Kill volunteer wheat"
+    ]
+  },
+  "Wheat__septoria": {
+    "crop": "Wheat",
+    "crop_hindi": "गेहूँ",
+    "disease": "Septoria Leaf Blotch",
+    "is_healthy": false,
+    "description": "Irregular pale blotches with tiny black dots inside, spreading up the plant in wet weather.",
+    "cause": "Zymoseptoria tritici fungus, spread by rain splash in cool, wet, extended humid weather.",
+    "affected_parts": [
+      "Leaves",
+      "Leaf sheath"
+    ],
+    "symptoms": [
+      "Irregular pale green to yellow blotches on lower leaves",
+      "Blotches turn grey-brown with a dark margin",
+      "Tiny black dots (pycnidia) visible inside the dead tissue",
+      "Disease climbs up towards the flag leaf in wet spells"
+    ],
+    "treatment": [
+      {
+        "name": "Propiconazole 25% EC",
+        "purpose": "Systemic, effective on septoria",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Mancozeb 75% WP",
+        "purpose": "Protective cover",
+        "application": "Foliar spray",
+        "dosage": "2.5 g per litre",
+        "interval": "Every 12–15 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Azoxystrobin 23% SC",
+        "purpose": "Systemic, protects the flag leaf",
+        "application": "Foliar spray",
+        "dosage": "1 ml per litre",
+        "interval": "Every 15–20 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Propiconazole 25% EC — 1 ml per litre, every 15 days.",
+      "Mancozeb 75% WP — 2.5 g per litre, every 12–15 days.",
+      "Azoxystrobin 23% SC — 1 ml per litre, every 15–20 days."
+    ],
+    "organic_remedy": [
+      "Protect the flag leaf above all — it fills most of the grain.",
+      "Avoid dense sowing so the canopy dries quickly.",
+      "Bury or remove infected stubble, where the fungus survives.",
+      "Rotate away from wheat for a season in badly affected fields."
+    ],
+    "prevention": [
+      "Use certified, treated seed.",
+      "Rotate crops and manage stubble.",
+      "Sow at the recommended density.",
+      "Watch the flag leaf closely in wet seasons."
+    ],
+    "preventive_measures": [
+      "Use certified, treated seed.",
+      "Rotate crops and manage stubble.",
+      "Sow at the recommended density.",
+      "Watch the flag leaf closely in wet seasons."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 20–25 kg per acre; hardens leaf tissue."
+      },
+      {
+        "name": "Urea (split)",
+        "purpose": "Split the dose rather than a single heavy application."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Tiny black dots inside the blotch",
+      "• Save the flag leaf",
+      "• Manage the stubble"
+    ]
+  },
+  "Pepper_bell__healthy": {
+    "crop": "Pepper",
+    "crop_hindi": "शिमला मिर्च",
+    "disease": "Healthy",
+    "is_healthy": true,
+    "description": "Healthy bell pepper plant with firm, deep green leaves and good fruit set.",
+    "cause": "No disease — the plant looks healthy.",
+    "affected_parts": [],
+    "symptoms": [
+      "No disease symptoms seen",
+      "Leaves are of normal colour and shape",
+      "Growth looks even and vigorous"
+    ],
+    "treatment": [],
+    "chemical_spray": [],
+    "organic_remedy": [
+      "Water at the base; keep the leaves dry to avoid bacterial spot.",
+      "Mulch to hold even soil moisture and prevent blossom-end rot.",
+      "Spray neem oil (5 ml/L) every 10–15 days as a preventive shield."
+    ],
+    "prevention": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "preventive_measures": [
+      "Keep using certified, disease-free planting material.",
+      "Rotate crops and keep the field free of weeds and crop debris.",
+      "Scout the field once a week so any problem is caught early."
+    ],
+    "best_time_to_spray": "No spraying needed while the crop is healthy — do routine care in the cool morning hours.",
+    "fertilizers": [
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre from flowering; prevents blossom-end rot."
+      },
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; improves fruit thickness and colour."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre before transplanting."
+      }
+    ],
+    "safety_tips": [
+      "Scout the field weekly so problems are caught early.",
+      "Keep tools clean and disinfected between plots."
+    ],
+    "farmer_tips": [
+      "• Plant is healthy",
+      "• Even watering prevents end rot",
+      "• Stake heavy-fruited plants"
+    ]
+  },
+  "Pepper_bell__bacterial_spot": {
+    "crop": "Pepper",
+    "crop_hindi": "शिमला मिर्च",
+    "disease": "Bacterial Spot",
+    "is_healthy": false,
+    "description": "Small dark water-soaked leaf spots and scabby fruit lesions that spread fast in warm wet weather.",
+    "cause": "Xanthomonas bacteria, spread by rain splash, overhead irrigation, tools and infected seed.",
+    "affected_parts": [
+      "Leaves",
+      "Stems",
+      "Fruit"
+    ],
+    "symptoms": [
+      "Small dark water-soaked spots on leaves with yellow halos",
+      "Spots become angular and dry, centres may tear out",
+      "Raised scabby brown spots on the fruit",
+      "Heavy leaf drop exposing fruit to sunscald"
+    ],
+    "treatment": [
+      {
+        "name": "Copper Oxychloride 50% WP",
+        "purpose": "Standard protective bactericide",
+        "application": "Foliar spray",
+        "dosage": "3 g per litre",
+        "interval": "Every 7–10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Streptomycin Sulphate",
+        "purpose": "Checks bacterial multiplication",
+        "application": "Foliar spray",
+        "dosage": "0.5 g per 10 litres",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      },
+      {
+        "name": "Copper Hydroxide 77% WP",
+        "purpose": "Contact protection after rain",
+        "application": "Foliar spray",
+        "dosage": "2 g per litre",
+        "interval": "Every 10 days",
+        "safety": "Follow label pre-harvest interval"
+      }
+    ],
+    "chemical_spray": [
+      "Copper Oxychloride 50% WP — 3 g per litre, every 7–10 days.",
+      "Streptomycin Sulphate — 0.5 g per 10 litres, every 10 days.",
+      "Copper Hydroxide 77% WP — 2 g per litre, every 10 days."
+    ],
+    "organic_remedy": [
+      "Use certified disease-free seed, or treat seed in hot water (50°C for 25 minutes).",
+      "Never work among the plants while the foliage is wet.",
+      "Remove and burn severely spotted leaves and fruit.",
+      "Switch to drip irrigation and stop all overhead watering."
+    ],
+    "prevention": [
+      "Use clean, treated seed and healthy seedlings.",
+      "Rotate away from solanaceous crops for 2 years.",
+      "Avoid overhead irrigation.",
+      "Disinfect stakes and tools between seasons."
+    ],
+    "preventive_measures": [
+      "Use clean, treated seed and healthy seedlings.",
+      "Rotate away from solanaceous crops for 2 years.",
+      "Avoid overhead irrigation.",
+      "Disinfect stakes and tools between seasons."
+    ],
+    "best_time_to_spray": "Early morning (6–9 AM) or late afternoon (after 4 PM), on a calm day with no rain expected for 6 hours.",
+    "fertilizers": [
+      {
+        "name": "Muriate of Potash (MOP)",
+        "purpose": "Apply 30–40 kg per acre; hardens tissue against bacterial entry."
+      },
+      {
+        "name": "Calcium Nitrate",
+        "purpose": "Spray 3–4 g per litre; strengthens cell walls."
+      },
+      {
+        "name": "FYM / Compost",
+        "purpose": "Apply 8–10 tonnes per acre; healthy soil, tougher plants."
+      }
+    ],
+    "safety_tips": [
+      "Wear gloves, a mask and full-sleeved clothes while mixing and spraying.",
+      "Never spray against the wind; keep children and animals away from the field.",
+      "Do not eat, drink or smoke during spraying; wash hands and face afterwards.",
+      "Respect the pre-harvest interval printed on the product label before picking."
+    ],
+    "farmer_tips": [
+      "• Spreads in rain splash",
+      "• Drip, never overhead",
+      "• Treat the seed before sowing"
+    ]
+  }
+}
